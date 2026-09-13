@@ -1,0 +1,39 @@
+name: Update configs
+ 
+on:
+  schedule:
+    - cron: "0 5 * * *"   # every day 05:00 UTC
+  workflow_dispatch:       # allow manual run from the Actions tab
+ 
+permissions:
+  contents: write
+ 
+concurrency:
+  group: update-configs
+  cancel-in-progress: true
+ 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+ 
+      - name: Download, filter, rewrite
+        env:
+          # optional: set a repo variable TARGET_IP in
+          # Settings -> Secrets and variables -> Actions -> Variables
+          TARGET_IP: ${{ vars.TARGET_IP || '104.18.37.127' }}
+        run: python filter.py
+ 
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || git commit -m "Update filtered configs $(date -u +%Y-%m-%d)"
+          git push
