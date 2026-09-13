@@ -166,16 +166,19 @@ def rewrite_uri(line: str) -> str | None:
     return rebuilt
 
 
-def rewrite_vmess(line: str) -> str | None:
-    """vmess://<base64 JSON> lines."""
+def load_vmess_obj(line: str):
     payload = line[len("vmess://"):]
     try:
         if payload.lstrip().startswith("{"):
-            obj = json.loads(payload)
-        else:
-            obj = json.loads(b64flex(payload).decode("utf-8", "ignore"))
+            return json.loads(payload)
+        return json.loads(b64flex(payload).decode("utf-8", "ignore"))
     except Exception:
         return None
+
+
+def rewrite_vmess(line: str) -> str | None:
+    """vmess://<base64 JSON> lines."""
+    obj = load_vmess_obj(line)
     if not isinstance(obj, dict):
         return None
     if str(obj.get("port")) != "443":
@@ -193,8 +196,45 @@ def rewrite_vmess(line: str) -> str | None:
     return "vmess://" + base64.b64encode(out.encode()).decode()
 
 
-def process_lines(lines: list, seen: set, bucket: dict, stats: dict) -> int:
-    kept = 0
+def dedup_key(line: str) -> str:
+    """
+    Identity of a config: everything that changes the real connection
+    (scheme, uuid/password, sni, host, path, every query parameter value).
+
+    Deliberately IGNORES:
+      - the display name (#fragment at the end)
+      - the order of query parameters (?a=1&b=2 == ?b=2&a=1)
+      - url-encoding differences (%2F == /)
+
+    So two links that are the same server with a different label collapse
+    into one, but ANY real difference (uuid, path, sni, host, port...)
+    keeps both links - unique links are never removed.
+    """
+    if line.lower().startswith("vmess://"):
+        obj = load_vmess_obj(line)
+        if isinstance(obj, dict):
+            core = {k: v for k, v in obj.items() if k != "ps"}
+            return "vmess|" + json.dumps(core, sort_keys=True,
+                                         ensure_ascii=False, default=str)
+        return line
+    m = URI_RE.match(line)
+    if not m:
+        return line
+    scheme, rest = m.group(1).lower(), m.group(2)
+    i = rest.find("#")
+    if i != -1:
+        rest = rest[:i]
+    i = rest.find("?")
+    query = rest[i + 1:] if i != -1 else ""
+    head = rest[:i] if i != -1 else rest
+    userinfo = head.rsplit("@", 1)[0] if "@" in head else head
+    params = sorted(parse_qsl(query, keep_blank_values=True))
+    return f"{scheme}|{userinfo}|" + repr(params)
+
+
+def collect(lines: list, exact_seen: set) -> list:
+    """Filter + rewrite raw lines; drop exact duplicates. Returns rewritten lines."""
+    kept = []
     for raw in lines:
         line = raw.strip()
         if not line or line.startswith(("#", "//")):
@@ -203,26 +243,23 @@ def process_lines(lines: list, seen: set, bucket: dict, stats: dict) -> int:
             result = rewrite_vmess(line)
         else:
             result = rewrite_uri(line)
-        if not result or result in seen:
+        if not result or result in exact_seen:
             continue
-        seen.add(result)
-        scheme = result.split("://", 1)[0]
-        bucket.setdefault(scheme, []).append(result)
-        bucket.setdefault("all", []).append(result)
-        kept += 1
+        exact_seen.add(result)
+        kept.append(result)
     return kept
 
 
-def write_outputs(bucket: dict):
+def write_outputs(groups: dict) -> list:
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    base64_names = {"all", "unique", "vless", "vmess", "trojan", "ss"}
     paths = []
-    for name in ("all", "vless", "vmess", "trojan", "ss"):
-        lines = bucket.get(name, [])
+    for name, lines in groups.items():
         plain = os.path.join(OUTPUT_DIR, f"{name}.txt")
         with open(plain, "w", encoding="utf-8") as fh:
             fh.write("\n".join(lines) + ("\n" if lines else ""))
         paths.append(plain)
-        if lines:
+        if name in base64_names and lines:
             b64 = os.path.join(OUTPUT_DIR, f"{name}_base64.txt")
             with open(b64, "w", encoding="utf-8") as fh:
                 fh.write(base64.b64encode(("\n".join(lines) + "\n").encode()).decode())
@@ -237,21 +274,42 @@ def main():
     print(f"Target IP : {TARGET_IP}")
     print(f"Sources   : {len(sources)}")
 
-    seen, bucket, failures = set(), {}, 0
+    exact_seen, entries, failures = set(), [], 0
     for url in sources:
         try:
             lines = decode_payload(fetch_with_retry(url))
         except Exception:
             failures += 1
             continue
-        kept = process_lines(lines, seen, bucket, {})
-        print(f"[ok] {url}  fetched={len(lines)}  kept={kept}")
+        got = collect(lines, exact_seen)
+        entries.extend(got)
+        print(f"[ok] {url}  fetched={len(lines)}  kept={len(got)}")
 
-    paths = write_outputs(bucket)
+    # "all" keeps every exactly-unique line (same as before).
+    # "unique" additionally collapses lines that are the same config
+    # written twice with a different #name or a different parameter order.
+    groups = {"all": [], "unique": [], "duplicates_removed": [],
+              "vless": [], "vmess": [], "trojan": [], "ss": []}
+    key_seen = set()
+    for line in entries:
+        scheme = line.split("://", 1)[0]
+        groups["all"].append(line)
+        if scheme in groups:
+            groups[scheme].append(line)
+        key = dedup_key(line)
+        if key in key_seen:
+            groups["duplicates_removed"].append(line)
+        else:
+            key_seen.add(key)
+            groups["unique"].append(line)
+
+    paths = write_outputs(groups)
     print("-" * 60)
-    print(f"Total kept: {len(bucket.get('all', []))}")
+    print(f"Exact-unique lines : {len(groups['all'])}")
+    print(f"Unique configs     : {len(groups['unique'])}")
+    print(f"Removed as same-config-different-name/order: {len(groups['duplicates_removed'])}")
     for name in ("vless", "vmess", "trojan", "ss"):
-        print(f"  {name:8s}: {len(bucket.get(name, []))}")
+        print(f"  {name:8s}: {len(groups[name])}")
     print(f"Failed sources: {failures}")
     for p in paths:
         print(f"  wrote {p}")
