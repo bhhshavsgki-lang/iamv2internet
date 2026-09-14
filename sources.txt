@@ -8,4 +8,8 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/protocols/wireguard.txt
  
