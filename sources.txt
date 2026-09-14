@@ -1,8 +1,7 @@
 # One subscription URL per line. Lines starting with # are ignored.
 # All of these are public aggregators updated daily by bot.
  
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
+
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
