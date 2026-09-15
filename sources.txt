@@ -2,6 +2,5 @@
 # All of these are public aggregators updated daily by bot.
 
 
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt
  
