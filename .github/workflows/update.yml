@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -23,17 +23,30 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Download, filter, rewrite
+      - name: Install xray-core (test engine)
+        run: |
+          curl -sL "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -o /tmp/xray.zip
+          unzip -o /tmp/xray.zip -d xray
+          chmod +x xray/xray
+          xray/xray version | head -1
+
+      - name: Download, filter, rewrite IP
         env:
           # optional: set a repo variable TARGET_IP in
           # Settings -> Secrets and variables -> Actions -> Variables
           TARGET_IP: ${{ vars.TARGET_IP || '104.18.37.127' }}
         run: python filter.py
 
+      - name: Test which configs actually work
+        env:
+          XRAY_PATH: ${{ github.workspace }}/xray/xray
+          WORKERS: "30"
+        run: python test_nodes.py
+
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/
-          git diff --cached --quiet || git commit -m "Update filtered configs $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "Update tested configs $(date -u +%Y-%m-%d)"
           git push
