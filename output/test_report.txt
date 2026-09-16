@@ -1,9 +1,9 @@
 Connectivity test report
-Date   : 2026-09-15 11:24 UTC
-Tested : 21937
-Working: 262 (1.2%)
+Date   : 2026-09-16 10:25 UTC
+Tested : 21686
+Working: 334 (1.5%)
 
-  vless  : 165/19222 alive
-  vmess  : 2/1193 alive
-  trojan : 95/1417 alive
-  ss     : 0/105 alive
+  vless  : 240/19040 alive
+  vmess  : 1/1184 alive
+  trojan : 93/1345 alive
+  ss     : 0/117 alive
