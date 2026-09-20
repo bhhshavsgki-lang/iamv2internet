@@ -1,0 +1,11 @@
+Original-config connectivity report
+Date   : 2026-09-20 19:55 UTC
+Tested : 30000
+Working: 2738 (9.1%)
+Fastest ping: 107 ms | median: 601 ms
+
+working.txt is sorted by ping - fastest at the top.
+
+  vless  : 2098/22969 alive
+  vmess  : 234/4705 alive
+  trojan : 406/2326 alive
