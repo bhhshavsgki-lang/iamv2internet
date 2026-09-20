@@ -1,55 +1,246 @@
-# One subscription URL per line. Lines starting with # are ignored.
-# All of these are public aggregators updated daily by bot (verified alive).
+#!/usr/bin/env python3
+"""
+Original-address filter (second pipeline - no IP rewriting).
 
-# ===== Big all-in-one lists (VLESS + VMess + Trojan + SS together) =====
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
-https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/mix
-https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/a11
-https://raw.githubusercontent.com/ts-sf/fly/main/v2
-https://raw.githubusercontent.com/free18/v2ray/main/v.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+1. Downloads every subscription URL in sources.txt
+2. Keeps ONLY vless:// vmess:// trojan:// configs - ANY port, ANY
+   transport (ws, grpc, tcp, reality...). The server address is kept
+   EXACTLY as it appears in the source list.
+3. Deduplicates: two links are the same config when protocol + secret +
+   server address + port + all parameter values are identical
+   (ignores only the #name and parameter order).
+4. Saves to output_original/ (separate from the CDN pipeline in output/).
+"""
 
-# ===== Per-protocol lists (thousands of entries each, fresh daily) =====
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vless.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vmess.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/trojan.txt
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Protocols/vless.txt
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Protocols/vmess.txt
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Protocols/trojan.txt
-https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/vless
-https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/v2
-https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/tr
-https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vless
-https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vmess
-https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/trojan
-https://raw.githubusercontent.com/V2RayRoot/V2rayConfig/main/Config/vless.txt
-https://raw.githubusercontent.com/V2RayRoot/V2rayConfig/main/Config/vmess.txt
-https://raw.githubusercontent.com/V2RayRoot/V2rayConfig/main/Config/trojan.txt
+import base64
+import json
+import os
+import re
+import ssl
+import time
+import urllib.error
+import urllib.request
+from urllib.parse import parse_qsl
 
-# ===== Smaller / curated lists (fresh daily) =====
-https://raw.githubusercontent.com/V2RayRoot/V2rayConfig/main/Config/proxies.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/README.md
-https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/README.md
-https://raw.githubusercontent.com/sakha1370/OpenRay/main/README.md
-https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/README.md
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/README.md
-https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/README.md
-https://raw.githubusercontent.com/Argh94/Proxy-List/main/README.md
-https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/README.md
-https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/README.md
-https://raw.githubusercontent.com/SHAHBBBB/V2ray-collector/main/README.md
-https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/README.md
-https://raw.githubusercontent.com/VovaplusEXP/p-configs/main/README.md
-https://raw.githubusercontent.com/ProblemTheCode/SylphNet-public/main/README.md
-https://raw.githubusercontent.com/kasesm/Free-Config/main/README.md
-https://raw.githubusercontent.com/mohammadaz2/v2rayConfigsForYou/main/README.md
+ALLOWED_SCHEMES = {"vless", "vmess", "trojan"}
+
+# Cap for files written to the repo - with ~1.4M raw lines per day the
+# full dumps would blow the git repo size. unique.txt is capped at this
+# many lines (the tester only tests the first MAX_TEST of them anyway).
+MAX_LINES = 150000
+
+TIMEOUT = 30
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SOURCES_FILE = os.path.join(BASE_DIR, "sources.txt")
+OUTPUT_DIR = os.path.join(BASE_DIR, "output_original")
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) config-filter/1.0"
+
+URI_RE = re.compile(r"^([A-Za-z][A-Za-z0-9+.\-]*)://(.*)$")
+HOSTPORT_RE = re.compile(r"^(?P<host>.+):(?P<port>\d+)(?P<path>/.*)?$")
+
+
+def fetch(url: str) -> str:
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            return resp.read().decode("utf-8", "ignore")
+    except urllib.error.URLError as exc:
+        reason = getattr(exc, "reason", exc)
+        if "CERTIFICATE_VERIFY_FAILED" not in str(reason):
+            raise
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    with urllib.request.urlopen(req, timeout=TIMEOUT, context=ctx) as resp:
+        return resp.read().decode("utf-8", "ignore")
+
+
+def fetch_with_retry(url: str) -> str:
+    last = None
+    for attempt in range(1, 5):
+        try:
+            text = fetch(url)
+            time.sleep(0.5)              # be gentle with raw.githubusercontent
+            return text
+        except Exception as exc:
+            last = exc
+            time.sleep(2 * attempt)      # backoff: 2s, 4s, 6s
+    print(f"[FAIL] {url}: {last}")
+    raise last
+
+
+def b64flex(data: str) -> bytes:
+    data = data.strip().replace("-", "+").replace("_", "/")
+    data += "=" * (-len(data) % 4)
+    return base64.b64decode(data)
+
+
+def decode_payload(text: str) -> list:
+    text = text.strip()
+    if not text:
+        return []
+    if "://" in text:
+        return text.splitlines()
+    try:
+        decoded = b64flex(text).decode("utf-8", "ignore")
+        if "://" in decoded:
+            return decoded.splitlines()
+    except Exception:
+        pass
+    out = []
+    for line in text.splitlines():
+        line = line.strip()
+        if "://" in line:
+            out.append(line)
+            continue
+        try:
+            decoded = b64flex(line).decode("utf-8", "ignore")
+            if "://" in decoded:
+                out.append(decoded.strip())
+        except Exception:
+            continue
+    return out
+
+
+def load_vmess_obj(line: str):
+    payload = line[len("vmess://"):]
+    try:
+        if payload.lstrip().startswith("{"):
+            return json.loads(payload)
+        return json.loads(b64flex(payload).decode("utf-8", "ignore"))
+    except Exception:
+        return None
+
+
+def normalize(line: str):
+    """Parse one config line. Returns (scheme, host, port) or None if unusable."""
+    m = URI_RE.match(line)
+    if not m:
+        return None
+    scheme, rest = m.group(1).lower(), m.group(2)
+    if scheme not in ALLOWED_SCHEMES:
+        return None
+
+    if scheme == "vmess":
+        obj = load_vmess_obj(line)
+        if not isinstance(obj, dict):
+            return None
+        host = str(obj.get("add", "")).strip()
+        port = str(obj.get("port", "")).strip()
+        if not host or not port.isdigit():
+            return None
+        return scheme, host, port
+
+    i = rest.find("#")
+    if i != -1:
+        rest = rest[:i]
+    i = rest.find("?")
+    head = rest[:i] if i != -1 else rest
+    if "@" not in head:
+        return None                      # ss-style payload, not testable
+    hostport = head.rsplit("@", 1)[1]
+    if "/" in hostport:
+        hostport = hostport.split("/", 1)[0]
+    hm = HOSTPORT_RE.match(hostport)
+    if not hm or len(hm.group("host")) < 3:
+        return None
+    return scheme, hm.group("host"), hm.group("port")
+
+
+def dedup_key(line: str) -> str:
+    """
+    Identity: protocol + secret + SERVER ADDRESS + port + every parameter
+    value. Ignores only the #name, parameter order and url-encoding.
+    """
+    parsed = normalize(line)
+    if parsed is None:
+        return line
+    scheme, host, port = parsed
+    m = URI_RE.match(line)
+    scheme_l, rest = m.group(1).lower(), m.group(2)
+    if scheme_l == "vmess":
+        obj = load_vmess_obj(line)
+        if isinstance(obj, dict):
+            core = {k: v for k, v in obj.items() if k != "ps"}
+            return "vmess|" + json.dumps(core, sort_keys=True,
+                                         ensure_ascii=False, default=str)
+        return line
+    i = rest.find("#")
+    if i != -1:
+        rest = rest[:i]
+    i = rest.find("?")
+    query = rest[i + 1:] if i != -1 else ""
+    head = rest[:i] if i != -1 else rest
+    userinfo = head.rsplit("@", 1)[0] if "@" in head else head
+    params = sorted(parse_qsl(query, keep_blank_values=True))
+    return f"{scheme_l}|{userinfo}|{host}:{port}|" + repr(params)
+
+
+def main():
+    with open(SOURCES_FILE, encoding="utf-8") as fh:
+        sources = [ln.strip() for ln in fh
+                   if ln.strip() and not ln.strip().startswith("#")]
+    print(f"Sources: {len(sources)} (original addresses, vless/vmess/trojan, any port)")
+
+    exact_seen, entries, failures = set(), [], 0
+    for url in sources:
+        try:
+            lines = decode_payload(fetch_with_retry(url))
+        except Exception:
+            failures += 1
+            continue
+        kept = 0
+        for raw in lines:
+            line = raw.strip()
+            if not line or line.startswith(("#", "//")):
+                continue
+            if normalize(line) is None:
+                continue
+            if line in exact_seen:
+                continue
+            exact_seen.add(line)
+            entries.append(line)
+            kept += 1
+        print(f"[ok] {url}  fetched={len(lines)}  kept={kept}")
+
+    groups = {"all": list(entries), "unique": [], "duplicates_removed": [],
+              "vless": [], "vmess": [], "trojan": []}
+    key_seen = set()
+    for line in entries:
+        scheme = line.split("://", 1)[0].lower()
+        if scheme in groups:
+            groups[scheme].append(line)
+        key = dedup_key(line)
+        if key in key_seen:
+            groups["duplicates_removed"].append(line)
+        else:
+            key_seen.add(key)
+            groups["unique"].append(line)
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    b64_names = {"all", "unique", "vless", "vmess", "trojan"}
+    for name, lines in groups.items():
+        cap = MAX_LINES if name in ("all", "unique") else 20000
+        if name == "duplicates_removed":
+            cap = 20000                     # audit file - truncated
+        cut = lines[:cap]
+        if len(lines) > cap:
+            print(f"[cap] {name}.txt truncated to {cap} of {len(lines)} lines")
+        with open(os.path.join(OUTPUT_DIR, f"{name}.txt"), "w", encoding="utf-8") as fh:
+            fh.write("\n".join(cut) + ("\n" if cut else ""))
+        if name in b64_names and cut:
+            with open(os.path.join(OUTPUT_DIR, f"{name}_base64.txt"), "w",
+                      encoding="utf-8") as fh:
+                fh.write(base64.b64encode(("\n".join(cut) + "\n").encode()).decode())
+
+    print("-" * 60)
+    print(f"Parsed lines        : {len(groups['all'])}")
+    print(f"Unique configs      : {len(groups['unique'])}")
+    print(f"Removed as duplicates: {len(groups['duplicates_removed'])}")
+    for name in ("vless", "vmess", "trojan"):
+        print(f"  {name:8s}: {len(groups[name])}")
+    print(f"Failed sources: {failures}")
+
+
+if __name__ == "__main__":
+    main()
