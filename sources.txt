@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+https://openproxylist.com/v2ray/rawlist/text
 
 # ===== Group 2: Per-protocol splits (thousands of entries each) =====
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
