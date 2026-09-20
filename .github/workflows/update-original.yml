@@ -1,0 +1,52 @@
+name: Update original configs
+
+on:
+  schedule:
+    - cron: "40 5 * * *"   # every day 05:40 UTC
+  workflow_dispatch:        # allow manual run from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-original-configs
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 200
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install xray-core (test engine)
+        run: |
+          curl -sL "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -o /tmp/xray.zip
+          unzip -o /tmp/xray.zip -d xray
+          chmod +x xray/xray
+          xray/xray version | head -1
+
+      - name: Collect original configs (no IP change, vless/vmess/trojan, any port)
+        run: python filter_original.py
+
+      - name: Test which originals actually work + ping + country
+        env:
+          XRAY_PATH: ${{ github.workspace }}/xray/xray
+          WORKERS: "50"
+          TEST_TIMEOUT: "7"
+          # candidate pool = previous working servers FIRST, then new ones;
+          # this cap keeps the run under GitHub's time limit (0 = test all)
+          MAX_TEST: "30000"
+        run: python test_original.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output_original/
+          git diff --cached --quiet || git commit -m "Update tested original configs $(date -u +%Y-%m-%d)"
+          git push
