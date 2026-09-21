@@ -1,406 +1,458 @@
-trojan://MiTIVPN@151.101.56.56:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US 188ms | EPODONIOS
-trojan://MiTIVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 202ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://MiTIVPN@151.101.56.56:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 229ms | EPODONIOS
-trojan://MiTIVPN@151.101.56.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 237ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 239ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://MiTIVPN@199.232.78.101:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 242ms | EPODONIOS
-trojan://MiTIVPN@167.82.76.7:443?host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#🇺🇸 US 249ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_256
-trojan://MiTIVPN@151.101.56.56:443?type=ws&security=tls&fp=chrome&sni=ssl.fastly.com&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&alpn=http/1.1#🇺🇸 US 252ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://MiTIVPN@151.101.56.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 281ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US 284ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 289ms | EPODONIOS
-trojan://MiTIVPN@167.82.76.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 319ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&sni=ssl.fastly.com&type=ws#🇺🇸 US 319ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 351ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 351ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US 376ms | EPODONIOS
-trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US 448ms | EPODONIOS
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#🇺🇸 US 494ms | EPODONIOS
-trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇨🇦 CA 511ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 514ms | EPODONIOS
-trojan://humanity@162.159.244.91:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US 515ms | EPODONIOS
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 516ms | EPODONIOS
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 CA 517ms | EPODONIOS
-trojan://humanity@104.16.72.2:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 519ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.72.2%20%3
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#🇺🇸 US 522ms | EPODONIOS
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 535ms | EPODONIOS
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA 537ms | EPODONIOS
-trojan://humanity@212.183.88.136:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇹 AT 540ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 542ms | EPODONIOS
-trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA 544ms | EPODONIOS
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 SC 549ms | EPODONIOS
-trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 CA 550ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.122.175%2
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#🇨🇦 CA 555ms | EPODONIOS
-trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA 560ms | EPODONIOS
-trojan://humanity@172.67.231.254:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇨🇦 CA 561ms | %F0%9F%8F%81RELAY-172.67.231.254-0650
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US 566ms | EPODONIOS
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US 570ms | EPODONIOS
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 571ms | EPODONIOS
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#🇨🇦 CA 571ms | EPODONIOS
-trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 FR 572ms | 🇫🇷
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇨🇦 CA 577ms | EPODONIOS
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 596ms | EPODONIOS
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 CA 611ms | EPODONIOS
-trojan://humanity@172.67.231.254:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 611ms | EPODONIOS
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#🇺🇸 US 614ms | EPODONIOS
-trojan://humanity@104.21.13.204:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 619ms | EPODONIOS
-trojan://humanity@165.215.250.14:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US 623ms | EPODONIOS
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇹 AT 624ms | EPODONIOS
-trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌍 ?? 625ms | EPODONIOS
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 631ms | EPODONIOS
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA 632ms | EPODONIOS
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 641ms | EPODONIOS
-trojan://humanity@45.205.0.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US 645ms | EPODONIOS
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 651ms | EPODONIOS
-trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?security=tls&sni=nl2.pleiades.codes&alpn=h2%2Chttp%2F1.1&fp=random&type=tcp#🇳🇱 NL 659ms | %F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2
-trojan://humanity@render.com:443?security=tls&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US 660ms | EPODONIOS
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US 664ms | EPODONIOS
-trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0#🇺🇸 US 671ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@www.speedtest.net:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 CA 699ms | EPODONIOS
-trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 707ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.152.73:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 709ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_246
-trojan://humanity@185.114.72.31:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇪🇸 ES 712ms | %F0%9F%87%AA%F0%9F%87%B8%20Madrid%2C%20ES%20%C2%B7
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 713ms | EPODONIOS
-trojan://humanity@104.16.7.70:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 720ms | EPODONIOS
-trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 720ms | EPODONIOS
-trojan://humanity@104.18.152.187:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 720ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_222
-trojan://humanity@188.114.97.6:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#🇨🇦 CA 728ms | EPODONIOS
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇸🇨 SC 729ms | %F0%9F%87%B8%F0%9F%87%A8_%E5%A1%9E%E8%88%8C%E5%B0%
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 730ms | EPODONIOS
-trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 730ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_65
-trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 734ms | EPODONIOS
-trojan://humanity@www.speedtest.net:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 734ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_68
-trojan://humanity@172.64.150.28:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 738ms | EPODONIOS
-trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 738ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_215
-trojan://humanity@104.18.152.152:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 739ms | EPODONIOS
-trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 744ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.152.77:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 746ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_236
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 751ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_132
-trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 755ms | %F0%9F%8F%81RELAY-104.18.152.179-0656
-trojan://humanity@104.16.174.37:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 755ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_156
-trojan://humanity@172.67.149.60:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 759ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_260
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 761ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#🇨🇦 CA 762ms | EPODONIOS
-trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 762ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_223
-trojan://humanity@104.18.152.143:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 763ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_143
-trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 764ms | EPODONIOS
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 764ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@185.255.179.166:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇩🇪 DE 768ms | EPODONIOS
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 769ms | EPODONIOS
-trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 770ms | EPODONIOS
-trojan://humanity@162.159.254.191:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 773ms | EPODONIOS
-trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 774ms | %F0%9F%8F%81RELAY-172.67.221.242-0428
-trojan://humanity@104.18.152.210:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 774ms | %F0%9F%8F%81RELAY-104.18.152.210-0659
-trojan://humanity@165.215.250.14:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 796ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_64
-trojan://humanity@104.21.46.3:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 799ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_258
-trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE 802ms | EPODONIOS
-trojan://humanity@104.18.152.210:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 802ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://humanity@104.18.152.108:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 805ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_237
-trojan://humanity@104.18.152.233:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 813ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_266
-trojan://humanity@104.18.152.144:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 816ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_150
-trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 820ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_124
-trojan://humanity@104.18.152.246:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 821ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 823ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@82.117.245.125:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE 824ms | %F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20OVH%
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 826ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.16.174.72:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 827ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.72%20
-trojan://humanity@46.102.156.144:2053?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#🇦🇹 AT 831ms | %F0%9F%87%A6%F0%9F%87%B9%20Langenzersdorf%2C%20AT%
-trojan://humanity@104.16.174.72:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 832ms | EPODONIOS
-trojan://humanity@104.18.22.63:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 832ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 833ms | %F0%9F%8F%81RELAY-104.17.111.1-0633
-trojan://humanity@104.18.152.149:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 838ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_185
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 FR 843ms | 🇫🇷
-trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 845ms | EPODONIOS
-trojan://humanity@www.speedtest.org:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌍 ?? 849ms | EPODONIOS
-trojan://humanity@104.18.152.219:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇨🇦 CA 849ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇭🇺 HU 849ms | %F0%9F%87%AD%F0%9F%87%BA%20Budapest%2C%20HU%20%C2%
-trojan://humanity@162.159.136.234:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 851ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_67
-trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?alpn=h2,http/1.1#🇳🇱 NL 854ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&type=ws#🌍 ?? 855ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_86
-trojan://humanity@104.18.152.159:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 857ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_126
-trojan://humanity@104.21.8.107:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 866ms | EPODONIOS
-trojan://humanity@104.16.174.34:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 876ms | EPODONIOS
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 878ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_75
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 880ms | EPODONIOS
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 883ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_166
-trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 885ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_210
-trojan://humanity@198.41.223.96:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 886ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_152
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0#🇺🇸 US 893ms | EPODONIOS
-trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌍 ?? 893ms | EPODONIOS
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 897ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.16.73.213:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 898ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_273
-trojan://humanity@86.38.214.205:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇹🇷 TR 905ms | %F0%9F%87%B1%F0%9F%87%B9_%E7%AB%8B%E9%99%B6%E5%AE%
-trojan://humanity@162.159.254.191:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 913ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_299
-trojan://humanity@104.16.174.6:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 915ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_265
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 916ms | EPODONIOS
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.154:4443?allowInsecure=0&sni=grape-turbo-fr.roxa.org#🇳🇱 NL 917ms | %E8%8D%B7%E5%85%B0_092101015
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 918ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_47
-trojan://humanity@104.18.152.175:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 918ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_219
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 920ms | EPODONIOS
-trojan://humanity@104.26.15.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 923ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_169
-trojan://humanity@8.6.112.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 923ms | %E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8B%E8%90%A8%E6%
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪 DE 929ms | EPODONIOS
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 936ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_189
-trojan://humanity@104.18.152.210:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 938ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_264
-trojan://humanity@172.67.188.109:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 940ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_151
-trojan://humanity@172.67.74.2:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 953ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_271
-trojan://humanity@www.ignitelimit.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&fp=chrome#🌍 ?? 996ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.18.152.155:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1003ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_100
-trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1007ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_51
-trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?sni=nl2.pleiades.codes&type=tcp&fp=chrome#🇳🇱 NL 1008ms | %E8%8D%B7%E5%85%B0_092101178
-trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇩🇪 DE 1009ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_255
-trojan://humanity@104.16.174.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1023ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.14%20
-trojan://humanity@104.16.174.185:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1026ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_212
-trojan://humanity@104.16.174.72:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1026ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_252
-trojan://humanity@185.36.141.81:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇪 EE 1034ms | %F0%9F%87%AA%F0%9F%87%AA%20Tallinn%2C%20EE%20%C2%B
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL 1037ms | EPODONIOS
-trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1050ms | EPODONIOS
-trojan://humanity@104.18.152.244:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1053ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_233
-trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 1055ms | EPODONIOS
-trojan://humanity@104.26.14.137:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1061ms | EPODONIOS
-trojan://humanity@104.16.174.121:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 1061ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 1068ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_49
-trojan://humanity@104.18.152.155:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1068ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_140
-trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#🇨🇦 CA 1071ms | EPODONIOS
-trojan://humanity@104.16.174.185:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1071ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_270
-trojan://humanity@172.67.221.242:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1075ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_72
-trojan://humanity@104.16.174.34:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1076ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_226
-trojan://humanity@104.26.15.137:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1079ms | EPODONIOS
-trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US 1081ms | EPODONIOS
-trojan://humanity@104.18.23.63:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1086ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_57
-trojan://humanity@104.17.111.3:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1092ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_206
-trojan://humanity@104.16.174.101:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 1093ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.22.63:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1094ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_52
-trojan://humanity@172.67.74.2:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1098ms | EPODONIOS
-trojan://humanity@88.198.82.150:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪 DE 1104ms | EPODONIOS
-trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 CA 1113ms | EPODONIOS
-trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1116ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.36%20
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1120ms | EPODONIOS
-trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1120ms | %F0%9F%8F%81RELAY-104.18.152.244-0648
-trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1127ms | %F0%9F%8F%81RELAY-104.18.12.149-0646
-trojan://humanity@104.17.111.1:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1127ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_173
-trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1128ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_274
-trojan://humanity@198.41.223.96:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1130ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_181
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1131ms | EPODONIOS
-trojan://humanity@130.250.137.171:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 1132ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_50
-trojan://humanity@104.18.152.113:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1132ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_113
-trojan://humanity@104.18.152.155:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1134ms | EPODONIOS
-trojan://humanity@104.16.174.143:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 1136ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1141ms | EPODONIOS
-trojan://humanity@165.215.250.14:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1#🇺🇸 US 1141ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@162.159.254.191:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 1145ms | EPODONIOS
-trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#🇨🇦 CA 1145ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1151ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_272
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1152ms | EPODONIOS
-trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1152ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_294
-trojan://humanity@104.16.174.143:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1153ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1159ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.16.174.72:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1164ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_202
-trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?security=tls#🇳🇱 NL 1164ms | %F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2
-trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 1166ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇩🇪 DE 1174ms | %F0%9F%8F%81RELAY-141.101.90.101-0635
-trojan://humanity@104.26.14.137:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1179ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_98
-trojan://humanity@104.16.73.213:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🌍 ?? 1180ms | %F0%9F%8F%81RELAY-104.16.73.213-0652
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2F%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1180ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_228
-trojan://humanity@104.18.152.140:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1185ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_243
-trojan://humanity@104.18.152.175:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 1187ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.152.233:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1197ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_118
-trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1200ms | %F0%9F%8F%81RELAY-188.114.97.7-0634
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1204ms | EPODONIOS
-trojan://humanity@172.67.149.60:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&type=ws#🇨🇦 CA 1204ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_82
-trojan://humanity@104.16.174.46:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1204ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_163
-trojan://humanity@www.speedtest.org:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1205ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_61
-trojan://humanity@104.18.152.161:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1207ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_213
-trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#🇨🇦 CA 1208ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.16.174.124:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1213ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.124%2
-trojan://humanity@104.21.8.107:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1226ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_89
-trojan://humanity@104.18.152.77:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1230ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_108
-trojan://humanity@104.21.8.107:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1235ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.17.177.143:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1238ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_84
-trojan://humanity@172.67.188.109:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌍 ?? 1244ms | EPODONIOS
-trojan://humanity@172.67.221.242:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1245ms | EPODONIOS
-trojan://humanity@162.159.136.234:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1263ms | %F0%9F%8F%81RELAY-162.159.136.234-0640
-trojan://humanity@104.16.174.109:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1271ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_214
-trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇩🇪 DE 1273ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_190
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0#🇺🇸 US 1275ms | EPODONIOS
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.33.59:443?security=tls&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan&sni=id1.nathaya.web.id&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇨🇦 CA 1278ms | v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%2
-trojan://humanity@104.21.8.107:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1298ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_111
-trojan://humanity@104.16.174.185:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1305ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.185%2
-trojan://humanity@104.16.73.213:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌍 ?? 1323ms | EPODONIOS
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1324ms | EPODONIOS
-trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1329ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_66
-trojan://humanity@104.18.152.73:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1331ms | EPODONIOS
-trojan://humanity@162.159.136.234:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1335ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_59
-trojan://humanity@104.18.152.143:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1336ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_141
-trojan://humanity@104.18.152.140:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1337ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_106
-trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1338ms | EPODONIOS
-trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪 DE 1365ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.18.152.50:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1367ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_207
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1368ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_164
-trojan://humanity@104.18.152.103:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1369ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_198
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.25.82.149:443?sni=id1.nathaya.web.id&type=ws&path=%2Ftrojan&fp=unsafe#🇨🇦 CA 1370ms | v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%2
-trojan://humanity@188.42.145.180:443?security=tls&type=ws&sni=www.volumeroot.com&path=/assignment&host=www.volumeroot.com#🇳🇱 NL 1382ms | %E6%9C%AA%E7%9F%A581
-trojan://humanity@104.18.23.63:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1412ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_46
-trojan://humanity@www.ignitelimit.com:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1429ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_81
-trojan://humanity@104.18.152.161:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1436ms | %F0%9F%8F%81RELAY-104.18.152.161-0637
-trojan://humanity@104.16.174.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1443ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_148
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1454ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_137
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?path=/trojan&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA 1464ms | EPODONIOS
-trojan://humanity@104.21.46.3:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1470ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_263
-trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1473ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_128
-trojan://humanity@188.114.97.7:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1473ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_176
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 1483ms | EPODONIOS
-trojan://humanity@104.18.152.246:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1483ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_211
-trojan://humanity@104.18.152.152:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1492ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_134
-trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1512ms | EPODONIOS
-trojan://humanity@104.16.174.148:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1521ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.148%2
-trojan://humanity@104.17.148.22:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1529ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_73
-trojan://humanity@104.16.174.6:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1538ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.6%20%
-trojan://humanity@104.16.174.33:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1542ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_259
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🌍 ?? 1561ms | %F0%9F%8F%81RELAY-104.18.22.63-0660
-trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇨🇦 CA 1563ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.18.152.207:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1564ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_193
-trojan://humanity@104.17.177.143:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1574ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_60
-trojan://humanity@104.16.174.22:443?host=www.ignitelimit.com&path=%2F%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1574ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_131
-trojan://humanity@172.67.221.242:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1579ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_77
-trojan://humanity@104.16.73.213:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1590ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_129
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?fp=unsafe&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&type=ws#🇨🇦 CA 1596ms | EPODONIOS
-trojan://humanity@172.67.188.109:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1598ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_155
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?path=/trojan&security=tls&insecure=0&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA 1602ms | EPODONIOS
-trojan://humanity@104.16.174.14:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1607ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_242
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 SC 1609ms | %5Bopenproxylist.com%5D%20FR%2015263188
-trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1625ms | %F0%9F%8F%81RELAY-104.16.174.34-0658
-trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1626ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_94
-trojan://humanity@104.17.148.22:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1634ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.148.22%20
-trojan://humanity@104.16.174.124:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 1637ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://humanity@104.18.152.204:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1657ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_232
-trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1662ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_154
-trojan://humanity@104.18.152.179:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1666ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_165
-trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1667ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_71
-trojan://humanity@185.18.250.252:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2Fassignment#🇪🇸 ES 1673ms | %F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%C2%B7%20
-trojan://humanity@104.18.152.152:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1690ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_99
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US 1701ms | EPODONIOS
-trojan://humanity@104.16.174.44:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1702ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.44%20
-trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1726ms | %F0%9F%8F%81RELAY-104.18.152.219-0657
-trojan://humanity@104.18.152.230:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1727ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_221
-trojan://humanity@104.17.177.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1739ms | %F0%9F%8F%81RELAY-104.17.177.143-0643
-trojan://humanity@104.18.15.230:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1748ms | EPODONIOS
-trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1748ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_127
-trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1754ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_179
-trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1755ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.109%2
-trojan://humanity@104.19.229.21:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1756ms | EPODONIOS
-trojan://humanity@104.18.152.152:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1768ms | %F0%9F%8F%81RELAY-104.18.152.152-0654
-trojan://humanity@104.18.152.233:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1769ms | %F0%9F%8F%81RELAY-104.18.152.233-0647
-trojan://humanity@104.16.174.109:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1778ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.109%2
-trojan://humanity@104.16.174.71:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 1780ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.71%20
-trojan://humanity@104.16.174.46:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1788ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_195
-trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1792ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_136
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1798ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1798ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_83
-trojan://humanity@104.17.177.143:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1809ms | EPODONIOS
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 1819ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_48
-trojan://humanity@104.17.111.3:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1835ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_62
-trojan://humanity@104.16.7.70:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1837ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_138
-trojan://humanity@104.18.152.207:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1839ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_149
-trojan://humanity@104.18.152.103:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1846ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_102
-trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 1861ms | %F0%9F%8F%81RELAY-104.16.174.121-0653
-trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1870ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_205
-trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇩🇪 DE 1882ms | EPODONIOS
-trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US 1887ms | EPODONIOS
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1891ms | EPODONIOS
-trojan://humanity@ip.myip2.qzz.io:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1892ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_175
-trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1914ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.111.1%20%
-trojan://humanity@104.16.7.70:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 1919ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.7.70%20%3
-trojan://humanity@104.26.15.137:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1920ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_101
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1948ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_107
-trojan://humanity@104.18.152.161:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1955ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_120
-trojan://humanity@104.16.174.71:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1967ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_110
-trojan://humanity@104.16.174.34:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1972ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_180
-trojan://humanity@104.16.174.14:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2003ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_216
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2005ms | EPODONIOS
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?path=/trojan&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA 2049ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2050ms | EPODONIOS
-trojan://humanity@104.18.152.50:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2057ms | EPODONIOS
-trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2058ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_178
-trojan://humanity@104.16.174.143:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2066ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_253
-trojan://humanity@104.18.152.230:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2076ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_97
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2078ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_115
-trojan://humanity@104.17.111.8:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 2080ms | %F0%9F%8F%81RELAY-104.17.111.8-0649
-trojan://humanity@104.18.152.187:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2085ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_112
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.154:4443?security=none&type=tcp&sni=grape-turbo-fr.roxa.org#🇳🇱 NL 2100ms | %F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2
-trojan://humanity@104.16.174.36:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2112ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.152.244:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2122ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_95
-trojan://humanity@104.18.152.159:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2126ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_91
-trojan://humanity@172.67.74.2:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2132ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_87
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL 2136ms | EPODONIOS
-trojan://humanity@162.159.136.234:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2144ms | EPODONIOS
-trojan://humanity@104.16.174.124:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2147ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_104
-trojan://humanity@104.16.174.117:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2147ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_153
-trojan://humanity@104.18.152.204:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2152ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_201
-trojan://humanity@104.18.152.229:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2182ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_192
-trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2182ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_262
-trojan://humanity@104.18.152.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2184ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_123
-trojan://humanity@104.16.174.148:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2186ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_119
-trojan://humanity@104.16.174.44:443?host=www.ignitelimit.com&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2187ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.44%20
-trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇩🇪 DE 2210ms | %F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_54
-trojan://humanity@104.16.174.148:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2252ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_186
-trojan://humanity@ip.myip2.qzz.io:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2317ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.16.174.22:443?security=tls&type=ws&sni=www.ignitelimit.com&path=//assignment#🇨🇦 CA 2320ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 2337ms | %F0%9F%8F%81RELAY-172.67.149.60-0642
-trojan://humanity@104.16.174.101:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2339ms | EPODONIOS
-trojan://humanity@104.16.174.121:443?path=//assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2340ms | EPODONIOS
-trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 2343ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.117%2
-trojan://humanity@104.18.15.230:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2357ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_122
-trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 2403ms | %F0%9F%8F%81RELAY-172.67.74.2-0639
-trojan://humanity@104.17.111.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2404ms | EPODONIOS
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2452ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.121%2
-trojan://humanity@86.38.214.205:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇹🇷 TR 2476ms | %F0%9F%87%B1%F0%9F%87%B9_%E7%AB%8B%E9%99%B6%E5%AE%
-trojan://humanity@104.17.111.3:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 2484ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.111.3%20%
-trojan://humanity@www.speedtest.org:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 2488ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_184
-trojan://humanity@104.17.111.1:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2508ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_116
-trojan://humanity@104.18.152.208:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2510ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_93
-trojan://humanity@104.17.111.4:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2520ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_130
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2527ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_295
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2534ms | EPODONIOS
-trojan://humanity@172.67.188.109:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🌍 ?? 2540ms | %F0%9F%8F%81RELAY-172.67.188.109-0641
-trojan://humanity@104.18.152.144:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2540ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_139
-trojan://humanity@104.18.152.103:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2546ms | EPODONIOS
-trojan://humanity@162.159.254.191:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 2547ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_269
-trojan://humanity@8.47.69.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US 2566ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://humanity@104.17.111.8:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2620ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_172
-trojan://humanity@104.18.152.108:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2624ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_194
-trojan://humanity@104.16.174.101:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 2629ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.101%2
-trojan://humanity@104.16.174.33:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2641ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_187
-trojan://humanity@104.18.152.133:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2650ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_257
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2727ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_250
-trojan://skynet@cloud.lakshan.us:119?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cloud.lakshan.us#🇸🇬 SG 2755ms | EPODONIOS
-trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇺🇸 US 2792ms | %F0%9F%87%BA%F0%9F%87%B8US-130.250.137.171-0655
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2806ms | EPODONIOS
-trojan://humanity@104.18.152.73:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2823ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_142
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2854ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_76
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2887ms | EPODONIOS
-trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2934ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_133
-trojan://humanity@162.159.254.191:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇺🇸 US 2966ms | %F0%9F%8F%81RELAY-162.159.254.191-0638
-trojan://humanity@104.18.152.244:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 3008ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.16.174.22:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 3026ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_162
-trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 3033ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_268
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 3202ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_92
-trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇸🇨 SC 3223ms | %F0%9F%87%B8%F0%9F%87%A8_%E5%A1%9E%E8%88%8C%E5%B0%
-trojan://humanity@104.16.174.143:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 3256ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.143%2
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#🇳🇱 NL 3420ms | EPODONIOS
-trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌍 ?? 3677ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.18.152.179:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 3756ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_225
-trojan://humanity@104.16.174.22:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 3765ms | %F0%9F%8F%81RELAY-104.16.174.22-0645
-trojan://humanity@88.99.189.60:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE 3823ms | EPODONIOS
-trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 3827ms | %F0%9F%8F%81RELAY-104.16.174.6-0636
-trojan://humanity@ip.myip2.qzz.io:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 3985ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_114
-trojan://humanity@104.18.22.63:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 4130ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_53
-trojan://humanity@104.16.174.44:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 4150ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_161
-trojan://humanity@104.18.152.50:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA 4192ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-trojan://humanity@104.16.174.44:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 4223ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_117
-trojan://humanity@104.18.23.63:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 4670ms | EPODONIOS
-trojan://humanity@166.1.36.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇩🇪 DE 4777ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@104.17.111.1:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA 4980ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.111.1%20%
-trojan://humanity@104.16.174.14:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 5726ms | EPODONIOS
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 5811ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_291
-trojan://humanity@216.24.57.7:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US 6739ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_56
+trojan://bd85f5fe32d9446a8b1f59e4f710455b@104.24.163.206:443?path=/eyJqdW5rIjoibkN2cER2SDZIUTkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6IiIsInBhbmVsSVBzIjoiWzJhMDI6ODk4OjE0Njo2NDo6XSJ9?ed&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=BpB-PAnEL-62c3.mlM-eE9A3b83.wOrKErS.dev#🇨🇦 CA Toronto 113ms | v2go%20%7C%20TROJAN%20%7C%20758
+trojan://MiTIVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 124ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 130ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://MiTIVPN@199.232.78.101:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 145ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 165ms | 🇺🇸 US 448ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 174ms | EPODONIOS
+trojan://MiTIVPN@151.101.56.56:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 178ms | EPODONIOS
+trojan://MiTIVPN@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 180ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 193ms | EPODONIOS
+trojan://MiTIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 222ms | EPODONIOS
+trojan://Telegram_healer_config@172.67.130.246:443?path=/tr/zMUJnc0O87fJR02xzGNed?ed=2560&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=3OQxS5h6kCscecND.ZMh9KCGos2cq55uh6qDYaa938a5UgB.wOrkERS.dEV#🇨🇦 CA Toronto 228ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 255ms | EPODONIOS
+trojan://MiTIVPN@151.101.56.56:443?type=ws&security=tls&fp=chrome&sni=ssl.fastly.com&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&alpn=http/1.1#🇺🇸 US Chicago 273ms | 🇺🇸 US 252ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://MiTIVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US Chicago 388ms | 🇺🇸 US 376ms | EPODONIOS
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2Fassignment#🇪🇸 ES Madrid 414ms | 🇪🇸 ES 1673ms | %F0%9F%87%A8%F0%9F%87%AD%20Switzerl
+trojan://humanity@172.64.150.28:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA 422ms | 🇨🇦 CA 738ms | EPODONIOS
+trojan://humanity@172.67.231.254:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 430ms | 🇨🇦 CA 611ms | EPODONIOS
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 431ms | 🇨🇦 CA 631ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 438ms | 🇺🇸 US 351ms | EPODONIOS
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 439ms | 🇨🇦 CA 571ms | EPODONIOS
+trojan://MiTIVPN@167.82.76.7:443?host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#🇺🇸 US Chicago 441ms | 🇺🇸 US 249ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E
+trojan://MiTIVPN@151.101.56.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 453ms | 🇺🇸 US 281ms | EPODONIOS
+trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 SC Victoria 454ms | 🇸🇨 SC 549ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US Chicago 460ms | 🇺🇸 US 284ms | EPODONIOS
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 CA Toronto 460ms | 🇨🇦 CA 611ms | EPODONIOS
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 FR Victoria 463ms | 🇫🇷 FR 572ms | 🇫🇷
+trojan://humanity@104.16.174.72:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 465ms | 🇨🇦 CA 1026ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://MiTIVPN@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 467ms | 🇺🇸 US 351ms | EPODONIOS
+trojan://MiTIVPN@199.232.78.101:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 469ms | 🇺🇸 US 242ms | EPODONIOS
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 475ms | 🇨🇦 CA 596ms | EPODONIOS
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 484ms | 🇨🇦 CA 880ms | EPODONIOS
+trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 CA Toronto 491ms | 🇨🇦 CA 550ms | %F0%9F%8C%90%20Cloudflare%20%7C%2010
+trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?security=tls#🇳🇱 NL Amsterdam 492ms | 🇳🇱 NL 1164ms | %F0%9F%87%B3%F0%9F%87%B1%20Amsterda
+trojan://humanity@104.18.152.210:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 496ms | 🇨🇦 CA 938ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@172.67.231.254:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇨🇦 CA Toronto 506ms | 🇨🇦 CA 561ms | %F0%9F%8F%81RELAY-172.67.231.254-065
+trojan://humanity@104.26.14.137:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 506ms | 🇨🇦 CA 1061ms | EPODONIOS
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 507ms | 🇨🇦 CA 936ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 510ms | 🇨🇦 CA 542ms | EPODONIOS
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US Ann Arbor 515ms | 🇺🇸 US 918ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E
+trojan://MiTIVPN@151.101.56.56:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 520ms | 🇺🇸 US 229ms | EPODONIOS
+trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 520ms | 🇨🇦 CA 560ms | EPODONIOS
+trojan://MiTIVPN@167.82.76.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 521ms | 🇺🇸 US 319ms | EPODONIOS
+trojan://humanity@212.183.88.136:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇹 AT Vienna 522ms | 🇦🇹 AT 540ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@45.205.0.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Washington 523ms | 🇺🇸 US 645ms | EPODONIOS
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 CA Toronto 525ms | 🇨🇦 CA 517ms | EPODONIOS
+trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 529ms | 🇨🇦 CA 1050ms | EPODONIOS
+trojan://humanity@172.67.74.2:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 530ms | 🇨🇦 CA 953ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 530ms | 🇨🇦 CA 1023ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://MiTIVPN@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&sni=ssl.fastly.com&type=ws#🇺🇸 US Chicago 533ms | 🇺🇸 US 319ms | EPODONIOS
+trojan://humanity@www.ignitelimit.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&fp=chrome#🇨🇦 CA Toronto 533ms | 🌍 ?? 996ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 538ms | 🇨🇦 CA 641ms | EPODONIOS
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 541ms | 🇨🇦 CA 516ms | EPODONIOS
+trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US San Francisco 546ms | 🇺🇸 US 1055ms | EPODONIOS
+trojan://humanity@104.18.152.175:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 549ms | 🇨🇦 CA 918ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇹 AT Vienna 550ms | 🇦🇹 AT 624ms | EPODONIOS
+trojan://humanity@104.16.174.6:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 551ms | 🇨🇦 CA 915ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 554ms | 🌍 ?? 1329ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.121:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 557ms | 🇨🇦 CA 1061ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#🇨🇦 CA Toronto 560ms | 🇨🇦 CA 571ms | EPODONIOS
+trojan://humanity@166.1.36.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 560ms | 🇩🇪 DE 4777ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfur
+trojan://humanity@104.16.7.70:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 561ms | 🇨🇦 CA 720ms | EPODONIOS
+trojan://humanity@104.18.152.140:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 562ms | 🇨🇦 CA 1337ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.21.8.107:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 564ms | 🇨🇦 CA 866ms | EPODONIOS
+trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US San Francisco 564ms | 🇺🇸 US 1166ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 565ms | 🌍 ?? 625ms | EPODONIOS
+trojan://humanity@104.18.152.155:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 565ms | 🇨🇦 CA 1003ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@8.6.112.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US San Francisco 566ms | 🇺🇸 US 923ms | %E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8
+trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 568ms | %F0%9F%8F%81RELAY-104.21.46.3-0599
+trojan://humanity@165.215.250.14:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Ann Arbor 570ms | 🇺🇸 US 623ms | EPODONIOS
+trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?alpn=h2,http/1.1#🇳🇱 NL Amsterdam 570ms | 🇳🇱 NL 854ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.152.143:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 573ms | 🇨🇦 CA 1336ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 575ms | 🇺🇸 US 566ms | EPODONIOS
+trojan://humanity@104.18.152.77:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 576ms | 🇨🇦 CA 746ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 578ms | 🇨🇦 CA 755ms | %F0%9F%8F%81RELAY-104.18.152.179-065
+trojan://humanity@172.67.188.109:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 580ms | 🌍 ?? 940ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F
+trojan://humanity@104.16.174.14:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 581ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 583ms | 🇨🇦 CA 651ms | EPODONIOS
+trojan://humanity@104.18.152.244:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 585ms | 🇨🇦 CA 1053ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.72.2:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 586ms | 🇨🇦 CA 519ms | %F0%9F%8C%90%20Cloudflare%20%7C%2010
+trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?sni=nl2.pleiades.codes&type=tcp&fp=chrome#🇳🇱 NL Amsterdam 586ms | 🇳🇱 NL 1008ms | %E8%8D%B7%E5%85%B0_092101178
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 FR Toronto 587ms | 🇫🇷 FR 843ms | 🇫🇷
+trojan://humanity@162.159.244.91:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Newark 590ms | 🇺🇸 US 515ms | EPODONIOS
+trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 590ms | 🇨🇦 CA 734ms | EPODONIOS
+trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 591ms | 🇨🇦 CA 738ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.72:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 591ms | 🇨🇦 CA 1164ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@162.159.136.234:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 593ms | 🇨🇦 CA 1335ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%
+trojan://humanity@104.16.174.37:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 595ms | 🇨🇦 CA 755ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 597ms | 🌍 ?? 1007ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@162.159.254.191:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US Newark 598ms | 🇺🇸 US 913ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 603ms | 🇨🇦 CA 744ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 604ms | %F0%9F%8F%81RELAY-104.26.15.137-0602
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 605ms | 🇨🇦 CA 1204ms | EPODONIOS
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US San Francisco 609ms | 🇺🇸 US 920ms | EPODONIOS
+trojan://humanity@172.67.149.60:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&type=ws#🇨🇦 CA Toronto 609ms | 🇨🇦 CA 1204ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 611ms | 🇺🇸 US 289ms | EPODONIOS
+trojan://humanity@104.18.22.63:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 612ms | 🇨🇦 CA 832ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B
+trojan://MiTIVPN@151.101.56.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 616ms | 🇺🇸 US 237ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.152.219:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇨🇦 CA Toronto 617ms | 🇨🇦 CA 849ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B
+trojan://humanity@82.117.245.125:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE Frankfurt am Main 620ms | 🇩🇪 DE 824ms | %F0%9F%87%A9%F0%9F%87%AA%20Germany%2
+trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?security=tls&path=/#🇳🇱 NL Amsterdam 620ms | %F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2
+trojan://humanity@104.18.152.246:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 623ms | 🇨🇦 CA 821ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%
+trojan://humanity@104.21.13.204:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 626ms | 🇨🇦 CA 619ms | EPODONIOS
+trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 628ms | 🇨🇦 CA 1200ms | %F0%9F%8F%81RELAY-188.114.97.7-0634
+trojan://humanity@104.19.229.21:443?host=www.ignitelimit.com&path=assignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 629ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_59
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 630ms | 🇨🇦 CA 769ms | EPODONIOS
+trojan://humanity@104.16.174.143:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 630ms | 🇨🇦 CA 1136ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E
+trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 631ms | 🇨🇦 CA 883ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 633ms | 🇨🇦 CA 720ms | EPODONIOS
+trojan://humanity@104.18.152.73:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 633ms | 🇨🇦 CA 1331ms | EPODONIOS
+trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 634ms | 🇨🇦 CA 885ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.7.70:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 639ms | %F0%9F%8F%81RELAY-104.16.7.70-0604
+trojan://humanity@46.102.156.144:2053?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#🇦🇹 AT Wien 643ms | 🇦🇹 AT 831ms | %F0%9F%87%A6%F0%9F%87%B9%20Langenzer
+trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 644ms | 🇨🇦 CA 544ms | EPODONIOS
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#🇨🇦 CA Toronto 644ms | 🇨🇦 CA 555ms | EPODONIOS
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 645ms | 🇨🇦 CA 1159ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%
+trojan://MiTIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 647ms | 🇺🇸 US 239ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 647ms | 🇨🇦 CA 1152ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053?security=tls&sni=nl2.pleiades.codes&alpn=h2%2Chttp%2F1.1&fp=random&type=tcp#🇳🇱 NL Amsterdam 653ms | 🇳🇱 NL 659ms | %F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
+trojan://humanity@104.18.152.155:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 654ms | 🇨🇦 CA 1134ms | EPODONIOS
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0#🇺🇸 US San Francisco 656ms | 🇺🇸 US 893ms | EPODONIOS
+trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2F%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 659ms | 🇨🇦 CA 1180ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@render.com:443?security=tls&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US San Francisco 663ms | 🇺🇸 US 660ms | EPODONIOS
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 665ms | 🇨🇦 CA 535ms | EPODONIOS
+trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 669ms | 🇨🇦 CA 764ms | EPODONIOS
+trojan://humanity@104.16.73.213:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 669ms | 🌍 ?? 1180ms | %F0%9F%8F%81RELAY-104.16.73.213-0652
+trojan://humanity@191.96.94.226:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE Frankfurt am Main 670ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 672ms | 🇨🇦 CA 1120ms | EPODONIOS
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 675ms | 🇨🇦 CA 730ms | EPODONIOS
+trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 677ms | 🇨🇦 CA 845ms | EPODONIOS
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 682ms | 🇨🇦 CA 514ms | EPODONIOS
+trojan://humanity@104.21.8.107:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 682ms | 🇨🇦 CA 1298ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.72:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 684ms | 🇨🇦 CA 832ms | EPODONIOS
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇸🇨 SC Victoria 685ms | 🇸🇨 SC 729ms | %F0%9F%87%B8%F0%9F%87%A8_%E5%A1%9E%E
+trojan://humanity@104.16.174.33:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 687ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.33%20
+trojan://humanity@www.speedtest.net:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 691ms | 🇨🇦 CA 734ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 694ms | 🇨🇦 CA 699ms | EPODONIOS
+trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#🇨🇦 CA Toronto 703ms | 🇨🇦 CA 1145ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@172.67.221.242:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 703ms | 🇨🇦 CA 1245ms | EPODONIOS
+trojan://humanity@104.16.174.185:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 704ms | 🇨🇦 CA 1305ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 706ms | 🇨🇦 CA 878ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.152.210:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 714ms | 🇨🇦 CA 802ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%
+trojan://humanity@198.41.223.96:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 718ms | 🇨🇦 CA 1130ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Haßfurt 719ms | 🇩🇪 DE 802ms | EPODONIOS
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇨🇦 CA Toronto 723ms | 🇨🇦 CA 577ms | EPODONIOS
+trojan://MiTIVPN@151.101.56.56:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US Chicago 724ms | 🇺🇸 US 188ms | EPODONIOS
+trojan://humanity@8.47.69.0:443?alpn=http/1.1&fp=chrome&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#🇺🇸 US San Francisco 733ms | EPODONIOS
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 736ms | 🇨🇦 CA 1131ms | EPODONIOS
+trojan://humanity@104.21.8.107:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 743ms | 🇨🇦 CA 1226ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 749ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.121.43%20
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇭🇺 HU Budapest 787ms | 🇭🇺 HU 849ms | %F0%9F%87%AD%F0%9F%87%BA%20Budapest%
+trojan://humanity@www.speedtest.org:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌍 ?? 791ms | 🌍 ?? 849ms | EPODONIOS
+trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪 DE Munich 794ms | 🇩🇪 DE 929ms | EPODONIOS
+trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇩🇪 DE Munich 799ms | 🇩🇪 DE 1009ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 804ms | 🇨🇦 CA 1113ms | EPODONIOS
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇨🇦 CA Toronto 808ms | 🇨🇦 CA 511ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 814ms | 🇨🇦 CA 632ms | EPODONIOS
+trojan://humanity@104.16.174.46:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 817ms | 🇨🇦 CA 1204ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@185.36.141.81:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇪 EE Tallinn 822ms | 🇪🇪 EE 1034ms | %F0%9F%87%AA%F0%9F%87%AA%20Tallinn%
+trojan://humanity@104.16.174.34:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 827ms | 🇨🇦 CA 1076ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#🇺🇸 US San Francisco 841ms | 🇺🇸 US 494ms | EPODONIOS
+trojan://humanity@104.26.15.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 841ms | 🇨🇦 CA 923ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://MiTIVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US Chicago 843ms | 🇺🇸 US 202ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 843ms | EPODONIOS
+trojan://humanity@104.16.174.34:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 845ms | 🇨🇦 CA 876ms | EPODONIOS
+trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇩🇪 DE Munich 851ms | 🇩🇪 DE 1273ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@86.38.214.205:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇹🇷 TR Istanbul 853ms | 🇹🇷 TR 905ms | %F0%9F%87%B1%F0%9F%87%B9_%E7%AB%8B%E
+trojan://humanity@8.6.112.0:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US San Francisco 866ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_89
+trojan://humanity@104.18.152.149:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 868ms | 🇨🇦 CA 838ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@165.215.250.14:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US Ann Arbor 872ms | 🇺🇸 US 796ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E
+trojan://humanity@104.18.152.233:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 873ms | 🇨🇦 CA 1197ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.77:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 885ms | 🇨🇦 CA 1230ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@198.41.223.96:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 889ms | 🇨🇦 CA 886ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.152.144:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 889ms | %F0%9F%8F%81RELAY-104.18.152.144-0410
+trojan://humanity@162.159.136.234:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 893ms | 🇨🇦 CA 851ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E
+trojan://humanity@104.16.174.72:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 895ms | 🇨🇦 CA 827ms | %F0%9F%8C%90%20Cloudflare%20%7C%2010
+trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇱🇹 LT Vilnius 902ms | %F0%9F%87%B1%F0%9F%87%B9%20Vilnius%2C%20LT%20%C2%B
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 903ms | 🇨🇦 CA 713ms | EPODONIOS
+trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇩🇪 DE Munich 903ms | 🇩🇪 DE 1174ms | %F0%9F%8F%81RELAY-141.101.90.101-06
+trojan://humanity@104.16.73.213:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 905ms | 🌍 ?? 1323ms | EPODONIOS
+trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 907ms | 🇨🇦 CA 823ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B
+trojan://humanity@8.47.69.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 909ms | 🇺🇸 US 2566ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%
+trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 914ms | 🇨🇦 CA 1141ms | EPODONIOS
+trojan://humanity@104.18.152.210:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 923ms | 🇨🇦 CA 774ms | %F0%9F%8F%81RELAY-104.18.152.210-065
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 928ms | 🇨🇦 CA 1324ms | EPODONIOS
+trojan://humanity@104.16.7.70:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 934ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.7.70%20%3
+trojan://humanity@104.18.152.159:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 937ms | 🇨🇦 CA 857ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 937ms | 🇨🇦 CA 916ms | EPODONIOS
+trojan://humanity@104.19.229.21:443?path=assignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 938ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_81
+trojan://humanity@104.18.152.144:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 943ms | 🇨🇦 CA 816ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.37:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 945ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_84
+trojan://humanity@104.26.14.137:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 947ms | 🇨🇦 CA 1179ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 948ms | 🇨🇦 CA 820ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 956ms | 🇨🇦 CA 1152ms | EPODONIOS
+trojan://humanity@104.18.152.140:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 963ms | 🇨🇦 CA 1185ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#🇨🇦 CA Toronto 963ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#🇸🇪 SE Stockholm 975ms | %F0%9F%87%B8%F0%9F%87%AA%20Stockholm%2C%20SE%20%C2
+trojan://humanity@162.159.254.191:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US Newark 982ms | 🇺🇸 US 1145ms | EPODONIOS
+trojan://humanity@104.18.152.152:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1000ms | 🇨🇦 CA 739ms | EPODONIOS
+trojan://humanity@104.18.152.175:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 1000ms | 🇨🇦 CA 1187ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1003ms | 🇨🇦 CA 762ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.152.108:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1009ms | 🇨🇦 CA 805ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.109:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1028ms | 🇨🇦 CA 1271ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#🇨🇦 CA Toronto 1045ms | 🇨🇦 CA 1208ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#🇺🇸 US San Francisco 1046ms | 🇺🇸 US 614ms | EPODONIOS
+trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1050ms | 🌍 ?? 730ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F
+trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1054ms | 🇨🇦 CA 1128ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1068ms | 🇨🇦 CA 761ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@8.47.69.0:443?host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#🇺🇸 US San Francisco 1075ms | EPODONIOS
+trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#🇨🇦 CA Toronto 1077ms | 🇨🇦 CA 762ms | EPODONIOS
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#🇨🇦 CA Toronto 1092ms | 🇨🇦 CA 1071ms | EPODONIOS
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&type=ws#🇨🇦 CA Toronto 1103ms | 🌍 ?? 855ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F
+trojan://humanity@104.17.111.4:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1109ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.111.4%20%
+trojan://humanity@104.16.174.46:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#🇨🇦 CA Toronto 1140ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.46%20
+trojan://skynet@cloud.lakshan.us:119?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cloud.lakshan.us#🇸🇬 SG Singapore 1165ms | 🇸🇬 SG 2755ms | EPODONIOS
+trojan://humanity@104.18.152.187:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1193ms | 🇨🇦 CA 720ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1198ms | 🇨🇦 CA 1120ms | %F0%9F%8F%81RELAY-104.18.152.244-06
+trojan://humanity@104.18.152.233:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1219ms | 🇨🇦 CA 813ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1229ms | 🇨🇦 CA 833ms | %F0%9F%8F%81RELAY-104.17.111.1-0633
+trojan://humanity@104.18.152.143:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1267ms | 🇨🇦 CA 763ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.22:443?path=//assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1269ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.22%20
+trojan://humanity@104.16.174.101:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 1282ms | 🇨🇦 CA 1093ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1293ms | 🇨🇦 CA 897ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1335ms | 🇨🇦 CA 770ms | EPODONIOS
+trojan://humanity@104.18.152.152:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1376ms | 🇨🇦 CA 1492ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1383ms | 🇨🇦 CA 1368ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@ip.myip2.qzz.io:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1387ms | 🇨🇦 CA 3985ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.155:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1389ms | 🇨🇦 CA 1068ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.185:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1389ms | 🇨🇦 CA 1071ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1390ms | 🇨🇦 CA 1473ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1391ms | 🇨🇦 CA 1454ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇸🇨 SC Victoria 1393ms | 🇸🇨 SC 3223ms | %F0%9F%87%B8%F0%9F%87%A8_%E5%A1%9E%
+trojan://humanity@104.21.46.3:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1395ms | 🇨🇦 CA 1512ms | EPODONIOS
+trojan://humanity@104.16.174.143:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1397ms | 🇨🇦 CA 3256ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1398ms | 🇨🇦 CA 3827ms | %F0%9F%8F%81RELAY-104.16.174.6-0636
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1399ms | 🇨🇦 CA 3202ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.103:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1401ms | 🇨🇦 CA 1369ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.21.8.107:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🌍 ?? 1404ms | %F0%9F%8F%81RELAY-104.21.8.107-0597
+trojan://humanity@104.21.46.3:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1406ms | 🇨🇦 CA 799ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#🇸🇨 SC Victoria 1407ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%2
+trojan://humanity@104.18.152.50:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 1408ms | 🇨🇦 CA 4192ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E
+trojan://humanity@104.16.174.22:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1409ms | 🇨🇦 CA 3765ms | %F0%9F%8F%81RELAY-104.16.174.22-064
+trojan://humanity@104.18.152.73:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1410ms | 🇨🇦 CA 2823ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.21.46.3:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1411ms | 🇨🇦 CA 1470ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1414ms | 🇨🇦 CA 3033ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.207:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1415ms | 🇨🇦 CA 1564ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0#🇺🇸 US San Francisco 1419ms | 🇺🇸 US 671ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.114.97.7:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1419ms | 🇨🇦 CA 1473ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1419ms | 🌍 ?? 3677ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B
+trojan://humanity@104.18.22.63:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1420ms | 🇨🇦 CA 4130ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=//assignment&sni=www.calmlunch.com&type=ws#🇺🇸 US Ann Arbor 1421ms | EPODONIOS
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1422ms | 🌍 ?? 1561ms | %F0%9F%8F%81RELAY-104.18.22.63-0660
+trojan://humanity@172.67.188.109:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1422ms | 🌍 ?? 1598ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.22:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1427ms | 🇨🇦 CA 3026ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@216.24.57.7:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US San Francisco 1429ms | 🇺🇸 US 6739ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%
+trojan://humanity@104.17.148.22:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1438ms | 🇨🇦 CA 1529ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@www.ignitelimit.com:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1443ms | 🌍 ?? 1429ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.174.14:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1444ms | 🇨🇦 CA 5726ms | EPODONIOS
+trojan://humanity@104.16.174.148:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1445ms | 🇨🇦 CA 2252ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.148:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1446ms | 🇨🇦 CA 1521ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.17.111.3:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1447ms | 🇨🇦 CA 1092ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.133:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1449ms | 🇨🇦 CA 2650ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.111.8:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1456ms | 🇨🇦 CA 2620ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.177.143:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1459ms | 🇨🇦 CA 1574ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.233:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1463ms | 🇨🇦 CA 1769ms | %F0%9F%8F%81RELAY-104.18.152.233-06
+trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇨🇦 CA 1470ms | 🇨🇦 CA 1563ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%
+trojan://humanity@104.18.152.108:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1471ms | 🇨🇦 CA 2624ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1477ms | 🇨🇦 CA 1443ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1486ms | 🇨🇦 CA 2343ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.17.111.1:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1504ms | 🇨🇦 CA 2508ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.71:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1505ms | 🇨🇦 CA 1780ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?security=tls&sni=nat11.outsidemyheart.space&type=ws&path=/w4e5yh0p945y3&Host=nat11.outsidemyheart.space#🌍 ?? 1506ms | %F0%9F%8F%81RELAY-172.64.146.66-0406
+trojan://humanity@104.16.174.44:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1512ms | 🇨🇦 CA 1702ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.18.152.204:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1517ms | 🇨🇦 CA 1657ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US Denver 1518ms | 🇺🇸 US 1819ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1520ms | 🇨🇦 CA 2337ms | %F0%9F%8F%81RELAY-172.67.149.60-064
+trojan://humanity@104.16.174.185:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1524ms | 🇨🇦 CA 1026ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.204:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1527ms | 🇨🇦 CA 2152ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.152:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1528ms | 🇨🇦 CA 1768ms | %F0%9F%8F%81RELAY-104.18.152.152-06
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?fp=unsafe&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&type=ws#🇨🇦 CA Toronto 1531ms | 🇨🇦 CA 1596ms | EPODONIOS
+trojan://humanity@104.16.174.36:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1531ms | 🇨🇦 CA 2112ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@104.18.23.63:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1550ms | 🇨🇦 CA 1412ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.111.3:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1557ms | 🇨🇦 CA 1835ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.152:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1558ms | 🇨🇦 CA 1690ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.124:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇨🇦 CA Toronto 1561ms | 🇨🇦 CA 1637ms | %F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E
+trojan://humanity@104.19.229.21:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1563ms | 🇨🇦 CA 1756ms | EPODONIOS
+trojan://humanity@104.18.152.230:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1567ms | 🇨🇦 CA 1727ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US San Francisco 1577ms | 🇺🇸 US 1081ms | EPODONIOS
+trojan://humanity@104.18.152.103:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1580ms | 🇨🇦 CA 2546ms | EPODONIOS
+trojan://humanity@104.16.174.143:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1588ms | 🇨🇦 CA 1153ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@www.speedtest.org:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 1603ms | 🌍 ?? 1205ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0#🇺🇸 US San Francisco 1621ms | 🇺🇸 US 1275ms | EPODONIOS
+trojan://humanity@104.16.174.34:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1635ms | 🇨🇦 CA 1972ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.111.1:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1638ms | 🇨🇦 CA 1127ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.246:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1642ms | 🇨🇦 CA 1483ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@172.67.188.109:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1646ms | 🌍 ?? 1244ms | EPODONIOS
+trojan://humanity@130.250.137.171:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US Denver 1658ms | 🇺🇸 US 1132ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%
+trojan://humanity@104.17.111.8:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 1662ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.111.8%20%
+trojan://humanity@185.255.179.166:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇩🇪 DE Frankfurt Am Main 1667ms | 🇩🇪 DE 768ms | EPODONIOS
+trojan://humanity@91.245.225.79:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇭 CH Niederscherli 1677ms | %F0%9F%87%A8%F0%9F%87%AD%20Niederscherli%2C%20CH%2
+trojan://humanity@212.227.144.37:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇸 ES Madrid 1682ms | %F0%9F%87%AA%F0%9F%87%B8%20Spain%20%C2%B7%20IONOS%
+trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1683ms | 🇨🇦 CA 1870ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1685ms | 🇨🇦 CA 764ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B
+trojan://skynet@64.120.95.203:119?security=tls&sni=cloud.lakshan.us&fp=chrome&type=tcp&path=/#🌍 ?? 1687ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
+trojan://humanity@165.215.250.14:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1#🇺🇸 US Ann Arbor 1690ms | 🇺🇸 US 1141ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%
+trojan://humanity@render.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US San Francisco 1702ms | %E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%B7%9E
+trojan://humanity@162.159.254.191:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇺🇸 US Newark 1707ms | 🇺🇸 US 2966ms | %F0%9F%8F%81RELAY-162.159.254.191-0
+trojan://humanity@104.18.152.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1709ms | 🇨🇦 CA 2184ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.33:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1716ms | 🇨🇦 CA 2641ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.25.82.149:443?sni=id1.nathaya.web.id&type=ws&path=%2Ftrojan&fp=unsafe#🇨🇦 CA Toronto 1732ms | 🇨🇦 CA 1370ms | v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%
+trojan://humanity@104.16.174.44:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1732ms | 🇨🇦 CA 4223ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1734ms | 🇨🇦 CA 2727ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.50:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1741ms | 🇨🇦 CA 1367ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1745ms | 🇨🇦 CA 1625ms | %F0%9F%8F%81RELAY-104.16.174.34-065
+trojan://humanity@104.16.73.213:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1747ms | 🌍 ?? 898ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F
+trojan://humanity@104.18.152.161:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1748ms | 🇨🇦 CA 1436ms | %F0%9F%8F%81RELAY-104.18.152.161-06
+trojan://humanity@104.16.174.44:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1750ms | 🇨🇦 CA 4150ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.144:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1757ms | 🇨🇦 CA 2540ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.161:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1768ms | 🇨🇦 CA 1207ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1772ms | 🇨🇦 CA 2887ms | EPODONIOS
+trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1780ms | %F0%9F%8F%81RELAY-104.16.174.117-0600
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US Ann Arbor 1784ms | 🇺🇸 US 1483ms | EPODONIOS
+trojan://humanity@188.42.145.180:443?security=tls&type=ws&sni=www.volumeroot.com&path=/assignment&host=www.volumeroot.com#🇳🇱 NL Amsterdam 1787ms | 🇳🇱 NL 1382ms | %E6%9C%AA%E7%9F%A581
+trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1799ms | 🇨🇦 CA 1748ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@188.114.97.6:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#🇨🇦 CA Toronto 1804ms | 🇨🇦 CA 728ms | EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 1813ms | 🇨🇦 CA 537ms | EPODONIOS
+trojan://humanity@104.18.23.63:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1823ms | 🇨🇦 CA 1086ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.15.230:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1825ms | 🇨🇦 CA 1748ms | EPODONIOS
+trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1827ms | 🇨🇦 CA 1626ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1829ms | 🇨🇦 CA 1861ms | %F0%9F%8F%81RELAY-104.16.174.121-06
+trojan://humanity@172.67.221.242:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1846ms | 🇨🇦 CA 1579ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.111.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1851ms | 🇨🇦 CA 2404ms | EPODONIOS
+trojan://humanity@193.239.160.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇧🇬 BG Sofia 1861ms | %F0%9F%87%A7%F0%9F%87%AC%20Sofia%2C%20BG%20%C2%B7%
+trojan://humanity@104.16.174.33:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1868ms | 🇨🇦 CA 1542ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US San Francisco 1875ms | 🇺🇸 US 5811ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.44:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1883ms | %F0%9F%8F%81RELAY-104.16.174.44-0615
+trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US Denver 1899ms | 🇺🇸 US 1701ms | EPODONIOS
+trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US San Francisco 1907ms | 🇺🇸 US 1068ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%
+trojan://humanity@ip.myip2.qzz.io:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 1909ms | 🇨🇦 CA 2317ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@104.16.174.124:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1927ms | 🇨🇦 CA 2147ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1936ms | 🇨🇦 CA 2934ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.113:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1951ms | 🇨🇦 CA 1132ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.46:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 1951ms | 🇨🇦 CA 1788ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US San Francisco 1961ms | 🇺🇸 US 707ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇩🇪 DE Falkenstein 1970ms | 🇩🇪 DE 2210ms | %F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%
+trojan://humanity@162.159.136.234:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 1972ms | 🇨🇦 CA 1263ms | %F0%9F%8F%81RELAY-162.159.136.234-0
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 1998ms | 🇨🇦 CA 1798ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2000ms | 🇨🇦 CA 1116ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2043ms | 🇨🇦 CA 1792ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@172.67.149.60:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2047ms | 🇨🇦 CA 759ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@172.67.221.242:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2051ms | 🇨🇦 CA 1075ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.21.8.107:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2057ms | 🇨🇦 CA 1235ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2071ms | 🇨🇦 CA 2527ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.14:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#🇨🇦 CA Toronto 2079ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.14%20
+trojan://humanity@104.18.152.179:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2091ms | 🇨🇦 CA 3756ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 2092ms | 🇳🇱 NL 1037ms | EPODONIOS
+trojan://humanity@104.18.15.230:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2110ms | 🇨🇦 CA 2357ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2122ms | 🇨🇦 CA 2452ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA 2148ms | 🇨🇦 CA 774ms | %F0%9F%8F%81RELAY-172.67.221.242-042
+trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2167ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.121%2
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#🇳🇱 NL Amsterdam 2186ms | 🇳🇱 NL 3420ms | EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 2195ms | 🇳🇱 NL 2136ms | EPODONIOS
+trojan://humanity@104.16.174.124:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2199ms | 🇨🇦 CA 1213ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US Denver 2203ms | 🇺🇸 US 826ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B
+trojan://humanity@104.18.152.155:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2211ms | %F0%9F%8F%81RELAY-104.18.152.155-0607
+trojan://humanity@104.17.111.8:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2222ms | 🇨🇦 CA 2080ms | %F0%9F%8F%81RELAY-104.17.111.8-0649
+trojan://humanity@104.18.152.50:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2243ms | 🇨🇦 CA 2057ms | EPODONIOS
+trojan://humanity@104.18.152.73:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2258ms | 🇨🇦 CA 709ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.16.73.213:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2278ms | 🌍 ?? 1590ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?path=/trojan&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA Toronto 2305ms | 🇨🇦 CA 1464ms | EPODONIOS
+trojan://humanity@104.16.174.101:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2312ms | 🇨🇦 CA 2339ms | EPODONIOS
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2326ms | 🇨🇦 CA 2854ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.6:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2328ms | 🇨🇦 CA 1538ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.16.7.70:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2350ms | 🇨🇦 CA 1919ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2393ms | 🇨🇦 CA 2182ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@88.99.189.60:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Nuremberg 2484ms | 🇩🇪 DE 3823ms | EPODONIOS
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2492ms | 🇨🇦 CA 2534ms | EPODONIOS
+trojan://humanity@ip.myip2.qzz.io:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA 2511ms | 🇨🇦 CA 1892ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.177.143:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2531ms | 🇨🇦 CA 1238ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2546ms | 🌍 ?? 893ms | EPODONIOS
+trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 2567ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.72.50%20%
+trojan://humanity@104.16.174.14:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2575ms | 🇨🇦 CA 1607ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2597ms | %F0%9F%8F%81RELAY-104.18.152.225-0409
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2601ms | 🇨🇦 CA 2050ms | EPODONIOS
+trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2615ms | 🇨🇦 CA 1755ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.16.174.12:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2649ms | %F0%9F%8F%81RELAY-104.16.174.12-0606
+trojan://humanity@104.16.174.14:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2675ms | 🇨🇦 CA 2003ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.34:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2681ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.34%20
+trojan://humanity@104.18.152.161:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2686ms | 🇨🇦 CA 1955ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇺🇸 US Denver 2690ms | 🇺🇸 US 2792ms | %F0%9F%87%BA%F0%9F%87%B8US-130.250.
+trojan://humanity@162.159.254.191:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US Newark 2696ms | 🇺🇸 US 773ms | EPODONIOS
+trojan://humanity@www.speedtest.org:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🌍 ?? 2696ms | 🌍 ?? 2488ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://humanity@104.17.111.3:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2698ms | 🇨🇦 CA 2484ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.18.22.63:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2705ms | 🇨🇦 CA 1094ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.12:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2707ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.12%20
+trojan://humanity@104.16.174.121:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 2720ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.121%2
+trojan://humanity@104.16.174.22:443?security=tls&type=ws&sni=www.ignitelimit.com&path=//assignment#🇨🇦 CA Toronto 2724ms | 🇨🇦 CA 2320ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.26.15.137:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2744ms | 🇨🇦 CA 1079ms | EPODONIOS
+trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2754ms | 🇨🇦 CA 1667ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.111.4:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2773ms | 🇨🇦 CA 2520ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2780ms | 🇨🇦 CA 2806ms | EPODONIOS
+trojan://humanity@104.17.177.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2789ms | 🇨🇦 CA 1739ms | %F0%9F%8F%81RELAY-104.17.177.143-06
+trojan://humanity@104.16.174.44:443?host=www.ignitelimit.com&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2835ms | 🇨🇦 CA 2187ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2869ms | 🇨🇦 CA 1127ms | %F0%9F%8F%81RELAY-104.18.12.149-064
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2869ms | 🇨🇦 CA 1891ms | EPODONIOS
+trojan://humanity@104.18.23.63:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA 2878ms | 🇨🇦 CA 4670ms | EPODONIOS
+trojan://humanity@172.67.188.109:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 2888ms | 🌍 ?? 2540ms | %F0%9F%8F%81RELAY-172.67.188.109-064
+trojan://humanity@172.67.74.2:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 2951ms | 🇨🇦 CA 1098ms | EPODONIOS
+trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 2962ms | 🇨🇦 CA 1662ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@176.97.66.175:443?type=ws&security=tls&path=%2Fassignment&sni=www.ignitelimit.com&fp=chrome#🇦🇪 AE Dubai 2975ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
+trojan://humanity@104.18.152.244:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3029ms | 🇨🇦 CA 3008ms | %E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A
+trojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3044ms | 🇨🇦 CA 1151ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3078ms | 🇨🇦 CA 1754ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@86.38.214.205:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇹🇷 TR Istanbul 3109ms | 🇹🇷 TR 2476ms | %F0%9F%87%B1%F0%9F%87%B9_%E7%AB%8B%
+trojan://humanity@104.26.15.137:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3110ms | 🇨🇦 CA 1920ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.7.70:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3177ms | 🇨🇦 CA 1837ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.207:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3280ms | 🇨🇦 CA 1839ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@88.198.82.150:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪 DE Falkenstein 3292ms | 🇩🇪 DE 1104ms | EPODONIOS
+trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 3300ms | %F0%9F%8F%81RELAY-104.20.6.134-0598
+trojan://humanity@104.18.152.208:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3316ms | 🇨🇦 CA 2510ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3326ms | 🇨🇦 CA 751ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.33.59:443?security=tls&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan&sni=id1.nathaya.web.id&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇨🇦 CA Toronto 3349ms | 🇨🇦 CA 1278ms | v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%
+trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 3400ms | 🇨🇦 CA 1338ms | EPODONIOS
+trojan://humanity@104.18.152.230:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3405ms | 🇨🇦 CA 2076ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.229:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3495ms | 🇨🇦 CA 2182ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.159:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3544ms | 🇨🇦 CA 2126ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.121:443?path=//assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 3610ms | 🇨🇦 CA 2340ms | EPODONIOS
+trojan://humanity@104.16.174.148:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 3614ms | 🇨🇦 CA 2186ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@162.159.254.191:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇺🇸 US Newark 3660ms | 🇺🇸 US 2547ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.148.22:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 3672ms | 🇨🇦 CA 1634ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt Am Main 3693ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US Denver 3713ms | 🇺🇸 US 1887ms | EPODONIOS
+trojan://humanity@162.159.136.234:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 3804ms | 🇨🇦 CA 2144ms | EPODONIOS
+trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 3806ms | 🇨🇦 CA 1914ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇩🇪 DE Falkenstein 3836ms | 🇩🇪 DE 1365ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%
+trojan://humanity@104.16.174.101:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 3912ms | 🇨🇦 CA 2629ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 4037ms | 🇨🇦 CA 2005ms | EPODONIOS
+trojan://humanity@104.18.152.187:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4114ms | 🇨🇦 CA 2085ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.117:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4141ms | 🇨🇦 CA 2147ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.111.1:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 4199ms | 🇨🇦 CA 4980ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://humanity@104.18.152.244:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4425ms | 🇨🇦 CA 2122ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4455ms | 🇨🇦 CA 2078ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4465ms | 🇨🇦 CA 1948ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.22:443?host=www.ignitelimit.com&path=%2F%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4544ms | 🇨🇦 CA 1574ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.71:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4612ms | 🇨🇦 CA 1967ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#🇺🇸 US San Francisco 4692ms | 🇺🇸 US 522ms | EPODONIOS
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 4765ms | 🇺🇸 US 664ms | EPODONIOS
+trojan://humanity@80.77.25.142:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇪🇪 EE Tallinn 4867ms | %F0%9F%87%AA%F0%9F%87%AA%20Tallinn%2C%20EE%20%C2%B
+trojan://humanity@104.16.174.143:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 4970ms | 🇨🇦 CA 2066ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?path=/trojan&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA Toronto 5044ms | 🇨🇦 CA 2049ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 5292ms | %F0%9F%8F%81RELAY-104.18.152.50-0408
+trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇨🇦 CA Toronto 5331ms | 🇨🇦 CA 2403ms | %F0%9F%8F%81RELAY-172.67.74.2-0639
+trojan://humanity@104.16.174.22:443?sni=www.ignitelimit.com&type=ws&path=%2F%252Fassignment&fp=chrome#🇨🇦 CA Toronto 5516ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.22%20
+trojan://humanity@104.18.152.103:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 5563ms | 🇨🇦 CA 1846ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@172.67.74.2:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 5594ms | 🇨🇦 CA 2132ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.16.174.109:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 CA Toronto 5694ms | 🇨🇦 CA 1778ms | %F0%9F%8C%90%20Cloudflare%20%7C%201
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?path=/trojan&security=tls&insecure=0&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA Toronto 5952ms | 🇨🇦 CA 1602ms | EPODONIOS
+trojan://humanity@104.18.152.179:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦 CA Toronto 6658ms | 🇨🇦 CA 1666ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%
+trojan://humanity@104.17.177.143:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA Toronto 6726ms | 🇨🇦 CA 1809ms | EPODONIOS
