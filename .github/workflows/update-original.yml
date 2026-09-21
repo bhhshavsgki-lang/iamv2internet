@@ -41,6 +41,12 @@ jobs:
           # candidate pool = previous working servers FIRST, then new ones;
           # this cap keeps the run under GitHub's time limit (0 = test all)
           MAX_TEST: "30000"
+          # working_ip_changed.txt swaps the address to this IP
+          TARGET_IP: ${{ vars.TARGET_IP || '104.18.37.127' }}
+          # deep quality pass: >50 servers in one country -> keep best 50,
+          # smaller countries keep all; VIP = 3/3 stable responses
+          PER_COUNTRY_LIMIT: "50"
+          DEEP_SAMPLES: "3"
         run: python test_original.py
 
       - name: Commit results
