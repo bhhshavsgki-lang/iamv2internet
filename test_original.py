@@ -607,11 +607,11 @@ def finalize_outputs(named: list, tester: 'Tester'):
     country_stats.sort(key=lambda t: -t[1])
 
     clean_entries = []
-    for _, rn, _, cc, city, orig in named:
+    for first_ms, rn, _, cc, city, orig in named:
         if rn not in keep_clean:
             continue
         ok, med = deep[rn]
-        ms = med if 0 < med < 99999 else 99999
+        ms = med if 0 < med < 99999 else first_ms
         line = rename_line(orig, cc, city, ms)
         if vip_flags[rn]:
             base, _, rest = line.partition("#")
@@ -627,6 +627,68 @@ def finalize_outputs(named: list, tester: 'Tester'):
     with open(os.path.join(OUTPUT_DIR, "working_clean_ip_changed.txt"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(clean_ip) + ("\n" if clean_ip else ""))
 
+    # ---- 443 + WS + TLS subset (CDN-ready) ----
+    # From ALL tested-working servers keep only those a CDN front can
+    # serve: port 443 + websocket + TLS (trojan is TLS by definition).
+    # Same quality treatment: VIP tag, per-country top-50, fastest first.
+    def cdn_ok(orig_line: str) -> bool:
+        if orig_line.lower().startswith("vmess://"):
+            try:
+                obj = json.loads(b64flex(orig_line[8:]).decode("utf-8", "ignore"))
+            except Exception:
+                return False
+            if not isinstance(obj, dict):
+                return False
+            return (str(obj.get("port")) == "443"
+                    and str(obj.get("net", "")).lower() == "ws"
+                    and str(obj.get("tls", "")).lower() == "tls")
+        parsed = split_uri(orig_line)
+        if not parsed:
+            return False
+        scheme, _, _, port, params = parsed
+        if port != 443:
+            return False
+        net = (params.get("type") or params.get("net")
+               or params.get("network") or "").lower()
+        if net != "ws":
+            return False
+        sec = (params.get("security") or "").lower()
+        return sec == "tls" if scheme != "trojan" else sec in ("", "tls")
+
+    sub = [(ms, rn, sch, cc, city, orig) for
+           (ms, rn, sch, cc, city, orig) in named if cdn_ok(orig)]
+    sub_by_cc = {}
+    for _, rn, _, cc, _, _ in sub:
+        sub_by_cc.setdefault(cc, []).append(rn)
+    sub_keep = set()
+    sub_dropped = 0
+    for cc, lines in sub_by_cc.items():
+        ranked = sorted(lines, key=lambda l: (-deep[l][0], deep[l][1]))
+        if len(ranked) > PER_COUNTRY_LIMIT:
+            sub_dropped += len(ranked) - PER_COUNTRY_LIMIT
+            ranked = ranked[:PER_COUNTRY_LIMIT]
+        sub_keep.update(ranked)
+    sub_entries = []
+    for first_ms, rn, _, cc, city, orig in sub:
+        if rn not in sub_keep:
+            continue
+        ok, med = deep[rn]
+        ms = med if 0 < med < 99999 else first_ms
+        line = rename_line(orig, cc, city, ms)
+        if vip_flags[rn]:
+            base, _, rest = line.partition("#")
+            line = f"{base}#⭐VIP {rest}"
+        sub_entries.append((0 if vip_flags[rn] else 1, ms, line))
+    sub_entries.sort(key=lambda t: (t[0], t[1]))
+    sub_lines = [ln for _, _, ln in sub_entries]
+    with open(os.path.join(OUTPUT_DIR, "working_443tls.txt"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(sub_lines) + ("\n" if sub_lines else ""))
+    with open(os.path.join(OUTPUT_DIR, "working_443tls_base64.txt"), "w", encoding="utf-8") as fh:
+        fh.write(base64.b64encode(("\n".join(sub_lines) + "\n").encode()).decode())
+    sub_ip = [swap_address(ln, TARGET_IP) for ln in sub_lines]
+    with open(os.path.join(OUTPUT_DIR, "working_443tls_ip_changed.txt"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(sub_ip) + ("\n" if sub_ip else ""))
+
     pings = [ms for ms, _, _, _, _, _ in named]
     vip_total = sum(1 for v in vip_flags.values() if v)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -635,6 +697,8 @@ def finalize_outputs(named: list, tester: 'Tester'):
               f"Deep check: {vip_total} marked VIP ({DEEP_SAMPLES}/{DEEP_SAMPLES} stable)",
               f"Per-country cap {PER_COUNTRY_LIMIT}: {dropped_cap} removed "
               f"from working_clean.txt",
+              f"443+WS+TLS subset: {len(sub_lines)} servers "
+              f"({sub_dropped} removed by cap) -> working_443tls.txt",
               f"Fastest ping: {pings[0] if pings else '-'} ms"
               + (f" | median: {int(statistics.median(pings))} ms" if pings else ""), "",
               "Top countries (servers -> kept/VIP):"]
