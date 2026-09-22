@@ -13,11 +13,43 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update:
+  # ---------- 1. collect + dedup + split into 8 shards ----------
+  filter:
     runs-on: ubuntu-latest
-    timeout-minutes: 200
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect configs (original addresses, vless/vmess/trojan, any port)
+        env:
+          N_SHARDS: "8"
+        run: python filter_original.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: filter-out
+          path: output_original/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: filter-shards
+          path: shards_tmp/
+
+  # ---------- 2. eight runners test ALL servers in parallel ----------
+  test-shard:
+    runs-on: ubuntu-latest
+    needs: filter
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4      # brings yesterday's state.json (pool)
 
       - uses: actions/setup-python@v5
         with:
@@ -28,25 +60,67 @@ jobs:
           curl -sL "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -o /tmp/xray.zip
           unzip -o /tmp/xray.zip -d xray
           chmod +x xray/xray
-          xray/xray version | head -1
 
-      - name: Collect original configs (no IP change, vless/vmess/trojan, any port)
-        run: python filter_original.py
+      - uses: actions/download-artifact@v4
+        with:
+          name: filter-shards
+          path: shards_tmp/
 
-      - name: Test which originals actually work + ping + country
+      - name: Test every server in this shard (pool first)
         env:
+          SHARD: ${{ matrix.shard }}
+          N_SHARDS: "8"
           XRAY_PATH: ${{ github.workspace }}/xray/xray
-          WORKERS: "50"
-          TEST_TIMEOUT: "7"
-          # candidate pool = previous working servers FIRST, then new ones;
-          # this cap keeps the run under GitHub's time limit (0 = test all)
-          MAX_TEST: "30000"
+          WORKERS: "80"
+          TEST_TIMEOUT: "6"
+        run: python test_original.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shard-out-${{ matrix.shard }}
+          path: shard_out_tmp/
+
+  # ---------- 3. merge results, deep quality pass, publish ----------
+  merge:
+    runs-on: ubuntu-latest
+    needs: [filter, test-shard]
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install xray-core (deep-check engine)
+        run: |
+          curl -sL "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -o /tmp/xray.zip
+          unzip -o /tmp/xray.zip -d xray
+          chmod +x xray/xray
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: filter-out
+          path: output_original/
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: shard-out-*
+          merge-multiple: true
+          path: shard_out_tmp/
+
+      - name: Deep check + country/city + VIP + build final lists
+        env:
+          SHARD: merge
+          N_SHARDS: "8"
+          XRAY_PATH: ${{ github.workspace }}/xray/xray
+          WORKERS: "80"
+          TEST_TIMEOUT: "6"
+          DEEP_SAMPLES: "3"
           # working_ip_changed.txt swaps the address to this IP
           TARGET_IP: ${{ vars.TARGET_IP || '104.18.37.127' }}
-          # deep quality pass: >50 servers in one country -> keep best 50,
-          # smaller countries keep all; VIP = 3/3 stable responses
+          # >50 servers in one country -> keep best 50 (smaller keep all)
           PER_COUNTRY_LIMIT: "50"
-          DEEP_SAMPLES: "3"
         run: python test_original.py
 
       - name: Commit results
