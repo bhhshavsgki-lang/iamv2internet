@@ -1,12 +1,12 @@
 Connectivity test report
-Date   : 2026-09-21 11:18 UTC
-Tested : 40831
-Working: 912 (2.2%)
-Fastest ping: 73 ms | median: 127 ms
+Date   : 2026-09-22 10:31 UTC
+Tested : 39231
+Working: 810 (2.1%)
+Fastest ping: 110 ms | median: 151 ms
 
 working.txt is sorted by ping - fastest at the top.
 
-  vless  : 758/29957 alive
-  vmess  : 9/8811 alive
-  trojan : 145/1689 alive
-  ss     : 0/374 alive
+  vless  : 637/28415 alive
+  vmess  : 12/8773 alive
+  trojan : 161/1685 alive
+  ss     : 0/358 alive
