@@ -2,24 +2,20 @@
 """
 Connectivity + ping tester for ORIGINAL configs (no IP rewriting).
 
-Reads output_original/unique.txt (vless/vmess/trojan, any port, any
-transport), dials every config through a real xray-core instance and
-requests https://www.gstatic.com/generate_204 through it.
+THREE MODES (env SHARD):
+  (unset)      single mode  - local runs: test output_original/unique.txt
+  SHARD=k      shard mode   - GitHub parallel jobs: test shards_tmp/shard_k.txt
+                              (the k-th deterministic slice of ALL unique
+                              configs) + the pool lines belonging to shard k
+  SHARD=merge  merge mode   - collect all shard results, deep-check every
+                              working server, build the final files
 
-Supports: ws, grpc, tcp (incl. http header), httpupgrade, xhttp,
-security tls / reality / none.
-
-For every working config:
-  - ping (request time through the tunnel, ms)
-  - country: flag emoji from the original name, otherwise geo-IP lookup
-    of the actual server address
-  - name rewritten to:  #FLAG CC 87ms | original-name
-output_original/working.txt is sorted by ping - fastest at the top.
-
-Env vars: XRAY_PATH, WORKERS (40), MAX_TEST (0=all), TEST_TIMEOUT (8).
+Runs in shard mode test EVERY candidate in their shard (no cap) so the
+whole unique list is covered in one workflow run - 8 runners in parallel.
 """
 
 import base64
+import hashlib
 import json
 import os
 import queue
@@ -43,22 +39,18 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "output_original")
 INPUT_FILE = os.path.join(OUTPUT_DIR, "unique.txt")
 STATE_FILE = os.path.join(OUTPUT_DIR, "state.json")   # persistent pool
 LEGACY_WORKING = os.path.join(OUTPUT_DIR, "working.txt")  # pre-pool runs
-# A proven server that fails the daily test is retried for GRACE-1 more
-# runs before it is dropped - one network hiccup does not lose it.
+SHARD_DIR = fo.SHARD_DIR                              # input shards
+SHARD_OUT_DIR = os.path.join(BASE_DIR, "shard_out_tmp")  # shard results
+N_SHARDS = fo.N_SHARDS
+SHARD = os.environ.get("SHARD", "")
 GRACE = 2
-# working_ip_changed.txt = tested original servers with the address
-# swapped to TARGET_IP (same idea as the old CDN pipeline, but only
-# applied to servers that already passed the real connectivity test).
 TARGET_IP = os.environ.get("TARGET_IP", "104.18.37.127")
-# Second-stage per-country quality filter: countries with MORE than
-# PER_COUNTRY_LIMIT working servers get a deeper multi-request check
-# (stability + speed) and only the best PER_COUNTRY_LIMIT survive into
-# working_clean.txt. Countries at or below the limit keep everything.
 PER_COUNTRY_LIMIT = int(os.environ.get("PER_COUNTRY_LIMIT", "50"))
 DEEP_SAMPLES = int(os.environ.get("DEEP_SAMPLES", "3"))
 XRAY = os.environ.get("XRAY_PATH", os.path.join(BASE_DIR, "xray", "xray"))
 WORKERS = int(os.environ.get("WORKERS", "40"))
-MAX_TEST = int(os.environ.get("MAX_TEST", "0"))
+MAX_TEST = int(os.environ.get("MAX_TEST", "0"))     # single mode cap
+MAX_TEST_SHARD = int(os.environ.get("MAX_TEST_SHARD", "0"))  # shard mode, 0=all
 TEST_TIMEOUT = int(os.environ.get("TEST_TIMEOUT", "8"))
 TEST_URL = os.environ.get("TEST_URL", "https://www.gstatic.com/generate_204")
 GEO_API = os.environ.get("GEO_API", "http://ip-api.com/batch?fields=query,countryCode,city")
@@ -67,6 +59,7 @@ GEO_FALLBACKS = ("https://freeipapi.com/api/json/",
                  "https://api.ip.sb/geoip/")
 PORT_BASE = 30000
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) config-tester/1.0"
+
 
 URI_RE = re.compile(r"^([A-Za-z][A-Za-z0-9+.\-]*)://(.*)$")
 HOSTPORT_RE = re.compile(r"^(?P<host>.+):(?P<port>\d+)(?P<path>/.*)?$")
@@ -493,66 +486,20 @@ class Tester:
         return line, ok, med
 
 
-def load_pool() -> dict:
-    """Persistent pool: {config_line: consecutive_fail_count}.
-    Seeds from legacy working.txt on the first run after upgrading."""
-    pool = {}
-    if os.path.exists(STATE_FILE):
-        try:
-            with open(STATE_FILE, encoding="utf-8") as fh:
-                pool = json.load(fh)
-        except Exception:
-            pool = {}
-    if not pool and os.path.exists(LEGACY_WORKING):
-        with open(LEGACY_WORKING, encoding="utf-8") as fh:
-            pool = {ln.strip(): 0 for ln in fh if ln.strip()}
-        print(f"[pool] seeded with {len(pool)} servers from previous working.txt")
-    return pool
 
 
-def build_candidates(pool: dict, new_lines: list):
-    """Proven pool servers FIRST, then brand-new ones, deduped by identity.
-    With a MAX_TEST cap the proven servers are always tested."""
-    candidates, seen, carried = [], set(), 0
-    for line in pool.keys():
-        key = fo.dedup_key(line)
-        if key in seen:
-            continue
-        seen.add(key)
-        candidates.append(line)
-        carried += 1
-    fresh = 0
-    for line in new_lines:
-        key = fo.dedup_key(line)
-        if key in seen:
-            continue
-        seen.add(key)
-        candidates.append(line)
-        fresh += 1
-    return candidates, carried, fresh
+def shard_of(line: str) -> int:
+    """Deterministic shard routing - MUST match filter_original.py."""
+    key = fo.dedup_key(line)
+    return int(hashlib.md5(key.encode()).hexdigest(), 16) % N_SHARDS
 
 
-def main():
-    if not os.path.exists(XRAY):
-        print(f"[warn] xray binary not found at {XRAY} - skipping test.")
-        return 0
-    if not os.path.exists(INPUT_FILE):
-        print(f"[warn] {INPUT_FILE} not found - run filter_original.py first.")
-        return 0
-
-    with open(INPUT_FILE, encoding="utf-8") as fh:
-        new_lines = [ln.strip() for ln in fh if ln.strip()]
-    pool = load_pool()
-    candidates, carried, fresh = build_candidates(pool, new_lines)
-    if MAX_TEST and len(candidates) > MAX_TEST:
-        candidates = candidates[:MAX_TEST]
-    total = len(candidates)
-    print(f"Candidate pool: {carried} carried from previous run + {fresh} new "
-          f"= {total} to test (workers={WORKERS}, timeout={TEST_TIMEOUT}s)")
-
+def run_tests(candidates: list):
+    """Test every candidate. Returns (alive, per_proto, ok_count, total)."""
     tester = Tester()
     alive, per_proto = [], {}
     done = ok_count = 0
+    total = len(candidates)
     with ThreadPoolExecutor(max_workers=WORKERS) as ex:
         futures = [ex.submit(tester.test, ln) for ln in candidates]
         for fut in as_completed(futures):
@@ -566,9 +513,12 @@ def main():
                 per_proto[scheme][0] += 1
             if done % 100 == 0 or done == total:
                 print(f"  {done}/{total} tested, {ok_count} alive", flush=True)
+    return alive, per_proto, ok_count, total
 
-    # --- update the persistent pool: alive -> trusted; dead -> one grace retry ---
-    alive_lines = {line for _, line, _, _ in alive}
+
+def grace_update(candidates: list, alive_lines: set, pool: dict):
+    """alive -> trusted; dead -> one grace retry; dead twice -> dropped.
+    Returns (new_pool, grace_retry, dropped_grace)."""
     new_pool, dropped_grace, grace_retry = {}, 0, 0
     for cand in candidates:
         if cand in alive_lines:
@@ -580,45 +530,42 @@ def main():
                 grace_retry += 1
             else:
                 dropped_grace += 1
-    with open(STATE_FILE, "w", encoding="utf-8") as fh:
-        json.dump(new_pool, fh, ensure_ascii=False)
+    return new_pool, grace_retry, dropped_grace
 
-    # --- location detection (country + city) for every working config ---
-    # The country comes from the flag in the name when present (more
-    # reliable than geo-DB for resold servers), otherwise from geo-IP.
-    # The city always comes from geo-IP. Every address is looked up.
-    loc_of = {}                       # index -> (cc, city)
-    need_geo = []
+
+def locate(alive: list):
+    """Country + city for every alive config, from its real server address.
+    Country: flag in the name wins, else geo-IP. City: always geo-IP.
+    Returns loc_of: index -> (cc, city)."""
+    loc_of, need_geo = {}, []
     for i, (ms, line, scheme, address) in enumerate(alive):
         cc = first_flag(line.split("#", 1)[1]) if "#" in line else None
         if cc:
             loc_of[i] = (cc, "")
         need_geo.append((i, address))
     geo = geo_lookup([a for _, a in need_geo])
-    for i, address in need_geo:
-        cc, city = geo.get(address, ("", ""))
-        if i in loc_of:               # keep flag country, add city
+    for i, dom in need_geo:
+        cc, city = geo.get(dom, ("", ""))
+        if i in loc_of:
             loc_of[i] = (loc_of[i][0], city)
         else:
             loc_of[i] = (cc, city)
+    return loc_of
 
-    # --- rename with country + city + ping, sort fastest first ---
-    named = []          # (first_ms, renamed_line, scheme, cc, city, orig_line)
-    for i, (ms, line, scheme, address) in enumerate(alive):
-        cc, city = loc_of.get(i, ("", ""))
-        named.append((ms, rename_line(line, cc, city, ms), scheme, cc or "??",
-                      city, line))
+
+def finalize_outputs(named: list, tester: 'Tester'):
+    """Deep quality pass + all final files + report. `named` is a list of
+    (first_ms, renamed_line, scheme, cc, city, orig_line) sorted or not."""
     named.sort(key=lambda t: t[0])
-
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # ---- working.txt: everything alive, original addresses, by ping ----
+    # ---- working files ----
     ordered = [ln for _, ln, _, _, _, _ in named]
     with open(os.path.join(OUTPUT_DIR, "working.txt"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(ordered) + ("\n" if ordered else ""))
     with open(os.path.join(OUTPUT_DIR, "working_base64.txt"), "w", encoding="utf-8") as fh:
         fh.write(base64.b64encode(("\n".join(ordered) + "\n").encode()).decode())
-    for name in ("vless", "vmess", "trojan"):
+    for name in ("vless", "vmess", "trojan", "ss"):
         subset = [ln for _, ln, sch, _, _, _ in named if sch == name]
         with open(os.path.join(OUTPUT_DIR, f"working_{name}.txt"), "w", encoding="utf-8") as fh:
             fh.write("\n".join(subset) + ("\n" if subset else ""))
@@ -630,11 +577,10 @@ def main():
     with open(os.path.join(OUTPUT_DIR, "working_ip_changed_base64.txt"), "w", encoding="utf-8") as fh:
         fh.write(base64.b64encode(("\n".join(ip_changed) + "\n").encode()).decode())
 
-    # ---- deep quality pass on EVERY working server (stability + speed) ----
-    # 3 requests per server through one tunnel: successes + median time.
+    # ---- deep quality pass on EVERY working server ----
     print(f"Deep-checking all {len(named)} working servers "
           f"({DEEP_SAMPLES} requests each)...")
-    deep = {}                                     # renamed_line -> (ok, med)
+    deep = {}
     with ThreadPoolExecutor(max_workers=WORKERS) as ex:
         futures = {ex.submit(tester.deep_test, orig): rn
                    for _, rn, _, _, _, orig in named}
@@ -644,9 +590,6 @@ def main():
             if n % 100 == 0 or n == len(futures):
                 print(f"  {n}/{len(futures)} deep-checked", flush=True)
 
-    # per country: rank by (all-samples-success, median). Countries with
-    # MORE than PER_COUNTRY_LIMIT keep only their best PER_COUNTRY_LIMIT;
-    # smaller countries keep everything. VIP = answered every request.
     by_country = {}
     for _, rn, _, cc, _, _ in named:
         by_country.setdefault(cc, []).append(rn)
@@ -663,9 +606,6 @@ def main():
                               sum(1 for l in ranked if vip_flags[l])))
     country_stats.sort(key=lambda t: -t[1])
 
-    # rebuild each clean entry with the accurate deep-median ms; VIPs get
-    # a ⭐VIP tag and float to the top, everything keeps ping order inside
-    # its group
     clean_entries = []
     for _, rn, _, cc, city, orig in named:
         if rn not in keep_clean:
@@ -673,11 +613,10 @@ def main():
         ok, med = deep[rn]
         ms = med if 0 < med < 99999 else 99999
         line = rename_line(orig, cc, city, ms)
-        vip = vip_flags[rn]
-        if vip:
+        if vip_flags[rn]:
             base, _, rest = line.partition("#")
             line = f"{base}#⭐VIP {rest}"
-        clean_entries.append((0 if vip else 1, ms, line))
+        clean_entries.append((0 if vip_flags[rn] else 1, ms, line))
     clean_entries.sort(key=lambda t: (t[0], t[1]))
     clean = [ln for _, _, ln in clean_entries]
     with open(os.path.join(OUTPUT_DIR, "working_clean.txt"), "w", encoding="utf-8") as fh:
@@ -688,36 +627,200 @@ def main():
     with open(os.path.join(OUTPUT_DIR, "working_clean_ip_changed.txt"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(clean_ip) + ("\n" if clean_ip else ""))
 
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    pct = (100.0 * ok_count / total) if total else 0.0
     pings = [ms for ms, _, _, _, _, _ in named]
     vip_total = sum(1 for v in vip_flags.values() if v)
-    report = ["Original-config connectivity report", f"Date   : {now}",
-              f"Tested : {total} ({carried} carried from previous run + {fresh} new)",
-              f"Working: {ok_count} ({pct:.1f}%)",
-              f"Pool   : {len(new_pool)} servers kept "
-              f"({grace_retry} on grace retry, {dropped_grace} dropped after "
-              f"{GRACE} failed runs)",
-              f"Deep check: all working servers x{DEEP_SAMPLES} requests - "
-              f"{vip_total} marked VIP (100% success)",
-              f"Per-country cap {PER_COUNTRY_LIMIT}: {dropped_cap} servers removed "
-              f"from working_clean.txt (small countries keep everything)",
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    report = [f"Date   : {now}",
+              f"Working: {len(named)}",
+              f"Deep check: {vip_total} marked VIP ({DEEP_SAMPLES}/{DEEP_SAMPLES} stable)",
+              f"Per-country cap {PER_COUNTRY_LIMIT}: {dropped_cap} removed "
+              f"from working_clean.txt",
               f"Fastest ping: {pings[0] if pings else '-'} ms"
               + (f" | median: {int(statistics.median(pings))} ms" if pings else ""), "",
-              "Files: working.txt (original IP) | working_ip_changed.txt (CDN IP) | "
-              "working_clean.txt (VIP + per-country cap, original IP) | "
-              "working_clean_ip_changed.txt (both combined)", "",
               "Top countries (servers -> kept/VIP):"]
     for cc, total_c, kept, vips in country_stats[:12]:
         report.append(f"  {cc}: {total_c} -> {kept} kept, {vips} VIP")
-    report.append("")
-    for name in ("vless", "vmess", "trojan"):
-        ok, tot = per_proto.get(name, [0, 0])
-        report.append(f"  {name:7s}: {ok}/{tot} alive")
+    return report
+
+
+def load_pool() -> dict:
+    pool = {}
+    if os.path.exists(STATE_FILE):
+        try:
+            with open(STATE_FILE, encoding="utf-8") as fh:
+                pool = json.load(fh)
+        except Exception:
+            pool = {}
+    if not pool and os.path.exists(LEGACY_WORKING):
+        with open(LEGACY_WORKING, encoding="utf-8") as fh:
+            pool = {ln.strip(): 0 for ln in fh if ln.strip()}
+        print(f"[pool] seeded with {len(pool)} servers from previous working.txt")
+    return pool
+
+
+def build_candidates(pool: dict, new_lines: list, shard: int = None):
+    """Proven pool servers FIRST, then new ones, deduped by identity.
+    With a shard set, only lines routed to that shard are included."""
+    candidates, seen, carried = [], set(), 0
+    for line in pool.keys():
+        if shard is not None and shard_of(line) != shard:
+            continue
+        key = fo.dedup_key(line)
+        if key in seen:
+            continue
+        seen.add(key)
+        candidates.append(line)
+        carried += 1
+    fresh = 0
+    for line in new_lines:
+        if shard is not None and shard_of(line) != shard:
+            continue
+        key = fo.dedup_key(line)
+        if key in seen:
+            continue
+        seen.add(key)
+        candidates.append(line)
+        fresh += 1
+    return candidates, carried, fresh
+
+
+def single_main():
+    if not os.path.exists(XRAY):
+        print(f"[warn] xray binary not found at {XRAY} - skipping test.")
+        return 0
+    if not os.path.exists(INPUT_FILE):
+        print(f"[warn] {INPUT_FILE} not found - run filter_original.py first.")
+        return 0
+
+    with open(INPUT_FILE, encoding="utf-8") as fh:
+        new_lines = [ln.strip() for ln in fh if ln.strip()]
+    pool = load_pool()
+    candidates, carried, fresh = build_candidates(pool, new_lines)
+    if MAX_TEST and len(candidates) > MAX_TEST:
+        candidates = candidates[:MAX_TEST]
+    print(f"Proven pool carried : {carried} (tested first, always)")
+    print(f"New unique available: {fresh}")
+    print(f"Testing today       : {len(candidates)} of {carried + fresh} "
+          f"(MAX_TEST={MAX_TEST or 'off'} - untested new ones rotate in "
+          f"on the following days)")
+    print(f"workers={WORKERS}, timeout={TEST_TIMEOUT}s")
+
+    alive, per_proto, ok_count, total = run_tests(candidates)
+
+    alive_lines = {t[1] for t in alive}
+    new_pool, grace_retry, dropped_grace = grace_update(candidates, alive_lines, pool)
+    with open(STATE_FILE, "w", encoding="utf-8") as fh:
+        json.dump(new_pool, fh, ensure_ascii=False)
+
+    loc_of = locate(alive)
+    named = []
+    for i, (ms, line, scheme, address) in enumerate(alive):
+        cc, city = loc_of.get(i, ("", ""))
+        named.append((ms, rename_line(line, cc, city, ms), scheme, cc or "??",
+                      city, line))
+
+    report = [f"Tested : {total} ({carried} carried from previous run)",
+              f"Working: {ok_count}",
+              f"Pool   : {len(new_pool)} servers kept "
+              f"({grace_retry} on grace retry, {dropped_grace} dropped after "
+              f"{GRACE} failed runs)"]
+    report += finalize_outputs(named, Tester())
+    print("\n".join(report))
     with open(os.path.join(OUTPUT_DIR, "test_report.txt"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(report) + "\n")
-    print("\n".join(report))
     return 0
+
+
+def shard_main(shard: int):
+    if not os.path.exists(XRAY):
+        print(f"[warn] xray binary not found at {XRAY} - skipping test.")
+        return 0
+    shard_file = os.path.join(SHARD_DIR, f"shard_{shard}.txt")
+    if not os.path.exists(shard_file):
+        print(f"[warn] {shard_file} not found - run filter_original.py first.")
+        return 0
+    os.makedirs(SHARD_OUT_DIR, exist_ok=True)
+
+    with open(shard_file, encoding="utf-8") as fh:
+        new_lines = [ln.strip() for ln in fh if ln.strip()]
+    pool = load_pool()
+    candidates, carried, fresh = build_candidates(pool, new_lines, shard=shard)
+    if MAX_TEST_SHARD and len(candidates) > MAX_TEST_SHARD:
+        candidates = candidates[:MAX_TEST_SHARD]
+    print(f"[shard {shard}/{N_SHARDS}] pool lines: {carried}, new: {fresh}, "
+          f"testing ALL {len(candidates)} (workers={WORKERS}, "
+          f"timeout={TEST_TIMEOUT}s)")
+
+    alive, per_proto, ok_count, total = run_tests(candidates)
+
+    alive_lines = {t[1] for t in alive}
+    new_pool, grace_retry, dropped_grace = grace_update(candidates, alive_lines, pool)
+    with open(os.path.join(SHARD_OUT_DIR, f"shard_state_{shard}.json"), "w",
+              encoding="utf-8") as fh:
+        json.dump(new_pool, fh, ensure_ascii=False)
+
+    loc_of = locate(alive)
+    metas = []
+    for i, (ms, line, scheme, address) in enumerate(alive):
+        cc, city = loc_of.get(i, ("", ""))
+        renamed = rename_line(line, cc, city, ms)
+        metas.append({"ms": ms, "line": renamed, "scheme": scheme,
+                      "cc": cc or "??", "city": city, "orig": line})
+    metas.sort(key=lambda m: m["ms"])
+    with open(os.path.join(SHARD_OUT_DIR, f"shard_meta_{shard}.json"), "w",
+              encoding="utf-8") as fh:
+        json.dump(metas, fh, ensure_ascii=False)
+    with open(os.path.join(SHARD_OUT_DIR, f"shard_result_{shard}.txt"), "w",
+              encoding="utf-8") as fh:
+        fh.write("\n".join(m["line"] for m in metas) + ("\n" if metas else ""))
+
+    print(f"[shard {shard}] done: {len(metas)} alive "
+          f"({grace_retry} grace, {dropped_grace} dropped)")
+    return 0
+
+
+def merge_main():
+    metas = []
+    for k in range(N_SHARDS):
+        path = os.path.join(SHARD_OUT_DIR, f"shard_meta_{k}.json")
+        if not os.path.exists(path):
+            print(f"[merge] missing shard_meta_{k}.json - skipped")
+            continue
+        with open(path, encoding="utf-8") as fh:
+            metas.extend(json.load(fh))
+    if not metas:
+        print("[merge] no shard results found - nothing to do.")
+        return 0
+    named = [(m["ms"], m["line"], m["scheme"], m["cc"], m["city"], m["orig"])
+             for m in metas]
+
+    # merge the per-shard pools back into the single persistent pool
+    merged_pool = {}
+    for k in range(N_SHARDS):
+        path = os.path.join(SHARD_OUT_DIR, f"shard_state_{k}.json")
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as fh:
+                merged_pool.update(json.load(fh))
+    with open(STATE_FILE, "w", encoding="utf-8") as fh:
+        json.dump(merged_pool, fh, ensure_ascii=False)
+
+    print(f"[merge] {len(named)} working servers from shards; "
+          f"pool: {len(merged_pool)}")
+    report = [f"Shards merged: {len(named)} working servers",
+              f"Pool   : {len(merged_pool)} servers kept"]
+    report += finalize_outputs(named, Tester())
+    print("\n".join(report))
+    with open(os.path.join(OUTPUT_DIR, "test_report.txt"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(report) + "\n")
+    return 0
+
+
+def main():
+    if SHARD == "merge":
+        return merge_main()
+    if SHARD != "":
+        return shard_main(int(SHARD))
+    return single_main()
 
 
 if __name__ == "__main__":
