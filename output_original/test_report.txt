@@ -1,28 +1,22 @@
-Original-config connectivity report
-Date   : 2026-09-21 13:05 UTC
-Tested : 30000 (2738 carried from previous run + 148008 new)
-Working: 3376 (11.3%)
-Pool   : 30000 servers kept (26624 on grace retry, 0 dropped after 2 failed runs)
-Deep check: all working servers x3 requests - 3032 marked VIP (100% success)
-Per-country cap 50: 2191 servers removed from working_clean.txt (small countries keep everything)
-Fastest ping: 32 ms | median: 644 ms
-
-Files: working.txt (original IP) | working_ip_changed.txt (CDN IP) | working_clean.txt (VIP + per-country cap, original IP) | working_clean_ip_changed.txt (both combined)
+Shards merged: 7896 working servers
+Pool   : 321755 servers kept
+Date   : 2026-09-22 13:14 UTC
+Working: 7896
+Deep check: 6962 marked VIP (3/3 stable)
+Per-country cap 50: 6366 removed from working_clean.txt
+443+WS+TLS subset: 614 servers (1035 removed by cap) -> working_443tls.txt
+Fastest ping: 22 ms | median: 598 ms
 
 Top countries (servers -> kept/VIP):
-  CA: 1130 -> 50 kept, 50 VIP
-  US: 520 -> 50 kept, 50 VIP
-  NL: 238 -> 50 kept, 50 VIP
-  ??: 213 -> 50 kept, 50 VIP
-  DE: 178 -> 50 kept, 50 VIP
-  GB: 108 -> 50 kept, 50 VIP
-  FI: 94 -> 50 kept, 50 VIP
-  PL: 71 -> 50 kept, 50 VIP
-  RU: 66 -> 50 kept, 50 VIP
-  FR: 62 -> 50 kept, 50 VIP
-  JP: 57 -> 50 kept, 50 VIP
-  HK: 54 -> 50 kept, 31 VIP
-
-  vless  : 2693/22891 alive
-  vmess  : 225/4538 alive
-  trojan : 458/2337 alive
+  CA: 2358 -> 50 kept, 50 VIP
+  US: 2061 -> 50 kept, 50 VIP
+  NL: 652 -> 50 kept, 50 VIP
+  ??: 431 -> 50 kept, 50 VIP
+  DE: 325 -> 50 kept, 50 VIP
+  FI: 190 -> 50 kept, 50 VIP
+  HK: 157 -> 50 kept, 50 VIP
+  GB: 147 -> 50 kept, 50 VIP
+  FR: 133 -> 50 kept, 50 VIP
+  JP: 121 -> 50 kept, 50 VIP
+  RU: 111 -> 50 kept, 50 VIP
+  PL: 102 -> 50 kept, 50 VIP
