@@ -200,8 +200,12 @@ def build_outbound(line: str):
         if net == "tcp" and str(obj.get("type", "")).lower() == "http":
             params["header"] = "http"
         scheme, userinfo = "vmess", str(obj.get("id", ""))
+        try:
+            alter_id = int(obj.get("aid", 0) or 0)
+        except (TypeError, ValueError):
+            alter_id = 0
         user = {"id": userinfo, "security": str(obj.get("scy", "auto")),
-                "alterId": int(obj.get("aid", 0) or 0)}
+                "alterId": alter_id}
         network = "tcp" if net not in ("ws", "grpc", "httpupgrade", "xhttp", "http") else net
     else:
         parsed = split_uri(line)
@@ -503,7 +507,12 @@ def run_tests(candidates: list):
     with ThreadPoolExecutor(max_workers=WORKERS) as ex:
         futures = [ex.submit(tester.test, ln) for ln in candidates]
         for fut in as_completed(futures):
-            line, scheme, address, ok, code, ms = fut.result()
+            try:
+                line, scheme, address, ok, code, ms = fut.result()
+            except Exception as exc:
+                done += 1
+                print(f"  [skip] unparseable line: {type(exc).__name__}: {exc}")
+                continue
             done += 1
             per_proto.setdefault(scheme, [0, 0])
             per_proto[scheme][1] += 1
@@ -585,8 +594,12 @@ def finalize_outputs(named: list, tester: 'Tester'):
         futures = {ex.submit(tester.deep_test, orig): rn
                    for _, rn, _, _, _, orig in named}
         for n, fut in enumerate(as_completed(futures), 1):
-            line, ok, med = fut.result()
-            deep[futures[fut]] = (ok, med)
+            rn = futures[fut]
+            try:
+                line, ok, med = fut.result()
+            except Exception:
+                ok, med = 0, 99999
+            deep[rn] = (ok, med)
             if n % 100 == 0 or n == len(futures):
                 print(f"  {n}/{len(futures)} deep-checked", flush=True)
 
