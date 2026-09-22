@@ -10,9 +10,12 @@ Original-address filter (second pipeline - no IP rewriting).
    server address + port + all parameter values are identical
    (ignores only the #name and parameter order).
 4. Saves to output_original/ (separate from the CDN pipeline in output/).
+
+Set TARGET nothing here - nothing is rewritten.
 """
 
 import base64
+import hashlib
 import json
 import os
 import re
@@ -24,10 +27,17 @@ from urllib.parse import parse_qsl
 
 ALLOWED_SCHEMES = {"vless", "vmess", "trojan"}
 
-# Cap for files written to the repo - with ~1.4M raw lines per day the
-# full dumps would blow the git repo size. unique.txt is capped at this
-# many lines (the tester only tests the first MAX_TEST of them anyway).
-MAX_LINES = 150000
+# The unique list is also split into N deterministic shards for the
+# parallel test jobs (shards_tmp/, uploaded as artifacts, not committed).
+N_SHARDS = int(os.environ.get("N_SHARDS", "8"))
+SHARD_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "shards_tmp")
+
+# Caps for files committed to the repo (git stays healthy; the shards
+# carry the FULL list to the testers).
+CAP_UNIQUE = 150000
+CAP_ALL = 30000
+CAP_PROTO = 10000
+CAP_DUPS = 20000
 
 TIMEOUT = 30
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -218,20 +228,31 @@ def main():
             groups["unique"].append(line)
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    b64_names = {"all", "unique", "vless", "vmess", "trojan"}
+
+    # full unique list -> deterministic shards for the parallel testers
+    os.makedirs(SHARD_DIR, exist_ok=True)
+    shard_counts = [0] * N_SHARDS
+    handles = [open(os.path.join(SHARD_DIR, f"shard_{i}.txt"), "w",
+                    encoding="utf-8") for i in range(N_SHARDS)]
+    for line in groups["unique"]:
+        key = dedup_key(line)
+        idx = int(hashlib.md5(key.encode()).hexdigest(), 16) % N_SHARDS
+        handles[idx].write(line + "\n")
+        shard_counts[idx] += 1
+    for fh in handles:
+        fh.close()
+    print(f"Shards written to {SHARD_DIR}: {shard_counts}")
+
+    caps = {"all": CAP_ALL, "unique": CAP_UNIQUE,
+            "duplicates_removed": CAP_DUPS,
+            "vless": CAP_PROTO, "vmess": CAP_PROTO, "trojan": CAP_PROTO}
     for name, lines in groups.items():
-        cap = MAX_LINES if name in ("all", "unique") else 20000
-        if name == "duplicates_removed":
-            cap = 20000                     # audit file - truncated
+        cap = caps.get(name, 20000)
         cut = lines[:cap]
         if len(lines) > cap:
             print(f"[cap] {name}.txt truncated to {cap} of {len(lines)} lines")
         with open(os.path.join(OUTPUT_DIR, f"{name}.txt"), "w", encoding="utf-8") as fh:
             fh.write("\n".join(cut) + ("\n" if cut else ""))
-        if name in b64_names and cut:
-            with open(os.path.join(OUTPUT_DIR, f"{name}_base64.txt"), "w",
-                      encoding="utf-8") as fh:
-                fh.write(base64.b64encode(("\n".join(cut) + "\n").encode()).decode())
 
     print("-" * 60)
     print(f"Parsed lines        : {len(groups['all'])}")
