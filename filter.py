@@ -16,10 +16,12 @@ Set the TARGET_IP environment variable to override the default IP.
 """
 
 import base64
+import hashlib
 import json
 import os
 import re
 import ssl
+import time
 import urllib.error
 import urllib.request
 from urllib.parse import parse_qsl
@@ -38,6 +40,11 @@ TIMEOUT = 25          # seconds per download
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SOURCES_FILE = os.path.join(BASE_DIR, "sources.txt")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+# deterministic shards for the parallel test jobs (artifacts only)
+N_SHARDS = int(os.environ.get("N_SHARDS", "8"))
+SHARD_DIR = os.path.join(BASE_DIR, "shards_nodes_tmp")
+# every port Cloudflare fronts with TLS - all of them work through the CDN
+CF_TLS_PORTS = ("443", "2053", "2083", "2087", "2096", "8443")
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) config-filter/1.0"
 # -----------------------------------------------------------------------
 
@@ -63,14 +70,17 @@ def fetch(url: str) -> str:
 
 
 def fetch_with_retry(url: str) -> str:
-    for attempt in (1, 2):
+    last = None
+    for attempt in range(1, 5):
         try:
-            return fetch(url)
+            text = fetch(url)
+            time.sleep(0.5)              # be gentle with raw.githubusercontent
+            return text
         except Exception as exc:
-            if attempt == 2:
-                print(f"[FAIL] {url}: {exc}")
-                raise
-    raise RuntimeError("unreachable")
+            last = exc
+            time.sleep(2 * attempt)      # backoff: 2s, 4s, 6s
+    print(f"[FAIL] {url}: {last}")
+    raise last
 
 
 def b64flex(data: str) -> bytes:
@@ -137,7 +147,7 @@ def rewrite_uri(line: str) -> str | None:
     if not hm:
         return None
     port = hm.group("port")
-    if port != "443":
+    if port not in CF_TLS_PORTS:
         return None
 
     params = {}
@@ -250,19 +260,26 @@ def collect(lines: list, exact_seen: set) -> list:
     return kept
 
 
+CAPS = {"all": 50000, "unique": 50000, "duplicates_removed": 20000,
+        "vless": 20000, "vmess": 20000, "trojan": 20000, "ss": 20000}
+
+
 def write_outputs(groups: dict) -> list:
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     base64_names = {"all", "unique", "vless", "vmess", "trojan", "ss"}
     paths = []
     for name, lines in groups.items():
+        cut = lines[:CAPS.get(name, 20000)]
+        if len(lines) > len(cut):
+            print(f"[cap] {name}.txt truncated to {len(cut)} of {len(lines)} lines")
         plain = os.path.join(OUTPUT_DIR, f"{name}.txt")
         with open(plain, "w", encoding="utf-8") as fh:
-            fh.write("\n".join(lines) + ("\n" if lines else ""))
+            fh.write("\n".join(cut) + ("\n" if cut else ""))
         paths.append(plain)
-        if name in base64_names and lines:
+        if name in base64_names and cut:
             b64 = os.path.join(OUTPUT_DIR, f"{name}_base64.txt")
             with open(b64, "w", encoding="utf-8") as fh:
-                fh.write(base64.b64encode(("\n".join(lines) + "\n").encode()).decode())
+                fh.write(base64.b64encode(("\n".join(cut) + "\n").encode()).decode())
             paths.append(b64)
     return paths
 
@@ -302,6 +319,20 @@ def main():
         else:
             key_seen.add(key)
             groups["unique"].append(line)
+
+    # deterministic shards of the FULL unique list for the parallel testers
+    os.makedirs(SHARD_DIR, exist_ok=True)
+    shard_counts = [0] * N_SHARDS
+    handles = [open(os.path.join(SHARD_DIR, f"shard_{i}.txt"), "w",
+                    encoding="utf-8") for i in range(N_SHARDS)]
+    for line in groups["unique"]:
+        key = dedup_key(line)
+        idx = int(hashlib.md5(key.encode()).hexdigest(), 16) % N_SHARDS
+        handles[idx].write(line + "\n")
+        shard_counts[idx] += 1
+    for fh in handles:
+        fh.close()
+    print(f"Shards written to {SHARD_DIR}: {shard_counts}")
 
     paths = write_outputs(groups)
     print("-" * 60)
