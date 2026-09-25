@@ -411,6 +411,9 @@ class Tester:
         port = self.ports.get()
         cfg_path = os.path.join(self.tmpdir, f"c{port}.json")
         cfg = {"log": {"loglevel": "error"},
+               # same DNS the app forces (vpn_engine.buildFullConfiguration)
+               "dns": {"queryStrategy": "UseIPv4",
+                       "servers": ["https://1.1.1.1/dns-query", "8.8.8.8", "1.1.1.1"]},
                "inbounds": [{"listen": "127.0.0.1", "port": port, "protocol": "socks",
                              "settings": {"udp": False}}],
                "outbounds": [outbound]}
@@ -453,6 +456,9 @@ class Tester:
         port = self.ports.get()
         cfg_path = os.path.join(self.tmpdir, f"d{port}.json")
         cfg = {"log": {"loglevel": "error"},
+               # same DNS the app forces (vpn_engine.buildFullConfiguration)
+               "dns": {"queryStrategy": "UseIPv4",
+                       "servers": ["https://1.1.1.1/dns-query", "8.8.8.8", "1.1.1.1"]},
                "inbounds": [{"listen": "127.0.0.1", "port": port, "protocol": "socks",
                              "settings": {"udp": False}}],
                "outbounds": [outbound]}
@@ -488,8 +494,6 @@ class Tester:
             self.ports.put(port)
         med = int(statistics.median(times)) if times else 99999
         return line, ok, med
-
-
 
 
 def shard_of(line: str) -> int:
