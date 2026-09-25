@@ -13,13 +13,46 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update:
+  # ---------- 1. collect + filter 443/CDN + rewrite IP + split shards ----------
+  filter:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Collect, filter (443/2053/... + WS + TLS), rewrite IP, shard
+        env:
+          TARGET_IP: ${{ vars.TARGET_IP || '104.18.37.127' }}
+          N_SHARDS: "8"
+        run: python filter.py
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: cdn-filter-out
+          path: output/
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: cdn-filter-shards
+          path: shards_nodes_tmp/
+
+  # ---------- 2. eight runners test ALL CDN configs in parallel ----------
+  test-shard:
+    runs-on: ubuntu-latest
+    needs: filter
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v5      # brings yesterday's output/state.json (pool)
+
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -28,19 +61,66 @@ jobs:
           curl -sL "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -o /tmp/xray.zip
           unzip -o /tmp/xray.zip -d xray
           chmod +x xray/xray
-          xray/xray version | head -1
 
-      - name: Download, filter, rewrite IP
-        env:
-          # optional: set a repo variable TARGET_IP in
-          # Settings -> Secrets and variables -> Actions -> Variables
-          TARGET_IP: ${{ vars.TARGET_IP || '104.18.37.127' }}
-        run: python filter.py
+      - uses: actions/download-artifact@v5
+        with:
+          name: cdn-filter-shards
+          path: shards_nodes_tmp/
 
-      - name: Test which configs actually work
+      - name: Test every server in this shard (pool first)
         env:
+          SHARD: ${{ matrix.shard }}
+          N_SHARDS: "8"
           XRAY_PATH: ${{ github.workspace }}/xray/xray
-          WORKERS: "30"
+          WORKERS: "80"
+          # the app (flutter_vless) gives up at ~4.8s - stay at or below it
+          TEST_TIMEOUT: "5"
+        run: python test_nodes.py
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: cdn-shard-out-${{ matrix.shard }}
+          path: shard_out_nodes_tmp/
+
+  # ---------- 3. merge results, deep quality pass, publish ----------
+  merge:
+    runs-on: ubuntu-latest
+    needs: [filter, test-shard]
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install xray-core (deep-check engine)
+        run: |
+          curl -sL "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -o /tmp/xray.zip
+          unzip -o /tmp/xray.zip -d xray
+          chmod +x xray/xray
+
+      - uses: actions/download-artifact@v5
+        with:
+          name: cdn-filter-out
+          path: output/
+
+      - uses: actions/download-artifact@v5
+        with:
+          pattern: cdn-shard-out-*
+          merge-multiple: true
+          path: shard_out_nodes_tmp/
+
+      - name: Deep check + country/city + VIP + build final lists
+        env:
+          SHARD: merge
+          N_SHARDS: "8"
+          XRAY_PATH: ${{ github.workspace }}/xray/xray
+          WORKERS: "80"
+          TEST_TIMEOUT: "5"
+          DEEP_SAMPLES: "3"
+          # keep EVERY working server - no per-country top-50 cut
+          PER_COUNTRY_LIMIT: "1000000"
         run: python test_nodes.py
 
       - name: Commit results
