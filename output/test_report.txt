@@ -1,12 +1,13 @@
-Connectivity test report
-Date   : 2026-09-25 10:49 UTC
-Tested : 32478
-Working: 434 (1.3%)
-Fastest ping: 102 ms | median: 696 ms
+Shards merged: 52 working servers
+Pool   : 50384 servers kept
+Date   : 2026-09-25 17:17 UTC
+Working: 52
+Deep check: 24 marked VIP (3/3 stable)
+Per-country cap 1000000: 0 removed from working_clean.txt
+Fastest ping: 960 ms | median: 1653 ms
 
-working.txt is sorted by ping - fastest at the top.
-
-  vless  : 262/28056 alive
-  vmess  : 9/2314 alive
-  trojan : 163/1697 alive
-  ss     : 0/411 alive
+Top countries (servers -> kept/VIP):
+  CA: 46 -> 46 kept, 24 VIP
+  TH: 2 -> 2 kept, 0 VIP
+  ID: 2 -> 2 kept, 0 VIP
+  FR: 2 -> 2 kept, 0 VIP
