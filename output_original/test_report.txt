@@ -1,22 +1,22 @@
-Shards merged: 3863 working servers
-Pool   : 303749 servers kept
-Date   : 2026-10-07 12:34 UTC
-Working: 3863
-Deep check: 1253 marked VIP (3/3 stable)
-Per-country cap 50: 2602 removed from working_clean.txt
-443+WS+TLS subset: 317 servers (236 removed by cap) -> working_443tls.txt
-Fastest ping: 30 ms | median: 870 ms
+Shards merged: 2418 working servers
+Pool   : 52494 servers kept
+Date   : 2026-10-08 12:46 UTC
+Working: 2418
+Deep check: 1595 marked VIP (3/3 stable)
+Per-country cap 50: 1336 removed from working_clean.txt
+443+WS+TLS subset: 183 servers (137 removed by cap) -> working_443tls.txt
+Fastest ping: 31 ms | median: 1115 ms
 
 Top countries (servers -> kept/VIP):
-  US: 729 -> 50 kept, 50 VIP
-  CA: 513 -> 50 kept, 50 VIP
-  NL: 422 -> 50 kept, 50 VIP
-  DE: 309 -> 50 kept, 50 VIP
-  ??: 292 -> 50 kept, 50 VIP
-  JP: 171 -> 50 kept, 50 VIP
-  FI: 124 -> 50 kept, 50 VIP
-  SG: 118 -> 50 kept, 50 VIP
-  HK: 116 -> 50 kept, 46 VIP
-  FR: 103 -> 50 kept, 15 VIP
-  KR: 103 -> 50 kept, 33 VIP
-  RU: 93 -> 50 kept, 38 VIP
+  US: 483 -> 50 kept, 50 VIP
+  CA: 366 -> 50 kept, 50 VIP
+  NL: 270 -> 50 kept, 50 VIP
+  ??: 164 -> 50 kept, 50 VIP
+  DE: 153 -> 50 kept, 50 VIP
+  JP: 100 -> 50 kept, 50 VIP
+  FR: 79 -> 50 kept, 50 VIP
+  FI: 73 -> 50 kept, 50 VIP
+  SG: 68 -> 50 kept, 50 VIP
+  HK: 62 -> 50 kept, 33 VIP
+  GB: 59 -> 50 kept, 36 VIP
+  KR: 57 -> 50 kept, 50 VIP
