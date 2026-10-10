@@ -1,526 +1,438 @@
-trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#🇺🇸 US Los Angeles 67ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
-trojan://r137979f@104.19.63.25:443?encryption=none&security=tls&sni=sheleqaz.emotionreza.workers.dev&fp=chrome&type=ws&host=sheleqaz.emotionreza.workers.dev&path=/?ed=2560#🇨🇦 CA Toronto 162ms | v2go%20%7C%20TROJAN%20%7C%20857
-trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cf.shiranyu.xyz#🇺🇸 US Los Angeles 200ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
-trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 385ms | [1898][US][0][TROJAN][None][ext_raw.githubusercont
-trojan://eaf47668-5442-4355-8c92-12cc5cee8468@x.com:2096?security=tls&sni=avengers5.yang-1989.xyz&type=ws&host=avengers5.yang-1989.xyz&path=%2Fo42w#🇨🇦 CA Toronto 452ms | v2go%20%7C%20TROJAN%20%7C%20733
-trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?allowInsecure=0&sni=cf.shiranyu.xyz#🇺🇸 US Los Angeles 462ms | %E7%BE%8E%E5%9B%BD_100819046+L0
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 488ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?sni=cf.shiranyu.xyz&type=raw#🇺🇸 US Los Angeles 500ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
-trojan://UX82473651@34.220.15.24:443?allowInsecure=0&sni=guided-ferret.rooster465.autos#🇺🇸 US Boardman 526ms | %E7%BE%8E%E5%9B%BD_100819050+L3
-trojan://Trojan@82164024@gb.tronsg.com:443?type=tcp&security=tls&sni=gb.tronsg.com&fp=chrome#🇬🇧 GB London 538ms |  By EbraSha 🪐
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#🇩🇪 DE Frankfurt am Main 548ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://UX82473651@guided-ferret.rooster465.autos:443?security=none&type=tcp&sni=guided-ferret.rooster465.autos#🌍 ?? 549ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 FR Victoria 559ms | 🇫🇷
-trojan://UX82473651@43.207.198.39:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#🇯🇵 JP Tokyo 560ms | %E6%97%A5%E6%9C%AC_100819008+L3
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇨🇦 CA Toronto 561ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.19.64.105%20
-trojan://UX82473651@internal-krill.rooster465.autos:443?type=tcp&security=tls&sni=internal-krill.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 562ms |  By EbraSha 🌀
-trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇸🇨 SC Victoria 566ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇨🇦 CA Toronto 568ms | @DeltaKroneckerGithub
-trojan://UX82473651@13.230.91.226:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 577ms |  By EbraSha 🌑
-trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 581ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🇨🇦 CA Toronto 583ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-444
-trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Austin 586ms | %F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 590ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos&security=tls#🇯🇵 JP Tokyo 591ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#🌍 ?? 592ms | %E6%97%A5%E6%9C%AC_100819005
-trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=%2F824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#🇨🇭 CH Geneva 593ms | v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%2
-trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌍 ?? 593ms | EPODONIOS
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=chrome&type=ws&host=www.pleadcourt.org&path=%2Fassignment#🇺🇸 US San Francisco 594ms | %5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-223
-trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=safari#🇺🇸 US Austin 605ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=safari#🇺🇸 US San Francisco 606ms | %F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20
-trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 611ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.72.50%20%
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios#🇩🇪 DE Frankfurt am Main 615ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌍 ?? 619ms | EPODONIOS
-trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#🌍 ?? 621ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 622ms |  By EbraSha 🐺
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&type=tcp#🇯🇵 JP Tokyo 626ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 630ms | [2003][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇸🇨 SC Victoria 631ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#🇨🇦 CA Toronto 633ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_164
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=none&type=tcp&sni=organic-caribou.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 634ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@43.201.100.203:443?security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 636ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-56
-trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&type=tcp&path=/#🇯🇵 JP Tokyo 637ms | JP 🇯🇵 | @Raydikalx | 750BD2
-trojan://UX82473651@43.201.100.203:443?sni=optimum-snapper.rooster465.autos&fp=chrome&type=tcp&path=%2f#🇰🇷 KR Incheon 640ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-14
-trojan://UX82473651@43.207.198.39:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#🌍 ?? 643ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@202.78.163.237:443?allowInsecure=0&sni=cheerful-swan.rooster465.autos#🇵🇱 PL Warsaw 646ms | %E5%8D%A2%E6%A3%AE%E5%A0%A1_100819002+L35
-trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=chrome&spx=/824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#🇨🇭 CH Geneva 646ms | EPODONIOS
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 650ms | EPODONIOS
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 CA Toronto 661ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 661ms | %E6%97%A5%E6%9C%AC_100819138+L6
-trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#🌍 ?? 664ms | [3282][US][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@104.17.121.9:443?security=tls&type=ws&sni=www.calmlunch.com&fp=chrome&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment#🇨🇦 CA Toronto 667ms | %23356%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%E2%86%92
-trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇪🇸 ES Madrid 669ms | %F0%9F%87%AA%F0%9F%87%B8ES-185.114.72.31-0432
-trojan://humanity@185.114.72.31:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇸 ES Madrid 670ms | EPODONIOS
-trojan://UX82473651@43.207.198.39:443?sni=fancy-javelin.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 678ms | %E6%97%A5%E6%9C%AC_100619134
-trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 678ms |  By EbraSha 🌍
-trojan://UX82473651@3.75.93.113:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=meet-goshawk.rooster465.autos#🌍 ?? 678ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#🌍 ?? 679ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#🌍 ?? 682ms | 🔒
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?allowInsecure=0&sni=cheerful-swan.rooster465.autos#🇵🇱 PL Warsaw 686ms |  By EbraSha 🧊
-trojan://humanity@www.speedtest.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 689ms | EPODONIOS
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 689ms | EPODONIOS
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 690ms |  By EbraSha 💻
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 691ms | %F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20tr
-trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 CA Toronto 692ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos#🌍 ?? 692ms | 🔒
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA Toronto 697ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 697ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-89
-trojan://humanity@162.159.244.91:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&allowInsecure=0#🇺🇸 US Newark 698ms | @DeltaKroneckerGithub
-trojan://humanity@172.64.150.28:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#🇨🇦 CA Toronto 702ms | 🔒
-trojan://UX82473651@52.221.220.227:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 702ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1#🇨🇦 CA Toronto 703ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.21.103.254
-trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos#🌍 ?? 704ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://humanity@45.80.111.7:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome&allowInsecure=0#🇩🇪 DE Frankfurt am Main 704ms | 🔒
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 709ms | [1840][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&allowInsecure=0#🌍 ?? 712ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 712ms | EPODONIOS
-trojan://UX82473651@54.65.177.190:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=winning-marten.rooster465.autos#🇯🇵 JP Tokyo 712ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://humanity@104.25.109.237:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment#🇨🇦 CA Toronto 714ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 716ms | JP 🇯🇵 | @Raydikalx | 4A4F3C
-trojan://r137979f@162.159.153.212:2087?type=ws&security=tls&fp=chrome&host=sheleqaz.emotionreza.workers.dev#🇨🇦 CA Toronto 718ms | %F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B
-trojan://humanity@104.17.147.22:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#🇨🇦 CA Toronto 718ms | @DeltaKroneckerGithub
-trojan://UX82473651@54.65.177.190:443?sni=winning-marten.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 718ms | JP 🇯🇵 | @Raydikalx | 0C87FE
-trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Austin 719ms | EPODONIOS
-trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 725ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://humanity@162.159.253.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Newark 726ms | v2go%20%7C%20TROJAN%20%7C%20368
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&allowInsecure=0#🇯🇵 JP Tokyo 727ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-183
-trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA Toronto 729ms | EPODONIOS
-trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇦 CA Toronto 732ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@3.253.106.233:443?allowInsecure=0&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 733ms | %E7%88%B1%E5%B0%94%E5%85%B0_100819003+L8
-trojan://UX82473651@noted-cougar.rooster465.autos:443?security=none&type=tcp&sni=noted-cougar.rooster465.autos#🇰🇷 KR Incheon 733ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 734ms |  By EbraSha 🕶️
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 CA Toronto 734ms | EPODONIOS
-trojan://UX82473651@54.199.66.128:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 735ms |  By EbraSha ⚔️
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 SC Victoria 735ms | %5Bopenproxylist.com%5D%20FR%2015263188
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&security=tls&fp=chrome&sni=optimum-snapper.rooster465.autos#🌍 ?? 735ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 736ms | EPODONIOS
-trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 738ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos#🇯🇵 JP Tokyo 739ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@43.201.100.203:443?type=tcp&security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 743ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-39
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 745ms | EPODONIOS
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&path=/#🇯🇵 JP Tokyo 747ms | [3639][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 753ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 754ms | SG 🇸🇬 | @Raydikalx | AF6CAE
-trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&peer=noted-cougar.rooster465.autos&security=tls#🇰🇷 KR Incheon 756ms | KR   TROJAN-TCP-TLS - AMAZON-02  3.35.168.225
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=firefox&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 759ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 761ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://humanity@212.227.144.37:8443?allowInsecure=0&sni=www.calmlunch.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=ws&host=www.calmlunch.com&path=/assignment#🇪🇸 ES Madrid 765ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 768ms | [2990][US][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 IE Dublin 769ms | v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%2
-trojan://r137979f@104.19.63.25:2083?sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F#🇨🇦 CA Toronto 769ms | @DeltaKroneckerGithub
-trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&type=tcp#🇯🇵 JP Tokyo 770ms | @DeltaKroneckerGithub
-trojan://UX82473651@3.75.93.113:443?sni=meet-goshawk.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 773ms | v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%2
-trojan://UX82473651@43.207.89.91:443?security=tls&sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 JP Tokyo 773ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-45
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 774ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@162.159.91.211:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 777ms | %F0%9F%8C%90%20Cloudflare%20%7C%20162.159.91.211%2
-trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇪🇸 ES Madrid 780ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 784ms | EPODONIOS
-trojan://UX82473651@34.220.15.24:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=guided-ferret.rooster465.autos#🇺🇸 US Boardman 785ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@full-egret.rooster465.autos:443?sni=full-egret.rooster465.autos&peer=full-egret.rooster465.autos&security=tls#🇰🇷 KR Incheon 789ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@meet-goshawk.rooster465.autos:443#🇩🇪 DE Frankfurt 792ms | [1956][DE][0][TROJAN][None][oneclickvpnkeys][2026-
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos#🇯🇵 JP Tokyo 800ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&amp;sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 802ms | [1958][DE][0][TROJAN][None][V2rayCollector][2026-1
-trojan://UX82473651@13.230.91.226:443?type=tcp&security=tls&sni=musical-terrier.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 807ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@54.238.153.132:443?security=tls&sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 JP Tokyo 816ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-21
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=none&type=tcp&sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 816ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#🇺🇸 US Austin 817ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://humanity@165.215.250.14:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Ann Arbor 818ms | EPODONIOS
-trojan://UX82473651@3.35.207.188:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 819ms | EPODONIOS
-trojan://UX82473651@54.199.66.128:443?type=tcp&security=tls&sni=integral-rodent.rooster465.autos#🌍 ?? 825ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-140
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 826ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@52.192.217.187:443?allowInsecure=0&sni=evolving-platypus.rooster465.autos#🇯🇵 JP Tokyo 830ms | %E6%97%A5%E6%9C%AC_100819006+L0
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 836ms | EPODONIOS
-trojan://UX82473651@dynamic-imp.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#🇯🇵 JP Tokyo 839ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#🇨🇦 CA Toronto 843ms | %F0%9F%8F%81RELAY-104.19.229.21-0458
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=safari&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 844ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-768
-trojan://UX82473651@13.125.69.162:443?allowInsecure=0&sni=engaging-toucan.rooster465.autos#🌍 ?? 844ms | %E9%9F%A9%E5%9B%BD_100819004+L1
-trojan://UX82473651@3.112.245.255:443?sni=dynamic-imp.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 844ms | JP 🇯🇵 | @Raydikalx | A7356E
-trojan://humanity@78.47.146.151:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&allowInsecure=0#🇩🇪 DE Nuremberg 846ms | 🔒
-trojan://UX82473651@13.231.247.130:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concrete-aardvark.rooster465.autos#🇯🇵 JP Tokyo 854ms |  By EbraSha 🐺
-trojan://UX82473651@54.199.66.128:443?sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 862ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-38
-trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 863ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@3.39.225.215:443?sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 865ms | %F0%9F%87%B0%F0%9F%87%B7%20%5B485.7ms%20%2B/-512ms
-trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 870ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-94
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#🇨🇦 CA Toronto 871ms | EPODONIOS
-trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&spx=%2F824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb&fp=safari#🇨🇭 CH Geneva 873ms | .%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome#🇺🇸 US San Francisco 873ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-379
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 JP Tokyo 876ms |  By EbraSha 🃏
-trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 880ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=none&type=tcp&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 881ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=none&type=tcp&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 881ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#🌍 ?? 886ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@91.245.225.79:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇨🇭 CH Niederscherli 891ms | %F0%9F%87%A8%F0%9F%87%AD%20Niederscherli%2C%20CH%2
-trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&fp=chrome&type=tcp&path=%2f#🌍 ?? 894ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-102
-trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 897ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-15
-trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 899ms | [2023][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 US Austin 901ms | EPODONIOS
-trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#🇨🇦 CA Toronto 901ms | %5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-384
-trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos#🇰🇷 KR Incheon 903ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@91.92.43.240:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#🇩🇪 DE Frankfurt am Main 903ms |  By EbraSha 🐺
-trojan://UX82473651@13.212.81.3:443?sni=holy-lamb.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 904ms | %E6%96%B0%E5%8A%A0%E5%9D%A1_100819228+L2
-trojan://UX82473651@3.120.109.26:443?allowInsecure=0&sni=actual-squid.rooster465.autos#🇩🇪 DE Frankfurt 913ms | %E5%BE%B7%E5%9B%BD_100819014+L3
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&type=tcp&fp=chrome#🇩🇪 DE Frankfurt 922ms |  By EbraSha 🧬
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox#🇩🇪 DE Frankfurt am Main 927ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://UX82473651@13.125.69.162:443?sni=engaging-toucan.rooster465.autos&peer=engaging-toucan.rooster465.autos&security=tls#🌍 ?? 928ms | KR   TROJAN-TCP-TLS - AMAZON-02  13.125.69.162
-trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 928ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.17.121.43%20
-trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇸🇨 SC Victoria 931ms | %F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20C
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 932ms | EPODONIOS
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 938ms | EPODONIOS
-trojan://UX82473651@3.112.245.255:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=dynamic-imp.rooster465.autos#🇯🇵 JP Tokyo 938ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 CA Toronto 940ms | EPODONIOS
-trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 942ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 947ms | EPODONIOS
-trojan://humanity@www.calmlunch.com:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 947ms | %F0%9F%8C%90%20Cloudflare%20%7C%20www.calmlunch.co
-trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇱🇹 LT Vilnius 949ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Austin 952ms | EPODONIOS
-trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&peer=obliging-louse.rooster465.autos&security=tls#🇯🇵 JP Tokyo 953ms | JP   TROJAN-TCP-TLS - AMAZON-02  54.238.153.132
-trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#🇺🇸 US Austin 960ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://humanity@172.67.231.254:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#🇨🇦 CA Toronto 961ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_76
-trojan://UX82473651@13.230.91.226:443?security=tls&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 961ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@3.75.93.113:443?sni=meet-goshawk.rooster465.autos&type=tcp&fp=chrome#🇩🇪 DE Frankfurt 965ms | DE 🇩🇪 | @Raydikalx | 038CA0
-trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&peer=loved-shark.rooster465.autos&security=tls#🇮🇪 IE Dublin 971ms | IE   TROJAN-TCP-TLS - AMAZON-02  3.253.106.233
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 973ms | EPODONIOS
-trojan://Trojan@82164024@3.255.76.207:443?type=tcp&security=tls&sni=ie.tronsg.com#🇮🇪 IE Dublin 986ms |  By EbraSha 🧊
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?allowInsecure=0&sni=#🇷🇴 RO Bucharest 989ms | %E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6_100919009
-trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇳🇱 NL Groningen 997ms | %F0%9F%87%B3%F0%9F%87%B1NL-45.87.41.18-0539
-trojan://UX82473651@43.207.89.91:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=organic-caribou.rooster465.autos#🇯🇵 JP Tokyo 997ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-110
-trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 999ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-83
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=none&type=tcp&sni=organic-caribou.rooster465.autos#🌍 ?? 1007ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@3.34.131.153:443?sni=pretty-rat.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1007ms | [1755][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&peer=ie.tronsg.com&security=tls#🇮🇪 IE Dublin 1009ms | IE   TROJAN-TCP-TLS - AMAZON-02  3.255.76.207
-trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1013ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=none&type=tcp&sni=musical-terrier.rooster465.autos#🌍 ?? 1014ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&amp;fp=chrome&amp;type=tcp&amp;path=#🇯🇵 JP Tokyo 1016ms |  By EbraSha 🌀
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?allowInsecure=0#🇩🇪 DE Frankfurt am Main 1026ms |  By EbraSha 🧠
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos#🇯🇵 JP Tokyo 1026ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@3.35.207.188:443?security=tls&sni=main-fawn.rooster465.autos&type=tcp&headerType=none&path=%2F#🌍 ?? 1026ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
-trojan://UX82473651@54.238.153.132:443?type=tcp&security=tls&sni=obliging-louse.rooster465.autos#🇯🇵 JP Tokyo 1029ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-12
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=none&type=tcp&sni=prime-corgi.rooster465.autos#🇯🇵 JP Tokyo 1032ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://pH[]S[Bh:_:D6T4k@104.19.45.195:443?sni=AZaDneT-692.PagEs.DEv&type=ws&path=/trsVu9Ualb1DOfGjpw&fp=chrome#🇨🇦 CA Toronto 1036ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.19.45.195%20
-trojan://humanity@172.67.139.14:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1036ms | EPODONIOS
-trojan://humanity@88.99.189.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Nuremberg 1038ms | %F0%9F%87%A9%F0%9F%87%AA%20Nuremberg%2C%20DE%20%C2
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1040ms | EPODONIOS
-trojan://UX82473651@54.249.55.154:443?type=tcp&security=tls&sni=prime-corgi.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 1049ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-18
-trojan://UX82473651@pretty-rat.rooster465.autos:443?security=none&type=tcp&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1049ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&path=/#🇰🇷 KR Incheon 1050ms | [3633][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1054ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&allowInsecure=0&type=tcp#🇯🇵 JP Tokyo 1055ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-70
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&path=/#🇸🇬 SG Singapore 1064ms | [3646][SG][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?mux=1&amp;allowInsecure=1&amp;sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 1073ms | 德国-独享带宽(152)
-trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#🇨🇦 CA Toronto 1074ms | %5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-554
-trojan://UX82473651@52.78.203.191:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 1075ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@3.35.207.188:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1077ms | EPODONIOS
-trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1078ms | [1970][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster465.autos&type=tcp#🇸🇬 SG Singapore 1079ms | @DeltaKroneckerGithub
-trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 1080ms | [2009][SG][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=qq#🇳🇱 NL Amsterdam 1082ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-9
-trojan://humanity@185.255.179.166:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇩🇪 DE Frankfurt Am Main 1094ms | EPODONIOS
-trojan://UX82473651@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 1096ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1099ms | [1791][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1100ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-8
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&amp;sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 1102ms | 🌟 @MTproxy22_v2ray
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 1102ms | EPODONIOS
-trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos#🇰🇷 KR Incheon 1105ms | %F0%9F%87%B0%F0%9F%87%B7%20%5B607.8ms%20%2B/-627ms
-trojan://UX82473651@54.250.237.143:443?type=tcp&security=tls&sni=accurate-frog.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 1106ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-76
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos#🇯🇵 JP Tokyo 1108ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos#🌍 ?? 1112ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1113ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@13.230.139.12:443?allowInsecure=0&sni=brief-glider.rooster465.autos#🇯🇵 JP Tokyo 1115ms | %E6%97%A5%E6%9C%AC_100819007+L0
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=none&type=tcp&sni=fancy-javelin.rooster465.autos#🇯🇵 JP Tokyo 1115ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=none&type=tcp#🌍 ?? 1117ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=none&type=tcp&sni=obliging-louse.rooster465.autos#🌍 ?? 1120ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://Trojan@82164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gb.tronsg.com#🇬🇧 GB London 1121ms | EPODONIOS
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 1127ms |  By EbraSha 🔐
-trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&path=/#🇸🇬 SG Singapore 1127ms | SG 🇸🇬 | @Raydikalx | 7EB582
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?security=tls&type=tcp&sni=cheerful-swan.rooster465.autos#🇵🇱 PL Warsaw 1131ms | %F0%9F%87%B5%F0%9F%87%B1_%E6%B3%A2%E5%85%B0_122
-trojan://humanity@5.78.92.27:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Hillsboro 1138ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1139ms | [1824][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@54.199.66.128:443?allowInsecure=0&sni=integral-rodent.rooster465.autos#🌍 ?? 1140ms | %E6%97%A5%E6%9C%AC_100819010+L6
-trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 DE Frankfurt 1140ms | EPODONIOS
-trojan://UX82473651@3.35.207.188:443?sni=main-fawn.rooster465.autos&peer=main-fawn.rooster465.autos&security=tls#🇰🇷 KR Incheon 1142ms | KR   TROJAN-TCP-TLS - AMAZON-02  3.35.207.188
-trojan://UX82473651@pet-antelope.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#🇸🇬 SG Singapore 1143ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1144ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP 1147ms | JP 🇯🇵 | @Raydikalx | 0A7D9E
-trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&peer=musical-terrier.rooster465.autos&security=tls#🇯🇵 JP Tokyo 1152ms | JP   TROJAN-TCP-TLS - AMAZON-02  13.230.91.226
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=none&type=tcp&sni=concrete-aardvark.rooster465.autos#🌍 ?? 1155ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://humanity@191.96.94.226:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 1157ms | v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%2
-trojan://humanity@31.15.19.199:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org#🇳🇱 NL Dronten 1158ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 1159ms |  By EbraSha 🧬
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1160ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.71.213%20
-trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1160ms | JP 🇯🇵 | @Raydikalx | 7AF559
-trojan://UX82473651@54.250.237.143:443?security=tls&sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 1161ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@54.249.36.167:443?allowInsecure=0&sni=comic-poodle.rooster465.autos#🇯🇵 JP Tokyo 1161ms | %E6%97%A5%E6%9C%AC_100819009+L6
-trojan://UX82473651@3.35.207.188:443?allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1161ms | %E9%9F%A9%E5%9B%BD_100819005+L3
-trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇱 NL Groningen 1162ms | EPODONIOS
-trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?security=none&type=tcp&sni=cf.shiranyu.xyz&fp=chrome#🇺🇸 US Los Angeles 1173ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
-trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇦🇹 AT Vienna 1173ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://humanity@104.25.109.237:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇨🇦 CA Toronto 1175ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.25.109.237%2
-trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos#🌍 ?? 1175ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=none&type=tcp&sni=optimum-snapper.rooster465.autos#🌍 ?? 1181ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&peer=pretty-rat.rooster465.autos&security=tls#🌍 ?? 1186ms | KR   TROJAN-TCP-TLS - AMAZON-02  3.34.131.153
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&peer=equipped-stingray.rooster465.autos&security=tls#🇯🇵 JP Tokyo 1187ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&fp=chrome&type=tcp&path=/#🇭🇰 HK Tuenmen 1187ms | v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%2
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge#🇩🇪 DE Frankfurt am Main 1193ms | %F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Clou
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&peer=optimum-snapper.rooster465.autos&security=tls#🇰🇷 KR Incheon 1194ms | KR   TROJAN-TCP-TLS - AMAZON-02  43.201.100.203
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 DE Frankfurt 1195ms | [3680][DE][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome#🇮🇪 IE Dublin 1196ms |  By EbraSha 🧨
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#🇨🇦 CA Toronto 1198ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#🇯🇵 JP Tokyo 1199ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1205ms | EPODONIOS
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1207ms | EPODONIOS
-trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos#🇸🇬 SG Singapore 1208ms | EPODONIOS
-trojan://UX82473651@3.253.106.233:443?security=none&type=tcp&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 1208ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
-trojan://UX82473651@3.75.93.113:443?type=tcp&security=tls&sni=meet-goshawk.rooster465.autos&fp=chrome#🇩🇪 DE Frankfurt 1212ms | %5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-2
-trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&peer=accurate-frog.rooster465.autos&security=tls#🇯🇵 JP Tokyo 1212ms | JP   TROJAN-TCP-TLS - AMAZON-02  54.250.237.143
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos#🌍 ?? 1212ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
-trojan://humanity@162.159.36.20:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#🇨🇦 CA Toronto 1212ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@89.150.34.41:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇱 NL Amsterdam 1219ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@5.44.46.142:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 1222ms | @DeltaKroneckerGithub
-trojan://UX82473651@3.34.131.153:443?allowInsecure=0&sni=pretty-rat.rooster465.autos#🌍 ?? 1222ms | %E9%9F%A9%E5%9B%BD_100819003+L3
-trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 1223ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&peer=promoted-rattler.rooster465.autos&security=tls#🌍 ?? 1230ms | JP   TROJAN-TCP-TLS - AMAZON-02  52.192.45.137
-trojan://UX82473651@43.201.100.203:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 1232ms | EPODONIOS
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?type=tcp&security=tls&fp=firefox&sni=ger1.fytpn.com#🇩🇪 DE Frankfurt am Main 1247ms | @DeltaKroneckerGithub
-trojan://UX82473651@13.212.81.3:443?type=tcp&security=tls&sni=holy-lamb.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 1248ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
-trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 1249ms | %F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_124
-trojan://humanity@185.255.179.166:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE Frankfurt Am Main 1263ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&peer=pet-antelope.rooster465.autos&security=tls#🇸🇬 SG Singapore 1264ms | SG   TROJAN-TCP-TLS - AMAZON-02  52.221.220.227
-trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&path=/#🇩🇪 DE Frankfurt 1265ms | %F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434586
-trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos#🇯🇵 JP Tokyo 1271ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1273ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 1280ms | %E5%BE%B7%E5%9B%BD_100619312
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&peer=cheerful-swan.rooster465.autos&security=tls#🇵🇱 PL Warsaw 1284ms | v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%2
-trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 1288ms | SG 🇸🇬 | @Raydikalx | A73F9F
-trojan://humanity@104.21.37.56:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1292ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&type=tcp&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 1295ms | %F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_82
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1302ms | [1875][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos&path=/#🇸🇬 SG Singapore 1307ms
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?sni=inviting-ferret.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 1320ms | SG 🇸🇬 | @Raydikalx | AA8339
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?sni=meet-goshawk.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1327ms | [1962][DE][0][TROJAN][None][ext_raw.githubusercont
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?security=tls&sni=id1.nathaya.web.id&type=ws&path=/trojan&Host=id1.nathaya.web.id#🇨🇦 CA Toronto 1327ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@172.64.150.28:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#🇨🇦 CA Toronto 1332ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_84
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com&fp=ios#🇳🇱 NL Amsterdam 1332ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-7
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?path=%2Ftrojan&security=tls&host=id1.nathaya.web.id&type=ws&sni=id1.nathaya.web.id#🇨🇦 CA Toronto 1334ms | %F0%9F%8C%90%20Cloudflare%20%7C%20188.114.97.6%20%
-trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1344ms | JP 🇯🇵 | @Raydikalx | 7E1720
-trojan://UX82473651@3.35.207.188:443?sni=main-fawn.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1352ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
-trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#🇯🇵 JP Tokyo 1362ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@13.230.139.12:443?sni=brief-glider.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1365ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1371ms | [3654][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1393ms | [1810][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&type=tcp&sni=pet-antelope.rooster465.autos#🌍 ?? 1393ms | %F0%9F%87%B8%F0%9F%87%AC_%E6%96%B0%E5%8A%A0%E5%9D%
-trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1394ms | EPODONIOS
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 1395ms | %F0%9F%87%A9%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&type=tcp&path=/#🇸🇬 SG Singapore 1395ms | SG 🇸🇬 | @Raydikalx | 3F94D0
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?security=tls&sni=glowing-marmoset.rooster465.autos#🌍 ?? 1401ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=raw&fp=chrome#🇺🇸 US Boardman 1405ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://UX82473651@3.34.131.153:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1410ms | EPODONIOS
-trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1417ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇹🇷 TR Istanbul 1420ms | v2go%20%7C%20TROJAN%20%7C%20439
-trojan://humanity@104.16.72.2:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#🇨🇦 CA Toronto 1422ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇨🇦 CA Toronto 1424ms | %F0%9F%8F%81RELAY-104.18.9.83-0453
-trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#🇰🇷 KR Incheon 1424ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&path=/#🇰🇷 KR Incheon 1426ms | [3668][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@actual-squid.rooster465.autos:443?security=tls&type=tcp#🇩🇪 DE Frankfurt 1432ms | %F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_115
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=ios#🇺🇸 US San Francisco 1455ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-957
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=none&type=tcp&sni=engaging-toucan.rooster465.autos#🇰🇷 KR Incheon 1456ms | %F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%C2%B7%
-trojan://UX82473651@56.10.9.77:443?sni=inviting-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 1459ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1460ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-170
-trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome&allowInsecure=0#🌍 ?? 1464ms | 🔒
-trojan://UX82473651@63.178.198.94:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🌍 ?? 1464ms | %E5%BE%B7%E5%9B%BD_100819015+L4
-trojan://humanity@104.19.64.105:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1468ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@172.64.150.28:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome&alpn=h2&allowInsecure=0#🇨🇦 CA Toronto 1469ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE Dublin 1476ms |  By EbraSha 🎛️
-trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1477ms | JP 🇯🇵 | @Raydikalx | 3CC1AB
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE Dublin 1478ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1480ms |  By EbraSha 🧬
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 CA Toronto 1481ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.20.6.134%20%
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#🇨🇦 CA Toronto 1482ms | %F0%9F%8C%90%20Cloudflare%20%7C%20172.67.217.240%2
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&amp;sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 1489ms | 🌟 @MTproxy22_v2ray
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇰🇷 KR Incheon 1489ms |  By EbraSha 🐉
-trojan://humanity@104.21.37.56:443?cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1491ms | %5Bopenproxylist.com%5D%20NL%2015567255
-trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&type=tcp&path=/#🇯🇵 JP Tokyo 1492ms | JP 🇯🇵 | @Raydikalx | 5FFB23
-trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#🇩🇪 DE Frankfurt 1494ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 1497ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@lit.fytpn.com:2097?security=none&type=tcp&sni=lit.fytpn.com&fp=chrome#🇱🇻 LV Riga 1500ms | %F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%2
-trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 1502ms | %E7%BE%8E%E5%9B%BD_1006192600
-trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Austin 1502ms | @meliproxyy
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.33.59:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#🇨🇦 CA Toronto 1504ms | @DeltaKroneckerGithub
-trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=tcp#🌍 ?? 1510ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://humanity@165.215.250.14:443?security=tls&type=ws&host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com#🇺🇸 US Ann Arbor 1513ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_212
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#🇮🇪 IE Dublin 1522ms |  By EbraSha 🐺
-trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 1548ms | %F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1570ms | [1989][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@13.125.69.162:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none&path=%2F#🌍 ?? 1572ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
-trojan://humanity@chat.openai.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=h2&fp=chrome&type=ws&sni=www.calmlunch.com#🌍 ?? 1583ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://UX82473651@18.143.92.167:443?allowInsecure=0&sni=glowing-marmoset.rooster465.autos#🇸🇬 SG Singapore 1585ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?type=tcp&security=tls&sni=ger6.fytpn.com&fp=chrome#🇷🇴 RO Bucharest 1593ms | EPODONIOS
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&type=tcp&sni=obliging-louse.rooster465.autos#🇯🇵 JP Tokyo 1600ms | %F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_83
-trojan://UX82473651@pet-antelope.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;sni=#🌍 ?? 1615ms |  By EbraSha 🔌
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&amp;sni=engaging-toucan.rooster465.autos#🇰🇷 KR Incheon 1629ms | 🌟 @MTproxy22_v2ray
-trojan://UX82473651@assuring-skink.rooster465.autos:443?security=none&type=tcp&sni=assuring-skink.rooster465.autos#🇯🇵 JP Tokyo 1630ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://humanity@188.114.97.6:443?path=//assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1634ms | EPODONIOS
-trojan://UX82473651@52.78.203.191:443?security=tls&sni=delicate-buck.rooster465.autos&path=/#🇰🇷 KR Incheon 1644ms | KR 🇰🇷 | @Raydikalx | 83CF2B
-trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1647ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 1654ms | EPODONIOS
-trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#🇭🇰 HK Tuenmen 1657ms |  By EbraSha 📼
-trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&type=tcp#🇺🇸 US Boardman 1676ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://UX82473651@52.221.220.227:443?security=tls&sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 1677ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#🇯🇵 JP Tokyo 1680ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@3.112.245.255:443?sni=dynamic-imp.rooster465.autos&allowInsecure=0&type=tcp#🇯🇵 JP Tokyo 1688ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&peer=glowing-marmoset.rooster465.autos&security=tls#🇸🇬 SG Singapore 1694ms | SG   TROJAN-TCP-TLS - AMAZON-02  18.143.92.167
-trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1698ms | EPODONIOS
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;sni=ger1.fytpn.com#🇩🇪 DE Frankfurt am Main 1706ms |  By EbraSha 🛜
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=none&type=tcp&sni=promoted-rattler.rooster465.autos#🇯🇵 JP Tokyo 1715ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos#🌍 ?? 1718ms | %F0%9F%87%A9%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@52.78.203.191:443?type=tcp&security=tls&sni=delicate-buck.rooster465.autos&fp=chrome#🇰🇷 KR Incheon 1718ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-12
-trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇸 ES Madrid 1718ms | EPODONIOS
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&type=tcp&path=%2f#🌍 ?? 1723ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-36
-trojan://humanity@185.255.179.166:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇩🇪 DE Frankfurt Am Main 1738ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&path=/#🇮🇪 IE Dublin 1746ms | [3664][IE][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos#🇰🇷 KR Incheon 1758ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos#🇯🇵 JP Tokyo 1763ms | 🔒
-trojan://humanity@82.117.245.125:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE Frankfurt am Main 1765ms | %F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20OVH%
-trojan://humanity@104.17.44.17:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#🇨🇦 CA Toronto 1769ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://UX82473651@pet-antelope.rooster465.autos:443?security=none&type=tcp&sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 1779ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=/trojan&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA Toronto 1786ms | EPODONIOS
-trojan://9e1006cd4fa01b63e710d6550c0de1a1@172.67.248.85:443?path=%2Fu%2Ffb66dcb77cc6%3Fed%3D2560&security=tls&insecure=0&host=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev#🇨🇦 CA Toronto 1787ms | %F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%
-trojan://humanity@85.31.102.163:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#🇱🇻 LV Riga 1790ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@191.96.94.226:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE Frankfurt am Main 1794ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 1802ms | EPODONIOS
-trojan://UX82473651@63.178.198.94:443?fp=chrome&sni=pleased-albacore.rooster465.autos#🇩🇪 DE Frankfurt 1818ms | EPODONIOS
-trojan://humanity@188.42.145.180:443?sni=wWw.Volumeroot.cOm.&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#🇳🇱 NL Amsterdam 1821ms | %F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%C2%B7%20C
-trojan://UX82473651@dynamic-imp.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;sni=#🌍 ?? 1839ms |  By EbraSha 🚨
-trojan://UX82473651@34.220.15.24:443?type=tcp&security=tls&sni=guided-ferret.rooster465.autos#🇺🇸 US Boardman 1865ms | %5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1143
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?type=tcp&security=tls&sni=ger2.fytpn.com&fp=chrome#🇩🇪 DE Frankfurt am Main 1870ms | EPODONIOS
-trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇨🇦 CA Toronto 1874ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&amp;sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 1906ms |  By EbraSha 🔐
-trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1908ms | [1917][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos#🇸🇬 SG Singapore 1919ms | EPODONIOS
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 1948ms | EPODONIOS
-trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE Dublin 1952ms | IE 🇮🇪 | @Raydikalx | 8A1392
-trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos#🇯🇵 JP Tokyo 1960ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇺🇸 US Boardman 1962ms | US 🇺🇸 | @Raydikalx | 788DF5
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=qq#🇺🇸 US San Francisco 1971ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-1563
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 1979ms | EPODONIOS
-trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 1982ms | [2045][SG][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@actual-squid.rooster465.autos:443?allowInsecure=0&sni=actual-squid.rooster465.autos#🇩🇪 DE Frankfurt 1986ms |  By EbraSha 🐺
-trojan://humanity@104.16.85.85:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1992ms |  By EbraSha 📶
-trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇦🇹 AT Vienna 1996ms | [5556][AT][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 2037ms | [1866][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@52.221.218.179:443?security=tls&sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome&allowInsecure=0#🇸🇬 SG Singapore 2043ms | 🔒
-trojan://UX82473651@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 2059ms | [1938][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=safari&type=ws&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 2083ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-21
-trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&type=tcp&sni=real-cardinal.rooster465.autos#🇸🇬 SG Singapore 2101ms | %F0%9F%87%B8%F0%9F%87%AC_%E6%96%B0%E5%8A%A0%E5%9D%
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=%2Ftrojan&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=id1.nathaya.web.id&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦 CA Toronto 2102ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.87%20%
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumerOot.coM.&fp=chrome&type=ws&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 2120ms | EPODONIOS
-trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&path=/#🌍 ?? 2122ms | [3619][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 CA Toronto 2130ms | EPODONIOS
-trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 2131ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 2153ms | [1772][SG][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&amp;allowInsecure=1#🇩🇪 DE Frankfurt 2156ms
-trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&fp=unsafe&host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=www.volumerOot.coM.&type=ws#🇨🇦 CA Toronto 2168ms | %F0%9F%8C%90%20Cloudflare%20%7C%20188.114.97.6%20%
-trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos&type=tcp&allowInsecure=0#🇰🇷 KR Incheon 2170ms | 🔒
-trojan://UX82473651@18.143.92.167:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=glowing-marmoset.rooster465.autos#🇸🇬 SG Singapore 2184ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@52.78.203.191:443?sni=delicate-buck.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 2193ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-32
-trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos#🇯🇵 JP Tokyo 2197ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@63.178.198.94:443?sni=pleased-albacore.rooster465.autos&peer=pleased-albacore.rooster465.autos&security=tls#🇩🇪 DE Frankfurt 2205ms | DE   TROJAN-TCP-TLS - AMAZON-02  63.178.198.94
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&type=tcp&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 2207ms | %F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD_92
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=tls#🇩🇪 DE Frankfurt 2243ms | DE   TROJAN-TCP-TLS - AMAZON-02  63.178.198.94
-trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&fm=%7B%22tcp%22:%20%5B%7B%22type%22:%20%22fragment%22%2C%20%22settings%22:%20%7B%22packets%22:%20%22tlshello%22%2C%20%22lengths%22:%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22:%20%5B%220%22%5D%2C%20%22maxSplit%22:%20%220%22%7D%7D%2C%7B%22type%22:%20%22fragment%22%2C%20%22settings%22:%20%7B%22packets%22:%20%221-1%22%2C%20%22lengths%22:%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22:%20%5B%221%22%5D%2C%20%22maxSplit%22:%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 2247ms | @DeltaKroneckerGithub
-trojan://UX82473651@34.220.15.24:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=guided-ferret.rooster465.autos#🌍 ?? 2250ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#🇰🇷 KR Incheon 2271ms | EPODONIOS
-trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#🌍 ?? 2276ms | EPODONIOS
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?sni=inviting-ferret.rooster465.autos#🇸🇬 SG Singapore 2281ms | %F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@52.221.220.227:443?type=tcp&security=tls&sni=pet-antelope.rooster465.autos&fp=chrome#🌍 ?? 2286ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-98
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 2293ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-195
-trojan://UX82473651@34.220.15.24:443?type=tcp&security=tls&sni=guided-ferret.rooster465.autos&fp=chrome#🇺🇸 US Boardman 2301ms | %5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-366
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=edge&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 2340ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&path=/#🇰🇷 KR Incheon 2344ms | [3684][KR][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@104.21.13.204:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#🇨🇦 CA Toronto 2346ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_220
-trojan://UX82473651@3.39.225.215:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 2349ms | KR 🇰🇷 | @Raydikalx | 2669C3
-trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 2447ms | [1897][US][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls#🇮🇪 IE Dublin 2459ms | IE   TROJAN-TCP-TLS - AMAZON-02  3.253.106.233
-trojan://humanity@166.1.36.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇩🇪 DE Frankfurt am Main 2461ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@162.159.253.41:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#🇺🇸 US Newark 2496ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_227
-trojan://humanity@82.117.245.125:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 2505ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇸🇨 SC Victoria 2509ms | %F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20C
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=none&type=tcp#🌍 ?? 2535ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 2562ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#🇮🇪 IE Dublin 2604ms |  By EbraSha 🧩
-trojan://humanity@172.64.145.133:443?security=tls&sni=www.pleadcourt.org&fp=unsafe&type=ws&host=www.pleadcourt.org&path=/assignment&fragment=null,null,tlshello,0&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"},"type":"fragment"},{"settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"},"type":"fragment"}]}#🇨🇦 CA Toronto 2622ms | EPODONIOS
-trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇸🇪 SE Stockholm 2623ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://UX82473651@guided-ferret.rooster465.autos:443?security=none&type=raw&sni=guided-ferret.rooster465.autos&fp=chrome#🇺🇸 US Boardman 2658ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://UX82473651@3.120.109.26:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=actual-squid.rooster465.autos#🌍 ?? 2680ms | %5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-256
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&path=%2f#🇰🇷 KR Incheon 2685ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
-trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"},"type":"fragment"},{"settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 2723ms | EPODONIOS
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#🇸🇨 SC Victoria 2751ms | %F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20C
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com&fp=safari#🇳🇱 NL Amsterdam 2839ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-12
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 2871ms | [1891][SG][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt Am Main 2903ms | EPODONIOS
-trojan://humanity@213.1.145.50:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#🇬🇧 GB London 2929ms | @DeltaKroneckerGithub
-trojan://UX82473651@kind-stork.rooster465.autos:443?security=none&type=tcp&sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 2967ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 3007ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@104.18.35.86:443?security=tls&sni=www.volumerOot.coM.&fp=unsafe&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&type=ws&host=www.volumerOot.coM.&path=%2Fassignment&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256#🇨🇦 CA Toronto 3068ms | @DeltaKroneckerGithub
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=none&type=tcp&sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 3095ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#🇺🇸 US Austin 3097ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp#🇯🇵 JP Tokyo 3127ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-20
-trojan://UX82473651@13.231.247.130:443?security=tls&sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome&allowInsecure=0#🇯🇵 JP Tokyo 3163ms | 🔒
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@www.speedtest.org:2053?type=ws&security=tls&path=%2F0962&host=nimm.mpd.cc.cd.&sni=nimm.mpd.cc.cd.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&insecure=0&allowInsecure=0#🇨🇦 CA Toronto 3171ms | %F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A
-trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 3185ms | %5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-90
-trojan://UX82473651@guided-ferret.rooster465.autos:443?security=tls&type=tcp&sni=guided-ferret.rooster465.autos#🌍 ?? 3208ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_100
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=none&type=tcp&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 3235ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
-trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&fp=chrome&alpn=http%2F1.1#🇳🇱 NL Amsterdam 3320ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-22
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=safari#🇳🇱 NL Amsterdam 3342ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-19
-trojan://humanity@188.42.145.180:443?security=tls&type=ws&sni=www.volumeroot.com&path=/assignment&host=www.volumeroot.com#🇳🇱 NL Amsterdam 3422ms | %5Bopenproxylist.com%5D%20NL%2015567255
-trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos#🇸🇬 SG Singapore 3440ms | %F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 3453ms | [1833][JP][0][TROJAN][None][ext_raw.githubusercont
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@104.26.14.137:2053?security=tls&sni=nimm.mpd.cc.cd.&type=ws&host=nimm.mpd.cc.cd.&path=%2F0962&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=0#🇨🇦 CA Toronto 3517ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@104.26.15.137:2053?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&path=%2F0962&security=tls&sni=nimm.mpd.cc.cd.&type=ws#🇨🇦 CA Toronto 3545ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;sni=#🇰🇷 KR Incheon 3576ms |  By EbraSha 🔋
-trojan://humanity@5.78.92.27:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 US Hillsboro 3587ms | %F0%9F%87%BA%F0%9F%87%B8%20Hillsboro%2C%20US%20%C2
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?security=tls#🇸🇬 SG Singapore 3607ms | SG   TROJAN-TCP-TLS - AMAZON-02  18.143.92.167
-trojan://UX82473651@guided-ferret.rooster465.autos:443?security=none&type=tcp#🇺🇸 US Boardman 3642ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=raw#🇺🇸 US Boardman 3671ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 3685ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#🇦🇹 AT Vienna 3707ms | %F0%9F%87%A6%F0%9F%87%B9%20Vienna%2C%20AT%20%C2%B7
-trojan://UX82473651@sacred-anemone.rooster465.autos:443#🌍 ?? 3739ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?sni=ger6.fytpn.com&peer=ger6.fytpn.com&security=tls#🌍 ?? 3793ms | MD   TROJAN-TCP-TLS - It Hostline Ltd  194.87.6.19
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=ios#🇳🇱 NL Amsterdam 3794ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-4
-trojan://humanity@78.47.146.151:443?allowInsecure=0&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#🇩🇪 DE Nuremberg 3829ms | %F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?sni=meet-goshawk.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 3831ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@www.calmlunch.com:443?security=tls&fp=chrome&type=ws&host=www.calmlunch.com&path=%2fassignment#🇨🇦 CA Toronto 3846ms | [3346][US][0][TROJAN][None][ext_raw.githubusercont
-trojan://humanity@104.27.21.22:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🇨🇦 CA Toronto 3878ms | v2go%20%7C%20TROJAN%20%7C%20361
-trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 4080ms | %E6%97%A5%E6%9C%AC_100619135
-trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&fp=unsafe&alpn=http%2F1.1&allowInsecure=0#🇨🇦 CA Toronto 4089ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.21.37.56%20%
-trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 4089ms | [5107][US][0][TROJAN][None][ext_raw.githubusercont
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&peer=loved-shark.rooster465.autos&security=tls#🇮🇪 IE Dublin 4122ms | IE   TROJAN-TCP-TLS - AMAZON-02  3.253.106.233
-trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls#🇸🇬 SG Singapore 4131ms | SG   TROJAN-TCP-TLS - AMAZON-02  52.221.218.179
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=none&type=tcp&sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 4160ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
-trojan://humanity@104.19.229.21:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇦 CA Toronto 4254ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&path=/#🇩🇪 DE Frankfurt 4369ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=safari#🇳🇱 NL Amsterdam 4405ms | %F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20
-trojan://humanity@45.87.41.18:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇳🇱 NL Groningen 4420ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 4423ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=holy-lamb.rooster465.autos#🇸🇬 SG Singapore 4487ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@172.67.139.14:443?path=/assignment&security=tls&alpn=http/1.1&fm=%7&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 4496ms | @DeltaKroneckerGithub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@194.87.6.192:2097?security=tls&sni=ger6.fytpn.com&fp=firefox&type=tcp&headerType=none#🇷🇴 RO Bucharest 4565ms |  By EbraSha 🌪️
-trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 4575ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
-trojan://humanity@104.19.230.21:443?security=tls&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&fp=chrome&alpn=http%2F1.1&allowInsecure=0#🇨🇦 CA Toronto 4607ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.19.230.21%20
-trojan://humanity@172.67.118.45:443?type=ws&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇨🇦 CA Toronto 4692ms | @DeltaKroneckerGithub
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&amp;sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 4803ms |  By EbraSha 🦾
-trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 4839ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-139
-trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&allowInsecure=0&type=tcp#🌍 ?? 4851ms | %5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-19
-trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&peer=comic-poodle.rooster465.autos&security=tls#🇯🇵 JP Tokyo 4892ms | JP   TROJAN-TCP-TLS - AMAZON-02  54.249.36.167
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&path=/#🇩🇪 DE Frankfurt 4979ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
-trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 SC Victoria 5046ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-5
-trojan://UX82473651@63.178.198.94:443?sni=pleased-albacore.rooster465.autos&path=/#🌍 ?? 5089ms | %5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-11
-trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 5124ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#🇺🇸 US San Francisco 5441ms | EPODONIOS
-trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#🇮🇪 IE Dublin 5544ms | %5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-26
-trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#🇯🇵 JP Tokyo 5571ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&type=tcp&sni=comic-poodle.rooster465.autos#🌍 ?? 5736ms | %F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_88
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?allowInsecure=0&sni=#🇩🇪 DE Frankfurt am Main 5757ms | %E7%BE%8E%E5%9B%BD_1009192690
-trojan://humanity@172.67.200.219:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#🇨🇦 CA Toronto 5797ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 5869ms | 🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=none&type=tcp&sni=inviting-ferret.rooster465.autos#🇸🇬 SG Singapore 5900ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
-trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 5945ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://123444@188.114.97.6:443?type=ws&security=tls&fp=random&host=northrendserver.sherekontop.workers.dev&ed=2560#🇨🇦 CA Toronto 140ms | %F0%9F%8C%90%20Cloudflare%20%7C%20188.114.97.6%20%
+trojan://trojan@104.18.35.86:8443?security=tls&sni=longwanghen.pages.dev&type=ws&path=/&Host=longwanghen.pages.dev#🇨🇦 CA Toronto 151ms | %F0%9F%8F%81RELAY-104.18.35.86-0676
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?sni=www.7770031.xyz&type=tcp#🇺🇸 US Los Angeles 155ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?allowInsecure=0&sni=alert-titmouse.rooster465.autos#🇺🇸 US Boardman 198ms | [1744][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?security=tls&type=tcp&sni=www.7770031.xyz#🇺🇸 US Los Angeles 207ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_53
+trojan://UX82473651@guided-ferret.rooster465.autos:443?security=tls&fp=chrome&sni=guided-ferret.rooster465.autos#🌍 ?? 211ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cf.shiranyu.xyz#🇺🇸 US Los Angeles 217ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?security=tls&sni=alert-titmouse.rooster465.autos#🇺🇸 US Boardman 230ms | EPODONIOS
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?sni=alert-titmouse.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#🇺🇸 US Boardman 232ms | [1749][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@guided-ferret.rooster465.autos:443?security=tls&sni=guided-ferret.rooster465.autos#🌍 ?? 234ms | EPODONIOS
+trojan://M7v%w11Se*@34.94.125.227:443?sni=mxlo.wsone.icu&type=tcp&fp=chrome#🇺🇸 US Los Angeles 260ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
+trojan://UX82473651@pro-mako.rooster465.autos:443?allowInsecure=0&sni=pro-mako.rooster465.autos#🇺🇸 US Boardman 280ms | v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%2
+trojan://r137979f@104.19.63.25:2083?sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F#🇨🇦 CA Toronto 295ms | @DeltaKroneckerGithub
+trojan://UX82473651@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&type=tcp&fp=chrome#🇺🇸 US Boardman 333ms | US 🇺🇸 | @Raydikalx | 4ACC62
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos#🇯🇵 JP Tokyo 477ms | EPODONIOS
+trojan://UX82473651@warm-krill.rooster465.autos:443?allowInsecure=0&sni=warm-krill.rooster465.autos#🇯🇵 JP Tokyo 481ms | [2199][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos&security=tls#🇯🇵 JP Tokyo 482ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?allowInsecure=0&sni=equipped-stingray.rooster465.autos#🇯🇵 JP Tokyo 487ms | [1837][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@104.17.44.17:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 498ms | EPODONIOS
+trojan://UX82473651@stable-python.rooster465.autos:443?type=tcp&security=tls&sni=stable-python.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 502ms | [2187][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=0&type=tcp#🇮🇪 IE Dublin 508ms | [1994][IE][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#🇯🇵 JP Tokyo 510ms | [1756][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=normal-macaque.rooster465.autos#🇯🇵 JP Tokyo 511ms | [2042][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 516ms | [1898][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls#🇯🇵 JP Tokyo 517ms | %F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20C
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&fp=chrome&sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos#🇯🇵 JP Tokyo 518ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos#🇮🇪 IE Dublin 518ms | [1737][IE][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 521ms | [1840][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&peer=normal-macaque.rooster465.autos&security=tls#🇯🇵 JP Tokyo 534ms | %F0%9F%87%AF%F0%9F%87%B5%20Япония%2C%20Shibuya%20C
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#🇮🇪 IE Dublin 535ms | v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%2
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE Dublin 537ms | [1742][IE][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 537ms | EPODONIOS
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#🇮🇪 IE Dublin 539ms | [1743][IE][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@guided-ferret.rooster465.autos:443?security=none&type=tcp&sni=guided-ferret.rooster465.autos#🌍 ?? 543ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
+trojan://humanity@185.114.72.31:2053?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇪🇸 ES Madrid 546ms | EPODONIOS
+trojan://UX82473651@43.207.198.39:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 JP Tokyo 557ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 562ms | JP 🇯🇵 | @Raydikalx | 0CC291
+trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=0&sni=legible-ram.rooster465.autos#🇯🇵 JP Tokyo 570ms | [1959][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos#🇯🇵 JP Tokyo 572ms | EPODONIOS
+trojan://UX82473651@34.242.77.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 575ms | EPODONIOS
+trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#🇯🇵 JP Tokyo 583ms | EPODONIOS
+trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?security=tls&sni=cuddly-sheepdog.rooster465.autos#🇩🇪 DE Frankfurt 588ms | EPODONIOS
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#🇯🇵 JP Tokyo 609ms | EPODONIOS
+trojan://UX82473651@54.238.153.132:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇯🇵 JP Tokyo 612ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-182
+trojan://UX82473651@assuring-skink.rooster465.autos:443?security=none&type=tcp&sni=assuring-skink.rooster465.autos#🇯🇵 JP Tokyo 624ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@34.220.15.24:443?type=tcp&security=tls&sni=guided-ferret.rooster465.autos&fp=chrome#🇺🇸 US Boardman 627ms | %5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-366
+trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#🇸🇨 SC Victoria 627ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
+trojan://UX82473651@3.34.192.47:443?type=tcp&security=tls&sni=central-jawfish.rooster465.autos&fp=chrome#🇰🇷 KR Incheon 629ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
+trojan://UX82473651@13.231.247.130:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concrete-aardvark.rooster465.autos#🇯🇵 JP Tokyo 631ms |  By EbraSha 🐺
+trojan://Trojan@82164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇬🇧 GB London 632ms | EPODONIOS
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos#🇰🇷 KR Incheon 636ms | EPODONIOS
+trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=chrome&spx=/3b2238cdad49967&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9b6b4ff59dce3d#🇨🇭 CH Geneva 640ms | EPODONIOS
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=none&type=tcp&sni=main-fawn.rooster465.autos#🌍 ?? 643ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 644ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#🇰🇷 KR Incheon 645ms | EPODONIOS
+trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 649ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@172.67.217.240:443?security=tls&sni=www.calmlunch.com&fp=unsafe&type=ws&path=%2Fassignment#🇨🇦 CA Toronto 650ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-1505
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#🇰🇷 KR Incheon 651ms | EPODONIOS
+trojan://UX82473651@inviting-rabbit.rooster465.autos:443?allowInsecure=0&sni=inviting-rabbit.rooster465.autos#🇰🇷 KR Incheon 653ms | [1948][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@glorious-lark.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=glorious-lark.rooster465.autos#🇰🇷 KR Incheon 657ms | EPODONIOS
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#🇨🇦 CA Toronto 658ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_116
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#🇯🇵 JP Tokyo 663ms | EPODONIOS
+trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ie.tronsg.com#🇮🇪 IE Dublin 672ms | EPODONIOS
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&type=tcp#🌍 ?? 672ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#🇨🇦 CA Toronto 675ms | 🔒
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&type=tcp#🇯🇵 JP Tokyo 677ms | @DeltaKroneckerGithub
+trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos#🇯🇵 JP Tokyo 679ms | EPODONIOS
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&allowInsecure=0#🇯🇵 JP Tokyo 683ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-183
+trojan://UX82473651@legible-ram.rooster465.autos:443?security=tls&sni=legible-ram.rooster465.autos#🇯🇵 JP Tokyo 684ms | EPODONIOS
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=warm-krill.rooster465.autos#🇯🇵 JP Tokyo 685ms | EPODONIOS
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#🇯🇵 JP Tokyo 686ms | EPODONIOS
+trojan://UX82473651@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#🇰🇷 KR Incheon 686ms | [1859][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#🌍 ?? 689ms | EPODONIOS
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=firefox&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 691ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=none&type=tcp&sni=concrete-aardvark.rooster465.autos#🌍 ?? 693ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#🇯🇵 JP Tokyo 698ms | EPODONIOS
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#🇨🇦 CA Toronto 699ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-1532
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 701ms | EPODONIOS
+trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&peer=ie.tronsg.com&security=tls#🇮🇪 IE Dublin 702ms | IE   TROJAN-TCP-TLS - AMAZON-02  3.255.76.207
+trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🇨🇦 CA Toronto 704ms | @DeltaKroneckerGithub
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&type=tcp&path=/#🇯🇵 JP 706ms | JP 🇯🇵 | @Raydikalx | 750BD2
+trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 713ms | EPODONIOS
+trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 716ms | [1791][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&peer=brief-glider.rooster465.autos&security=tls#🇯🇵 JP Tokyo 716ms | JP   TROJAN-TCP-TLS - AMAZON-02  13.230.139.12
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇨🇦 CA Toronto 717ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.19.64.105%20
+trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=/assignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 CA Toronto 718ms | EPODONIOS
+trojan://UX82473651@43.207.89.91:443?security=tls&sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&headerType=none#🌍 ?? 719ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-45
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&peer=fancy-javelin.rooster465.autos&security=tls#🇯🇵 JP Tokyo 719ms | JP   TROJAN-TCP-TLS - AMAZON-02  43.207.198.39
+trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=amazed-mako.rooster465.autos#🇯🇵 JP Tokyo 721ms | EPODONIOS
+trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos#🌍 ?? 721ms | 🔒
+trojan://UX82473651@central-jawfish.rooster465.autos:443?allowInsecure=0&sni=central-jawfish.rooster465.autos#🇰🇷 KR Incheon 723ms | [1783][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#🇨🇦 CA Toronto 725ms | @DeltaKroneckerGithub
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#🇯🇵 JP Tokyo 733ms | EPODONIOS
+trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE Dublin 734ms | IE 🇮🇪 | @Raydikalx | 8A1392
+trojan://UX82473651@cunning-grub.rooster465.autos:443?type=tcp&security=tls&sni=cunning-grub.rooster465.autos&fp=chrome#🇰🇷 KR Incheon 735ms |  By EbraSha ♣️
+trojan://UX82473651@54.249.36.167:443?allowInsecure=0&sni=comic-poodle.rooster465.autos#🇯🇵 JP Tokyo 738ms | %E6%97%A5%E6%9C%AC_100819009+L6
+trojan://UX82473651@obliging-louse.rooster465.autos:443?security=none&type=tcp&sni=obliging-louse.rooster465.autos#🌍 ?? 740ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 741ms | EPODONIOS
+trojan://UX82473651@inspired-hound.rooster465.autos:443?security=tls&sni=inspired-hound.rooster465.autos#🇸🇬 SG Singapore 742ms | EPODONIOS
+trojan://UX82473651@13.230.139.12:443?allowInsecure=0&sni=brief-glider.rooster465.autos#🌍 ?? 742ms | %E6%97%A5%E6%9C%AC_100819007+L0
+trojan://UX82473651@54.65.177.190:443?sni=winning-marten.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP 742ms | JP 🇯🇵 | @Raydikalx | 0C87FE
+trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇺🇸 US Boardman 743ms | US 🇺🇸 | @Raydikalx | 788DF5
+trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 743ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@working-tomcat.rooster465.autos:443?type=tcp&security=tls&sni=working-tomcat.rooster465.autos&fp=chrome#🇰🇷 KR Incheon 746ms | [2223][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 747ms | %5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-90
+trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&allowInsecure=0#🇯🇵 JP Tokyo 747ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-21
+trojan://humanity@chat.openai.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#🇨🇦 CA Toronto 748ms | [3288][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@3.35.207.188:443?sni=main-fawn.rooster465.autos&peer=main-fawn.rooster465.autos&security=tls#🇰🇷 KR Incheon 754ms | KR   TROJAN-TCP-TLS - AMAZON-02  3.35.207.188
+trojan://UX82473651@glorious-glider.rooster465.autos:443?allowInsecure=0&sni=glorious-glider.rooster465.autos#🇸🇬 SG Singapore 754ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
+trojan://r137979f@162.159.153.212:2087?type=ws&security=tls&fp=chrome&host=sheleqaz.emotionreza.workers.dev#🇨🇦 CA Toronto 759ms | %F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Haßfurt 760ms | EPODONIOS
+trojan://UX82473651@joint-ewe.rooster465.autos:443?security=tls&sni=joint-ewe.rooster465.autos#🇸🇬 SG Singapore 761ms | EPODONIOS
+trojan://humanity@172.64.145.133:443?security=tls&sni=www.pleadcourt.org&type=ws&path=%2Fassignment&host=www.pleadcourt.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#🇨🇦 CA Toronto 762ms | v2go%20%7C%20TROJAN%20%7C%20369
+trojan://UX82473651@fond-mammoth.rooster465.autos:443?type=tcp&security=tls&sni=fond-mammoth.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 762ms | [1874][SG][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#🇦🇹 AT Vienna 763ms | [3176][AT][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 766ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=safari#🇺🇸 US San Francisco 768ms | %F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20
+trojan://UX82473651@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#🇸🇬 SG Singapore 775ms | EPODONIOS
+trojan://UX82473651@3.75.93.113:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=meet-goshawk.rooster465.autos#🌍 ?? 782ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#🇨🇦 CA Toronto 783ms | %5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-384
+trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 784ms | %F0%9F%8C%90%20Cloudflare%20%7C%20188.114.97.6%20%
+trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE Dublin 784ms | IE 🇮🇪 | @Raydikalx | B5FBF2
+trojan://humanity@104.16.6.70:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 786ms | EPODONIOS
+trojan://UX82473651@54.199.66.128:443?type=tcp&security=tls&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 786ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-140
+trojan://UX82473651@54.249.36.167:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=comic-poodle.rooster465.autos#🇯🇵 JP Tokyo 792ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@54.65.177.190:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=winning-marten.rooster465.autos#🌍 ?? 795ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@43.201.100.203:443?type=tcp&security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 796ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-39
+trojan://UX82473651@3.35.207.188:443?allowInsecure=0&sni=main-fawn.rooster465.autos#🌍 ?? 798ms | %E9%9F%A9%E5%9B%BD_100819005+L3
+trojan://UX82473651@3.35.207.188:443?security=tls&sni=main-fawn.rooster465.autos&type=tcp&headerType=none&path=%2F#🇰🇷 KR Incheon 802ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
+trojan://sshs8_6481354771@86.38.247.109:2087?type=tcp&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#🇸🇬 SG Singapore 803ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
+trojan://UX82473651@ace-liger.rooster465.autos:443?type=tcp&security=tls&sni=ace-liger.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 809ms |  By EbraSha 🛰️
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos&peer=dynamic-imp.rooster465.autos&security=tls#🌍 ?? 809ms | JP   TROJAN-TCP-TLS - AMAZON-02  3.112.245.255
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome#🇺🇸 US San Francisco 813ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-379
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 820ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@176.34.5.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=assuring-skink.rooster465.autos#🇯🇵 JP Tokyo 820ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 828ms |  By EbraSha 👑
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&peer=evolving-platypus.rooster465.autos&security=tls#🌍 ?? 829ms | JP   TROJAN-TCP-TLS - AMAZON-02  52.192.217.187
+trojan://UX82473651@organic-caribou.rooster465.autos:443?security=none&type=tcp&sni=organic-caribou.rooster465.autos#🌍 ?? 830ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://humanity@31.77.126.2:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#🇨🇿 CZ Prague 832ms | @DeltaKroneckerGithub
+trojan://UX82473651@simple-molly.rooster465.autos:443?security=none&type=tcp&sni=simple-molly.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 833ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
+trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇨🇦 CA Toronto 843ms | %F0%9F%8F%81RELAY-162.159.91.211-0887
+trojan://UX82473651@working-tomcat.rooster465.autos:443?security=tls&sni=working-tomcat.rooster465.autos#🇰🇷 KR Incheon 849ms | EPODONIOS
+trojan://UX82473651@cunning-grub.rooster465.autos:443?security=tls&sni=cunning-grub.rooster465.autos#🇰🇷 KR Incheon 852ms | EPODONIOS
+trojan://UX82473651@glorious-lark.rooster465.autos:443?security=tls&sni=glorious-lark.rooster465.autos#🇰🇷 KR Incheon 853ms | EPODONIOS
+trojan://humanity@166.1.36.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 854ms | EPODONIOS
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 855ms | %5Bopenproxylist.com%5D%20NL%2015578121
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?allowInsecure=0&sni=cf.shiranyu.xyz#🇺🇸 US Los Angeles 856ms | %E7%BE%8E%E5%9B%BD_100819046+L0
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 856ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://humanity@188.42.145.180:443?sni=wWw.Volumeroot.cOm.&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#🇳🇱 NL Amsterdam 856ms | %F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%C2%B7%20C
+trojan://UX82473651@43.207.89.91:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=organic-caribou.rooster465.autos#🇯🇵 JP Tokyo 857ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-110
+trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#🇰🇷 KR Incheon 858ms | EPODONIOS
+trojan://UX82473651@noted-cougar.rooster465.autos:443?security=none&type=tcp&sni=noted-cougar.rooster465.autos#🇰🇷 KR Incheon 861ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 874ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@glorious-lark.rooster465.autos:443?sni=glorious-lark.rooster465.autos&type=tcp#🇰🇷 KR Incheon 877ms | @DeltaKroneckerGithub
+trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#🇰🇷 KR Incheon 878ms | EPODONIOS
+trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇧🇬 BG Sofia 879ms | EPODONIOS
+trojan://UX82473651@working-tomcat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=working-tomcat.rooster465.autos#🇰🇷 KR Incheon 885ms | EPODONIOS
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 885ms | [2003][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&amp;sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 890ms | [1958][DE][0][TROJAN][None][V2rayCollector][2026-1
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?security=tls&sni=rested-seahorse.rooster465.autos#🇸🇬 SG Singapore 893ms | EPODONIOS
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 896ms |  By EbraSha 🕶️
+trojan://UX82473651@13.125.69.162:443?sni=engaging-toucan.rooster465.autos&peer=engaging-toucan.rooster465.autos&security=tls#🌍 ?? 901ms | KR   TROJAN-TCP-TLS - AMAZON-02  13.125.69.162
+trojan://UX82473651@ace-liger.rooster465.autos:443?security=tls&sni=ace-liger.rooster465.autos#🇸🇬 SG Singapore 904ms | EPODONIOS
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 911ms | EPODONIOS
+trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 912ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&security=tls&fp=chrome&sni=optimum-snapper.rooster465.autos#🌍 ?? 912ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#🇯🇵 JP Tokyo 913ms | EPODONIOS
+trojan://UX82473651@musical-mouse.rooster465.autos:443?security=tls&sni=musical-mouse.rooster465.autos#🇸🇬 SG Singapore 918ms | EPODONIOS
+trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3, h2, http/1.1&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#🇨🇦 CA Toronto 921ms | EPODONIOS
+trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 922ms |  By EbraSha 🐺
+trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#🇸🇬 SG Singapore 926ms | EPODONIOS
+trojan://UX82473651@intense-wildcat.rooster465.autos:443?security=tls&sni=intense-wildcat.rooster465.autos#🇸🇬 SG Singapore 929ms | EPODONIOS
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#🇺🇸 US San Francisco 930ms | EPODONIOS
+trojan://UX82473651@fond-mammoth.rooster465.autos:443?security=tls&sni=fond-mammoth.rooster465.autos#🇸🇬 SG Singapore 932ms | EPODONIOS
+trojan://UX82473651@3.112.245.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=dynamic-imp.rooster465.autos#🇯🇵 JP Tokyo 935ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 935ms | %F0%9F%8C%90%20Cloudflare%20%7C%20188.114.97.6%20%
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?sni=rested-seahorse.rooster465.autos&type=tcp#🇸🇬 SG Singapore 938ms | @DeltaKroneckerGithub
+trojan://UX82473651@54.250.237.143:443?security=tls&sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 944ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 948ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 952ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-89
+trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&peer=holy-lamb.rooster465.autos&security=tls#🇸🇬 SG Singapore 956ms | SG   TROJAN-TCP-TLS - AMAZON-02  13.212.81.3
+trojan://UX82473651@3.112.245.255:443?sni=dynamic-imp.rooster465.autos&allowInsecure=0&type=tcp#🇯🇵 JP Tokyo 961ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@3.112.245.255:443?sni=dynamic-imp.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 969ms | JP 🇯🇵 | @Raydikalx | A7356E
+trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#🌍 ?? 970ms | EPODONIOS
+trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#🇯🇵 JP Tokyo 971ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#🇰🇷 KR Incheon 988ms | EPODONIOS
+trojan://UX82473651@13.230.91.226:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 989ms |  By EbraSha 🌑
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 990ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇺🇸 US Austin 990ms | EPODONIOS
+trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&allowInsecure=0#🇸🇬 SG Singapore 991ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-58
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org#🇨🇦 CA Toronto 994ms | %F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_166
+trojan://humanity@185.36.141.81:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇪🇪 EE Tallinn 995ms | %F0%9F%87%AA%F0%9F%87%AA%20Tallinn%2C%20EE%20%C2%B
+trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#🌍 ?? 1006ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.21.37.56:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1017ms | EPODONIOS
+trojan://r137979f@104.19.63.25:443?encryption=none&security=tls&sni=sheleqaz.emotionreza.workers.dev&fp=chrome&type=ws&host=sheleqaz.emotionreza.workers.dev&path=/?ed=2560#🇨🇦 CA Toronto 1019ms | v2go%20%7C%20TROJAN%20%7C%20857
+trojan://UX82473651@meet-goshawk.rooster465.autos:443#🇩🇪 DE Frankfurt 1026ms | [1956][DE][0][TROJAN][None][oneclickvpnkeys][2026-
+trojan://UX82473651@13.125.69.162:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none&path=%2F#🌍 ?? 1027ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
+trojan://UX82473651@34.220.15.24:443?type=tcp&security=tls&sni=guided-ferret.rooster465.autos#🇺🇸 US Boardman 1028ms | %5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1143
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 1042ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 1042ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=holy-lamb.rooster465.autos#🇸🇬 SG Singapore 1054ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@43.201.100.203:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 1057ms | EPODONIOS
+trojan://Trojan@82164024@3.255.76.207:443?type=tcp&security=tls&sni=ie.tronsg.com#🌍 ?? 1066ms |  By EbraSha 🧊
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?security=tls&sni=brave-tomcat.rooster465.autos#🇸🇬 SG Singapore 1067ms | EPODONIOS
+trojan://UX82473651@34.220.15.24:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=guided-ferret.rooster465.autos#🇺🇸 US Boardman 1071ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@pet-antelope.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;sni=#🌍 ?? 1071ms |  By EbraSha 🔌
+trojan://UX82473651@43.207.198.39:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#🌍 ?? 1072ms | %E6%97%A5%E6%9C%AC_100819008+L3
+trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 1078ms | EPODONIOS
+trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1078ms | [1845][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#🌍 ?? 1081ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-23
+trojan://UX82473651@3.75.93.113:443?sni=meet-goshawk.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1087ms | v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%2
+trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&path=/#🇩🇪 DE Frankfurt 1089ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?allowInsecure=0&sni=cheerful-swan.rooster465.autos#🇵🇱 PL Warsaw 1091ms |  By EbraSha 🧊
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1092ms | [3342][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 1093ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-139
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=safari#🇳🇱 NL Amsterdam 1096ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-19
+trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos#🌍 ?? 1106ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 1118ms | [2045][SG][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 1119ms | [1938][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 1122ms | EPODONIOS
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#🇰🇷 KR Incheon 1124ms | EPODONIOS
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#🇯🇵 JP Tokyo 1133ms | %E6%97%A5%E6%9C%AC_100819005
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 JP Tokyo 1136ms |  By EbraSha 🃏
+trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1137ms | JP 🇯🇵 | @Raydikalx | 7E1720
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1145ms | EPODONIOS
+trojan://UX82473651@3.253.106.233:443?security=none&type=tcp&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 1146ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
+trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1147ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&path=/#🇯🇵 JP Tokyo 1157ms | [3619][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@full-ox.rooster465.autos:443?allowInsecure=0&sni=full-ox.rooster465.autos#🇭🇰 HK Hong Kong 1158ms | %E9%A6%99%E6%B8%AF_101018158
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1159ms | JP 🇯🇵 | @Raydikalx | 4A4F3C
+trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 1160ms | EPODONIOS
+trojan://UX82473651@13.125.69.162:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=engaging-toucan.rooster465.autos#🌍 ?? 1161ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1164ms | [1833][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome#🇮🇪 IE Dublin 1168ms |  By EbraSha 🧨
+trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&amp;sni=accurate-frog.rooster465.autos#🇯🇵 JP Tokyo 1174ms | 🌟 @MTproxy22_v2ray
+trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 1206ms |  By EbraSha 🖥️
+trojan://UX82473651@3.120.109.26:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=actual-squid.rooster465.autos#🌍 ?? 1207ms | %5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-256
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1208ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#🌍 ?? 1217ms | %5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-26
+trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1223ms | [1824][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1230ms |  By EbraSha 🛡️
+trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1231ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇩🇪 DE Haßfurt 1236ms | %F0%9F%87%A9%F0%9F%87%AADE-185.220.100.168-0537
+trojan://UX82473651@13.230.91.226:443?security=tls&sni=musical-terrier.rooster465.autos#🌍 ?? 1237ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@3.35.207.188:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1239ms | EPODONIOS
+trojan://UX82473651@202.78.163.237:443?allowInsecure=0&sni=cheerful-swan.rooster465.autos#🇵🇱 PL Warsaw 1244ms | %E5%8D%A2%E6%A3%AE%E5%A0%A1_100819002+L35
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&fp=chrome&path=/#🇰🇷 KR Incheon 1255ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://humanity@185.220.100.168:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇩🇪 DE Haßfurt 1259ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 1262ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;sni=#🌍 ?? 1267ms |  By EbraSha 🚨
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&amp;sni=sacred-anemone.rooster465.autos#🌍 ?? 1276ms |  By EbraSha 🔐
+trojan://UX82473651@legible-ram.rooster465.autos:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 1276ms | [1967][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f#🌍 ?? 1286ms | [2169][IE][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1289ms | EPODONIOS
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=none&type=tcp&sni=musical-terrier.rooster465.autos#🇯🇵 JP Tokyo 1298ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@prime-corgi.rooster465.autos:443?security=none&type=tcp&sni=prime-corgi.rooster465.autos#🌍 ?? 1310ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 1313ms | EPODONIOS
+trojan://UX82473651@63.178.198.94:443?sni=pleased-albacore.rooster465.autos&type=tcp&fp=chrome#🇩🇪 DE Frankfurt 1315ms | DE 🇩🇪 | @Raydikalx | C885EF
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos#🌍 ?? 1320ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@glorious-glider.rooster465.autos:443?security=none&type=tcp&sni=glorious-glider.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 1341ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
+trojan://UX82473651@13.231.247.130:443?security=tls&sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome&allowInsecure=0#🇯🇵 JP Tokyo 1344ms | 🔒
+trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1346ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 1349ms | EPODONIOS
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&path=/#🇯🇵 JP Tokyo 1362ms | @DeltaKroneckerGithub
+trojan://UX82473651@3.35.207.188:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1365ms | EPODONIOS
+trojan://UX82473651@56.10.9.77:443?sni=inviting-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 1365ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
+trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1369ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#🇺🇸 US Boardman 1371ms | %E7%BE%8E%E5%9B%BD_1006192600
+trojan://Trojan@82164024@gb.tronsg.com:443?type=tcp&security=tls&sni=gb.tronsg.com&fp=chrome#🇬🇧 GB London 1380ms |  By EbraSha 🪐
+trojan://UX82473651@guided-ferret.rooster465.autos:443?type=raw#🇺🇸 US Boardman 1380ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
+trojan://UX82473651@63.178.198.94:443?sni=pleased-albacore.rooster465.autos&path=/#🇩🇪 DE Frankfurt 1390ms | %5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-11
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1392ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos#🇯🇵 JP Tokyo 1398ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@54.238.153.132:443?type=tcp&security=tls&sni=obliging-louse.rooster465.autos#🇯🇵 JP Tokyo 1407ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-12
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&amp;fp=chrome&amp;type=tcp&amp;path=#🌍 ?? 1415ms |  By EbraSha 🌀
+trojan://UX82473651@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos#🇰🇷 KR Incheon 1416ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@sacred-anemone.rooster465.autos:443#🌍 ?? 1419ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@3.120.109.26:443?allowInsecure=0&sni=actual-squid.rooster465.autos#🇩🇪 DE Frankfurt 1423ms | %E5%BE%B7%E5%9B%BD_100819014+L3
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA Toronto 1424ms | EPODONIOS
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇰🇷 KR Incheon 1427ms |  By EbraSha 🐉
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&peer=evolving-platypus.rooster465.autos&security=tls#🇯🇵 JP Tokyo 1429ms | JP   TROJAN-TCP-TLS - AMAZON-02  52.192.217.187
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1432ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=safari&type=ws&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 1433ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-21
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇨🇦 CA Toronto 1435ms | v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%2
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1439ms | [1970][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://Mehdi1234@172.64.144.251:2083?type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&ed=2560&eh=Sec-WebSocket-Protocol#🇨🇦 CA Toronto 1454ms | %F0%9F%8C%90%20Cloudflare%20%7C%20172.64.144.251%2
+trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&type=tcp&path=/#🇸🇬 SG Singapore 1456ms | SG 🇸🇬 | @Raydikalx | 3F94D0
+trojan://UX82473651@3.39.225.215:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1457ms | KR 🇰🇷 | @Raydikalx | 2669C3
+trojan://UX82473651@actual-squid.rooster465.autos:443?allowInsecure=0&sni=actual-squid.rooster465.autos#🇩🇪 DE Frankfurt 1463ms |  By EbraSha 🐺
+trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1465ms | %E6%97%A5%E6%9C%AC_100619135
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1466ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1473ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@52.78.203.191:443?security=tls&sni=delicate-buck.rooster465.autos&path=/#🇰🇷 KR 1480ms | KR 🇰🇷 | @Raydikalx | 83CF2B
+trojan://UX82473651@3.253.106.233:443?allowInsecure=0&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 1484ms | %E7%88%B1%E5%B0%94%E5%85%B0_100819003+L8
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=none&type=tcp&sni=fancy-javelin.rooster465.autos#🇯🇵 JP Tokyo 1496ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#🇯🇵 JP Tokyo 1505ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&peer=cheerful-swan.rooster465.autos&security=tls#🇵🇱 PL Warsaw 1512ms | v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%2
+trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1521ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1522ms | JP 🇯🇵 | @Raydikalx | 0A7D9E
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#🇯🇵 JP Tokyo 1525ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@43.201.100.203:443?security=tls&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 1527ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-56
+trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&path=/#🇩🇪 DE Frankfurt 1554ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://UX82473651@54.249.55.154:443?type=tcp&security=tls&sni=prime-corgi.rooster465.autos&fp=chrome#🇯🇵 JP Tokyo 1555ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-18
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1557ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos#🇮🇪 IE Dublin 1566ms | %F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos#🇯🇵 JP Tokyo 1567ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@52.221.220.227:443?security=tls&sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 1569ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
+trojan://UX82473651@52.221.220.227:443?type=tcp&security=tls&sni=pet-antelope.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 1572ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-98
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&type=tcp&fp=chrome#🇰🇷 KR Incheon 1587ms |  By EbraSha 💻
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&peer=organic-caribou.rooster465.autos&security=tls#🇯🇵 JP Tokyo 1593ms | JP   TROJAN-TCP-TLS - AMAZON-02  43.207.89.91
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#🇮🇪 IE Dublin 1602ms |  By EbraSha 🧩
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?path=/#🇯🇵 JP Tokyo 1602ms | [3687][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=raw#🇺🇸 US Boardman 1615ms | %F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%
+trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#🇰🇷 KR Incheon 1616ms | EPODONIOS
+trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=/3b2238cdad49967&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9b6b4ff59dce3d#🇨🇭 CH Geneva 1624ms | %5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-23
+trojan://UX82473651@13.125.69.162:443?allowInsecure=0&sni=engaging-toucan.rooster465.autos#🌍 ?? 1631ms | %E9%9F%A9%E5%9B%BD_100819004+L1
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1639ms | [1875][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;sni=#🇰🇷 KR Incheon 1651ms |  By EbraSha 🔋
+trojan://UX82473651@3.75.93.113:443?fp=chrome&sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 1653ms | EPODONIOS
+trojan://UX82473651@enabling-snipe.rooster465.autos:443?allowInsecure=0&sni=enabling-snipe.rooster465.autos#🇵🇱 PL Warsaw 1659ms | v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%2
+trojan://UX82473651@ace-liger.rooster465.autos:443?sni=ace-liger.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 1666ms | SG 🇸🇬 | @Raydikalx | CDF208
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&fp=chrome&path=/#🇸🇬 SG Singapore 1674ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 JP Tokyo 1678ms |  By EbraSha 📼
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1679ms | [3642][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@3.112.245.255:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=dynamic-imp.rooster465.autos#🇯🇵 JP Tokyo 1681ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 1682ms | [1810][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 KR Incheon 1683ms | [1866][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@3.34.131.153:443?allowInsecure=0&sni=pretty-rat.rooster465.autos#🇰🇷 KR Incheon 1686ms | %E9%9F%A9%E5%9B%BD_100819003+L3
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 1697ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.71.213%20
+trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=none&type=tcp&sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 1698ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos#🇰🇷 KR Incheon 1699ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@meet-goshawk.rooster465.autos:443?mux=1&amp;allowInsecure=1&amp;sni=meet-goshawk.rooster465.autos#🇩🇪 DE Frankfurt 1701ms | 德国-独享带宽(152)
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#🇩🇪 DE Frankfurt am Main 1706ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#🇮🇪 IE Dublin 1723ms |  By EbraSha 🐺
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🇨🇦 CA Toronto 1724ms | %5BOpenRay%5D%20%F0%9F%8C%90XX-444
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1738ms | [1948][IE][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@13.230.139.12:443?sni=brief-glider.rooster465.autos&path=/#🇯🇵 JP Tokyo 1739ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://UX82473651@13.125.69.162:443?sni=engaging-toucan.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 1742ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&amp;sni=musical-terrier.rooster465.autos#🌍 ?? 1758ms | 🌟 @MTproxy22_v2ray
+trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&type=tcp&sni=obliging-louse.rooster465.autos#🇯🇵 JP Tokyo 1764ms | %F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_83
+trojan://humanity@172.67.139.14:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1788ms | EPODONIOS
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.97.6:443?security=tls&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&alpn=http%2F1.1&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#🇨🇦 CA Toronto 1796ms | %F0%9F%8C%90%20Cloudflare%20%7C%20188.114.97.6%20%
+trojan://UX82473651@loved-shark.rooster465.autos:443?security=none&type=tcp&sni=loved-shark.rooster465.autos#🇮🇪 IE Dublin 1801ms | %F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=ios#🇺🇸 US San Francisco 1805ms | %F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20
+trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos#🇰🇷 KR Incheon 1807ms | %F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?security=none&type=tcp&sni=dynamic-imp.rooster465.autos#🌍 ?? 1808ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇪🇸 ES Madrid 1830ms | %F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-0464
+trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&fp=chrome&type=tcp&path=/#🇭🇰 HK Tuenmen 1830ms | v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%2
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 1840ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=safari#🇳🇱 NL Amsterdam 1845ms | %F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1870ms | [2990][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@actual-squid.rooster465.autos:443?security=none&type=tcp&sni=actual-squid.rooster465.autos&fp=chrome#🌍 ?? 1873ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://humanity@104.16.85.85:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 1891ms |  By EbraSha 📶
+trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 1896ms | %F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&path=/#🇰🇷 KR Incheon 1973ms | [3684][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos&peer=delicate-buck.rooster465.autos&security=tls#🇰🇷 KR Incheon 1978ms | KR   TROJAN-TCP-TLS - AMAZON-02  52.78.203.191
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=none&type=tcp&sni=inviting-ferret.rooster465.autos#🇸🇬 SG Singapore 1979ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 1983ms | JP 🇯🇵 | @Raydikalx | 7AF559
+trojan://UX82473651@3.34.131.153:443?sni=pretty-rat.rooster465.autos&peer=pretty-rat.rooster465.autos&security=tls#🌍 ?? 1986ms | KR   TROJAN-TCP-TLS - AMAZON-02  3.34.131.153
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&path=%2f#🇰🇷 KR Incheon 1993ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=none&type=raw&sni=optimum-snapper.rooster465.autos&fp=chrome#🌍 ?? 2012ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@pet-antelope.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#🌍 ?? 2021ms | v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%2
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&path=/#🇰🇷 KR Incheon 2022ms | [3633][KR][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=ios#🇳🇱 NL Amsterdam 2023ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-4
+trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 2042ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 2048ms | EPODONIOS
+trojan://humanity@172.67.118.45:443?type=ws&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇨🇦 CA Toronto 2069ms | @DeltaKroneckerGithub
+trojan://UX82473651@integral-rodent.rooster465.autos:443?security=none&type=tcp&sni=integral-rodent.rooster465.autos#🌍 ?? 2098ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 2106ms | JP 🇯🇵 | @Raydikalx | 3CC1AB
+trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&peer=obliging-louse.rooster465.autos&security=tls#🇯🇵 JP Tokyo 2106ms | JP   TROJAN-TCP-TLS - AMAZON-02  54.238.153.132
+trojan://UX82473651@63.178.198.94:443?sni=pleased-albacore.rooster465.autos&peer=pleased-albacore.rooster465.autos&security=tls#🇩🇪 DE Frankfurt 2114ms | DE   TROJAN-TCP-TLS - AMAZON-02  63.178.198.94
+trojan://humanity@104.18.35.86:443?security=tls&sni=www.volumerOot.coM.&type=ws&path=/assignment&Host=www.volumerOot.coM.#🇨🇦 CA Toronto 2114ms | %F0%9F%8F%81RELAY-104.18.35.86-0471
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 2120ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 2122ms | [2009][SG][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@52.78.203.191:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 2123ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 SG Singapore 2136ms | [1910][SG][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇺🇸 US Boardman 2183ms | [1897][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@delicate-buck.rooster465.autos:443?type=tcp&security=tls&sni=delicate-buck.rooster465.autos&fp=chrome#🇰🇷 KR Incheon 2191ms | v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%2
+trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 DE Frankfurt 2210ms | EPODONIOS
+trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz2.vatilon.cc:23823?security=tls&type=ws&host=us4.australiacaregroup.site&path=%2Ftrojan&sni=us4.australiacaregroup.site#🇸🇬 SG Singapore 2243ms | %F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD_191
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 2253ms | EPODONIOS
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?security=tls&sni=dynamic-imp.rooster465.autos#🇯🇵 JP Tokyo 2260ms | EPODONIOS
+trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos#🇸🇬 SG Singapore 2279ms | %F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20tr
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=none&type=tcp&sni=delicate-buck.rooster465.autos#🇰🇷 KR Incheon 2311ms | %F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B
+trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&peer=actual-squid.rooster465.autos&security=tls#🇩🇪 DE Frankfurt 2332ms | %F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=edge&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 2398ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 2455ms | EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL Amsterdam 2501ms | EPODONIOS
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#🇨🇦 CA Toronto 2506ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 2597ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.35.86:443?security=tls&sni=www.volumerOot.coM.&fp=unsafe&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&type=ws&host=www.volumerOot.coM.&path=%2Fassignment&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256#🇨🇦 CA Toronto 2611ms | @DeltaKroneckerGithub
+trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos#🌍 ?? 2662ms | EPODONIOS
+trojan://humanity@104.21.37.56:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 2667ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL Amsterdam 2679ms | EPODONIOS
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US San Francisco 2763ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.19.64.105:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 2799ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?sni=cf.shiranyu.xyz&type=raw#🇺🇸 US Los Angeles 2857ms | %F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%2
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP Tokyo 2869ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@52.78.203.191:443?type=tcp&security=tls&sni=delicate-buck.rooster465.autos&fp=chrome#🌍 ?? 2983ms | %5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-12
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com&fp=ios#🇳🇱 NL Amsterdam 3007ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-7
+trojan://UX82473651@63.178.198.94:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇩🇪 DE Frankfurt 3128ms | %E5%BE%B7%E5%9B%BD_100819015+L4
+trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos#🌍 ?? 3131ms | v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%2
+trojan://humanity@188.42.145.180:443?security=tls&type=ws&sni=www.volumeroot.com&path=/assignment&host=www.volumeroot.com#🇳🇱 NL Amsterdam 3142ms | %5Bopenproxylist.com%5D%20NL%2015567255
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&path=/#🌍 ?? 3146ms | [3639][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@104.18.4.5:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 3148ms | EPODONIOS
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&type=tcp&path=/#🇯🇵 JP Tokyo 3154ms | JP 🇯🇵 | @Raydikalx | 5FFB23
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#🇸🇬 SG Singapore 3165ms | EPODONIOS
+trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#🌍 ?? 3217ms | [1989][JP][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&path=/#🇸🇬 SG Singapore 3274ms | SG 🇸🇬 | @Raydikalx | 7EB582
+trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 3276ms | SG 🇸🇬 | @Raydikalx | A73F9F
+trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&fm=%7B%22tcp%22:%20%5B%7B%22type%22:%20%22fragment%22%2C%20%22settings%22:%20%7B%22packets%22:%20%22tlshello%22%2C%20%22lengths%22:%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22:%20%5B%220%22%5D%2C%20%22maxSplit%22:%20%220%22%7D%7D%2C%7B%22type%22:%20%22fragment%22%2C%20%22settings%22:%20%7B%22packets%22:%20%221-1%22%2C%20%22lengths%22:%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22:%20%5B%221%22%5D%2C%20%22maxSplit%22:%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA Toronto 3372ms | @DeltaKroneckerGithub
+trojan://UX82473651@56.10.9.77:443?type=tcp&security=tls&sni=inviting-ferret.rooster465.autos&fp=chrome#🇸🇬 SG Singapore 3417ms | %5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-144
+trojan://UX82473651@54.199.66.128:443?allowInsecure=0&sni=integral-rodent.rooster465.autos#🌍 ?? 3452ms | %E6%97%A5%E6%9C%AC_100819010+L6
+trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG 3550ms | SG 🇸🇬 | @Raydikalx | AF6CAE
+trojan://trj-qWC4DKUemeUYWSKA1xx7okumSKKw0QSX@38.181.42.136:9443?security=tls&type=tcp&sni=www.jqyverse.com#🇺🇸 US Los Angeles 3608ms | %F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_51
+trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA Toronto 3739ms | %F0%9F%8C%90%20Cloudflare%20%7C%20104.16.72.50%20%
+trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 US Austin 3742ms | %F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B
+trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&allowInsecure=0#🇯🇵 JP Tokyo 3773ms | %5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-91
+trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#🇨🇦 CA Toronto 3804ms | EPODONIOS
+trojan://humanity@172.64.150.28:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome&alpn=h2&allowInsecure=0#🇨🇦 CA Toronto 3832ms | v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%2
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#🇳🇱 NL Amsterdam 3867ms | %5Bopenproxylist.com%5D%20NL%2015567255
+trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos&type=tcp&fp=chrome#🌍 ?? 3971ms | %F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%
+trojan://UX82473651@34.220.15.24:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=guided-ferret.rooster465.autos#🇺🇸 US Boardman 3987ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?sni=cf.shiranyu.xyz#🇺🇸 US Los Angeles 4071ms | EPODONIOS
+trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#🇨🇦 CA Toronto 4079ms | [2686][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#🇸🇬 SG Singapore 4084ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&type=tcp&fp=chrome#🇸🇬 SG Singapore 4251ms | SG 🇸🇬 | @Raydikalx | A9D4D6
+trojan://UX82473651@pet-antelope.rooster465.autos:443?security=none&type=tcp&sni=pet-antelope.rooster465.autos#🇸🇬 SG Singapore 4359ms | %F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos#🌍 ?? 4383ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
+trojan://humanity@www.calmlunch.com:443?security=tls&fp=chrome&type=ws&host=www.calmlunch.com&path=%2fassignment#🇨🇦 CA Toronto 4408ms | [3346][US][0][TROJAN][None][ext_raw.githubusercont
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE Frankfurt am Main 4746ms | 🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.27.21.22:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🇨🇦 CA Toronto 4784ms | v2go%20%7C%20TROJAN%20%7C%20361
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios#🇩🇪 DE Frankfurt am Main 4784ms | %F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C
+trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP Tokyo 5309ms |  By EbraSha 🌍
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=ios#🇳🇱 NL Amsterdam 5354ms | %5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-5
+trojan://UX82473651@54.199.66.128:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 5837ms |  By EbraSha ⚔️
+trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos#🇯🇵 JP Tokyo 5885ms | %F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20tr
+trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇸🇨 SC Victoria 5988ms | %F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20tr
